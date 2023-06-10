@@ -13,8 +13,8 @@ class RandomClassGenerator:
         self.tactical = ""
         self.lethal = ""
         self.perks = []
-        self.fieldUpgrades = []
-        self.killStreaks = []
+        self.field_upgrades = []
+        self.kill_streaks = []
 
     def add_weapon(self, weapon_name):
         if weapon_name not in self.weapons:
@@ -54,7 +54,14 @@ class RandomClassGenerator:
         self.lethal = all_lethals[random_index]
 
     def randomize_field_upgrades(self):
-        pass
+        field_upgrades = all_field_upgrades.copy()
+        self._add_field_upgrade_to_field_upgrades(field_upgrades)
+        self._add_field_upgrade_to_field_upgrades(field_upgrades)
+
+    def _add_field_upgrade_to_field_upgrades(self, field_upgrades):
+        random_index = random.randint(0, len(field_upgrades) - 1)
+        self.field_upgrades.append(field_upgrades[random_index])
+        del field_upgrades[random_index]
 
     def randomize_kill_streaks(self):
         pass
@@ -64,3 +71,14 @@ class RandomClassGenerator:
 
     def randomize_attachments(self, weapon):
         pass
+
+    def clear(self):
+        self.primary_weapon = ""
+        self.secondary_weapon = ""
+        self.primary_attachments = []
+        self.secondary_attachments = []
+        self.tactical = ""
+        self.lethal = ""
+        self.perks = []
+        self.field_upgrades = []
+        self.kill_streaks = []
