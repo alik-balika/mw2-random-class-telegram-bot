@@ -7,3 +7,6 @@ if __name__ == '__main__':
     generator = create_generator("../assets/modifications.csv", weapons, slots)
 
     generator.generate_random_class()
+    print(generator.perks)
+    print(generator.tactical)
+    print(generator.lethal)

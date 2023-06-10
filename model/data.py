@@ -37,3 +37,81 @@ all_perks = {
         "Birds' Eye",
     ],
 }
+
+all_tacticals = [
+  "Spotter Scope",
+  "Flash Grenade",
+  "Stun Grenade",
+  "Smoke Grenade",
+  "Snapshot Grenade",
+  "Heartbeat Sensor",
+  "Stim",
+  "Decoy Grenade",
+  "Tear Gas",
+  "Shock Stick",
+]
+
+all_lethals = [
+  "Claymore",
+  "Frag Grenade",
+  "Molotov Cocktail",
+  "C4",
+  "Drill Charge",
+  "Semtex",
+  "Throwing Knife",
+  "Proximity Mine",
+  "Thermite",
+]
+
+all_field_upgrades = [
+  "Deployable Cover",
+  "Tactical Insertion",
+  "Trophy System",
+  "Portable Radar",
+  "Battle Rage",
+  "Suppression Mine",
+  "Loadout Drop",
+  "Tactical Camera",
+  "Munitions Box",
+  "Smoke Airdrop",
+  "Inflatable Decoy",
+  "Recon Drone",
+  "DDOS",
+  "Anti-Armor Rounds",
+  "Dead Silence",
+]
+
+all_kill_streaks = [
+  {
+    "streaks": ["UAV", "Bomb Drone"],
+    "kills": 4,
+  },
+  {
+    "streaks": ["Counter UAV", "Care Package", "Cluster Mine"],
+    "kills": 5,
+  },
+  {
+    "streaks": ["Precision Airstrike", "Cruise Missile", "Mortar Strike"],
+    "kills": 6,
+  },
+  {
+    "streaks": ["S.A.E", "Sentry Gun"],
+    "kills": 7,
+  },
+  {
+    "streaks": ["VTOL Jet", "Overwatch Helo", "Wheelson-HS"],
+    "kills": 8,
+  },
+  {
+    "streaks": ["Stealth Bomber", "Chopper Gunner", "Emergency Airdrop"],
+    "kills": 10,
+  },
+  {
+    "streaks": ["Gunship", "Advanced UAV"],
+    "kills": 12,
+  },
+  {
+    "streaks": ["Juggernaut"],
+    "kills": 15,
+  },
+]
