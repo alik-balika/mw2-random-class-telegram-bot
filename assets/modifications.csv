@@ -1,0 +1,6016 @@
+"id","itemid","modification","slotid"
+21071,64,"FTAC Hold",16
+21072,64,"FTAC Stead",16
+21073,64,"SUR-160",16
+20851,62,"B66 Pad",6
+20524,61,"Kastovia DX90",1
+20525,61,"Tempus GH50",1
+20643,31,".300 Mag Explosive",11
+20644,63,"1mW Quick Fire Laser",4
+20645,63,"Accu-Shot 5mW Laser",4
+20646,63,"VLK LZR 7mW",4
+20810,62,"Demo IMP-44 Grip",8
+20526,61,"TY-LR8",1
+20527,61,"Lockshot KT85",1
+20528,61,"Bore-490",1
+20529,61,"Sakin Tread-40",1
+20530,61,"GL Clear Breach",1
+20531,61,"TA HUL-Breach KL",1
+20532,61,"FR Titan Silencer",1
+20533,61,"SA Leveler 55",1
+20534,61,"Slimline Pro",5
+20535,61,"SZ Mini",5
+20536,61,"Cronen Mini Red Dot",5
+20537,61,"Cronen Mini Pro",5
+20538,61,"SZ Sigma-IV Optic",5
+20539,61,"SZ Minitac-40",5
+20540,61,"XRK On-Point Optic",5
+20541,61,"DF105 Reflex Sight",5
+20542,61,"Monocle CT90",5
+20543,61,"Corvus SOL-76",5
+20544,61,"SZ Recharge-DX",5
+20545,61,"SZ SRO-7",5
+20546,61,"Corio RE-X Pro",5
+20547,61,"Corio Enforcer Optic",5
+20548,61,"SZ Lonewolf Optic",5
+20549,61,"Kazan-Holo",5
+20550,61,"Corvus Downrange-00",5
+20551,61,"SZ Holotherm",5
+20552,61,"XTEN Angel-40",5
+20553,61,"VLK 4.0 Optic",5
+20554,61,"Schlager 3.4x",5
+20555,61,"Forge Tac Delta 4",5
+20556,61,"Cronen Zero-P Optic",5
+20557,61,"SZ Bullseye Optic",5
+20558,61,"SZ Aggressor-IR Optic",5
+20559,61,"Schlager Night View",5
+20560,61,"VX350 Thermal Optic",5
+20561,61,"Teplo-OP3 Scope",5
+20562,61,"DR582 Hybrid Sight",5
+20178,56,"SZ Mini",5
+20563,61,"Hybrid Firepoint",5
+20564,61,"SZ Vortex-90",5
+20565,61,"BPZ40 Hybrid",5
+20566,61,"Thermo-Optic X9",5
+20567,61,"Teplo Clear Shot",5
+20568,61,"FTAC Charlie7",5
+20569,61,"HMW-20 Optic",5
+20570,61,"Luca Bandera Scope",5
+20940,65,"SA Comp Barrel",2
+20941,65,"SA Longshot-50",2
+20794,62,"FTAC Charlie7",5
+20599,61,"Schlager Tango",8
+20600,61,"VX Pineapple",8
+20601,61,"OP-X9 Foregrip",8
+20602,61,"Operator Foregrip",8
+20603,61,"TV Wrecker Grip",8
+20604,61,"Bruen Tilt Grip",8
+20605,61,"Cronen Grooveshot Grip",8
+20606,61,"Bruen Warrior Grip",8
+20607,61,"Bipod V9 Grip",8
+20608,61,"Level Aim Bipod",8
+20609,61,"Cornerstone Bipod",8
+20610,61,"XTEN Stable Shot",8
+20611,61,"SPW 40mm",8
+20612,61,"Corvus Masterkey",8
+20613,61,"Commando Foregrip",8
+20614,61,"EXF Backdraft Grip",8
+20615,61,"XTEN Nexus Grip",8
+20616,61,"Core BP2",8
+20617,61,"7.62 Frangible",11
+20618,61,"7.62 Hollowpoint",11
+20619,61,"7.62 Armor Piercing",11
+20620,61,"7.62 Overpressured +P",11
+20621,61,"7.62 High Velocity",11
+20622,61,"7.62 Incendiary",11
+20623,61,"14"" Chroma LRS",2
+20624,61,"16"" Tour RP",2
+20625,61,"24"" Outreach 4",2
+20626,61,"12.5"" Rugged ZN",2
+20628,61,"50 Round Drum",13
+20629,61,"Ravage-8",6
+20630,61,"Demo Fade Pro Stock",6
+20950,65,"10 Round Mag",13
+20951,65,"13 Round Mag",13
+20952,64,"20 Round Mag",13
+20953,64,"50 Round Drum",13
+20631,61,"Demo Precision Elite Factory",6
+20632,61,"Corio Precio Factory",6
+20633,61,"Assault-60 Stock Factory",6
+20634,61,"PSO Heavy",6
+20635,61,"D15 Grip",16
+20636,61,"Sakin ZX Grip",16
+20637,61,"XTEN Grip",16
+20638,61,"Phantom Grip",16
+20639,61,"Support CP90 Grip",16
+20640,61,"Torrent Tac Guard",9
+20641,61,"TT-HG 40",9
+20642,61,"Torrent MOC-IV",9
+20308,57,"Wolfcall 300",1
+20310,57,"SZ Mini",5
+10930,16,"Cronen OP44",1
+20431,59,"SZ Lonewolf Optic",5
+20432,59,"Kazan-Holo",5
+20433,59,"Corvus Downrange-00",5
+20434,59,"SZ Holotherm",5
+20435,59,"XTEN Angel-40",5
+20436,59,"VLK 4.0 Optic",5
+20437,59,"Schlager 3.4x",5
+20438,59,"Forge Tac Delta 4",5
+20439,59,"Cronen Zero-P Optic",5
+20440,59,"SZ Bullseye Optic",5
+20441,59,"SZ Aggressor-IR Optic",5
+20442,59,"Schlager Night View",5
+20443,59,"VX350 Thermal Optic",5
+20444,59,"Teplo-OP3 Scope",5
+20445,59,"DR582 Hybrid Sight",5
+20446,59,"Hybrid Firepoint",5
+20447,59,"SZ Vortex-90",5
+20448,59,"BPZ40 Hybrid",5
+20449,59,"Thermo-Optic X9",5
+20450,59,"Teplo Clear Shot",5
+20451,59,"FTAC Charlie7",5
+20452,59,"HMW-20 Optic",5
+20453,59,"Luca Bandera Scope",5
+20454,59,"Drexsom Prime-90",5
+20455,59,"Ares Clear Shot",5
+20456,59,"DXS Coriolis V4",5
+20457,59,"Lachmann Impact 9",5
+20458,59,"SP-X 80 6.6x",5
+20459,59,"FTAC Locus SP",5
+20460,59,"Aim OP-V4",5
+20461,59,"SZ Battle Optic",5
+20463,59,"3x RFL-Optic",5
+20464,59,"Edge-47 Grip",8
+20465,59,"Demo Firm Grip",8
+20466,59,"XTEN Gravedigger",8
+20467,59,"FTAC Ripper 56",8
+20468,59,"Demo Cleanshot 40",8
+20469,59,"Demo IMP-44 Grip",8
+20649,63,"Hipshot L20",4
+20650,63,"Point-G3P 04",4
+20470,59,"FTAC Tiger Grip",8
+20471,59,"FSS Sharkfin 90",8
+10932,19,"Cronen OP44",1
+10933,20,"Cronen OP44",1
+20472,59,"Agent Grip",8
+20473,59,"Bruen Sync Shot Grip",8
+20474,59,"XTEN Drop Grip",8
+20476,59,"Merc Foregrip",8
+20477,59,"Lockgrip Precision-40",8
+20478,59,"Hex-40 Grip",8
+20479,59,"Schlager Tango",8
+20480,59,"VX Pineapple",8
+20481,59,"OP-X9 Foregrip",8
+20482,59,"Operator Foregrip",8
+20248,56,"Cornerstone Bipod",8
+20249,56,"XTEN Stable Shot",8
+20250,56,"Corvus Masterkey",8
+20251,56,"TL40 Fire Drake",8
+20252,56,"Commando Foregrip",8
+20253,56,"EXF Backdraft Grip",8
+20254,56,"Core BP2",8
+20255,56,"5.56 Frangible",11
+20256,56,"5.56 Hollowpoint",11
+20257,56,"5.56 Armor Piercing",11
+20258,56,"5.56 Overpressured +P",11
+20259,56,"5.56 High Velocity",11
+20260,56,".300 Blk Frangible",11
+20261,56,".300 Blk Hollowpoint",11
+20262,56,".300 Blk Armor Piercing",11
+20263,56,".300 Blk Overpressured +P",11
+20264,56,".300 Blackout",11
+20265,56,"RCQ-7",2
+20266,56,"Series 4-MR",2
+20267,56,"Cipher-121",2
+20268,56,"LR-30/56",2
+20486,59,"Bruen Warrior Grip",8
+20487,59,"Bipod V9 Grip",8
+20488,59,"Commando Foregrip",8
+20489,59,"EXF Backdraft Grip",8
+20490,59,"XTEN Nexus Grip",8
+20491,59,"FT Apex 1.5",6
+20492,59,"FT Dart CB",6
+20493,59,"FTAC Piercer",6
+20494,59,"Speedtrak Echo",6
+20495,59,"Thunder 200 LB",18
+20496,59,"Carbon Elite V3",18
+20497,59,"SO Momenti",18
+20498,59,"Quill XE 100 LB",18
+20499,59,"Brightblaze 20"" Bolts",19
+20501,59,"FTAC Caustic 20"" Bolts",19
+20502,59,"28-Strand Cable",20
+20503,59,"16-Strand Cable",20
+20269,56,"Fielder-T50",2
+20270,56,"45 Round Mag",13
+20954,64,"72 Round Drum",13
+20955,64,"Siege Wire Stock",6
+20956,64,"Heist-LW",6
+20651,63,"FJX Ultrabeam XR",4
+20652,63,"EXF Solarflare",4
+20271,56,"20 Round Mag",13
+20272,56,"R-Com S4",6
+20273,56,"Raid 90",6
+10934,36,"Cronen OP44",1
+10926,10,"Cronen OP44",1
+20275,56,"Res-2",6
+20276,56,"ISO Stockless Mod",6
+20277,56,"Sakin ZX Grip",16
+20278,56,"XTEN Grip",16
+20279,56,"Phantom Grip",16
+20280,56,"Support CP90 Grip",16
+14011,1,".50 Pistol Overpressured +P",11
+14014,3,".500 Hollowpoint",11
+14015,3,".500 Overpressured +P",11
+14016,3,".500 Snakeshot",11
+14017,10,"14"" Carbine Shroud",2
+14018,16,"14"" Carbine Shroud",2
+14019,10,"7.5"" Tempus Firebrand",2
+14020,29,"7.5"" Tempus Firebrand",2
+14021,10,"Tempus Trench Pro",2
+14022,29,"Tempus Trench Pro",2
+14023,10,"419mm EXF Barrel",2
+14024,29,"419mm EXF Barrel",2
+14025,10,"Hightower 20"" Barrel",2
+14026,10,"11.5"" T-H4 Barrel",2
+14027,16,"11.5"" T-H4 Barrel",2
+13926,24,"9mm Armor Piercing",11
+14028,10,"11.5"" Carbine Shroud",2
+14029,16,"11.5"" Carbine Shroud",2
+14031,29,"Bull Rider 16.5""",2
+14032,14,"FSS Cannonade 16""",2
+14033,14,"FSS-X7 Barrel",2
+14034,36,"FTAC Coldforge 16"" Barrel",2
+14036,8,"12"" Tacshort Barrel",2
+14038,28,"Lance-50 12"" Barrel",2
+14643,46,"Bruen Agent 90 Silencer",1
+14644,46,"Nilsound 90 Silencer",1
+14645,46,"H26 Ported Comp",1
+14646,46,"Legion Fire Comp",1
+10761,10,"Silentfire XG6",1
+10762,8,"Silentfire XG6",1
+10763,35,"Silentfire XG6",1
+10764,42,"Silentfire XG6",1
+10702,6,"FJX DIOD-70",4
+10703,1,"FJX DIOD-70",4
+10765,16,"Silentfire XG6",1
+10766,43,"Silentfire XG6",1
+10767,19,"Silentfire XG6",1
+10768,20,"Silentfire XG6",1
+10769,36,"Silentfire XG6",1
+14040,45,"15.5"" Theta-X13",2
+20323,57,"SZ Lonewolf Optic",5
+14041,45,"LR 1:7 20.5"" Barrel",2
+20957,64,"FTAC Folder",6
+20958,64,"FTAC Siege Stock",6
+20959,65,"EXF Shoreline Grip",16
+20653,63,"1mW Artemis Laser",4
+20654,63,"AP-390 Flash Hider",1
+14042,4,"KAS-10 584mm Barrel",2
+14043,17,"KAS-10 584mm Barrel",2
+14044,4,"KAS-7 406mm",2
+14048,19,"IG-K30 406mm",2
+14208,43,"20 Round Mag",13
+14224,38,"15 Round Mag",13
+20110,4,"FR Titan Silencer",1
+14049,4,"Kastovia 343",2
+14050,4,"342mm Sakin KL",2
+14051,19,"342mm Sakin KL",2
+14052,43,"SA Ultra III",2
+14077,24,"L38 Falcon 226mm",2
+20013,49,"Echoline GS-X",1
+14080,42,"Bruen Turaco 686mm",2
+14081,20,"Bruen Turaco 686mm",2
+14082,42,"FTAC FB20 (Hornet 20"") Barrel",2
+14083,20,"FTAC FB20 (Hornet 20"") Barrel",2
+14084,42,"18"" Bruen Guerilla",2
+14085,20,"18"" Bruen Guerilla",2
+14086,42,"24.4"" Bruen S-620",2
+14647,46,"Demon Helix XL",1
+14648,46,"Bruen L40 Kobra",1
+14649,46,"Talon Sixteen Silencer",1
+14650,46,"Bruen Counter-Ops",1
+14651,46,"Vigilante Comp",1
+14652,46,"SA Shroud Flash Hider",1
+14653,46,"Corio Enforcer Optic",5
+14654,46,"SZ Lonewolf Optic",5
+14655,46,"Kazan-Holo",5
+14087,20,"24.4"" Bruen S-620",2
+14088,42,"508mm Rear Guard",2
+14089,27,"508mm Rear Guard",2
+14090,42,"16.5"" Bruen S901",2
+14091,27,"16.5"" Bruen S901",2
+14093,34,"22"" Factory Fourteen Barrel",2
+14094,34,"22"" Boremaster Barrel",2
+14095,22,"22"" Boremaster Barrel",2
+14096,34,"18"" T300 Barrel",2
+14097,22,"18"" T300 Barrel",2
+14098,34,"16"" Chrome-Lined RFX40 Barrel",2
+14099,22,"16"" Chrome-Lined RFX40 Barrel",2
+14101,18,"Schlager RV-B",2
+14102,18,"Tango 228 Barrel",2
+14103,18,"Schlager L203 Barrel",2
+14104,18,"Lach-DX 203mm",2
+14105,18,"Lachmann Dart 165mm",2
+14107,18,"LM Series-7",2
+10704,5,"FJX DIOD-70",4
+13879,7,"7.62 Armor Piercing",11
+14108,26,"FTAC 8.5"" Recon",2
+14109,26,"Forge TAC Ninja",2
+14110,26,"Fennec Covert Force",2
+14111,26,"ZLR 16.5"" Ignition Barrel",2
+14112,26,"5.5"" Fennec Minitac",2
+20960,65,"EXF Resistance Grip",16
+20961,65,"GS .50 Wood Grain",16
+20962,65,"GS Magna Akimbo",16
+20657,63,"Demon Helix T7",1
+14113,15,"9.5"" Duke-30",2
+20324,57,"Kazan-Holo",5
+14119,39,"Matuzek 812 Barrel",2
+14120,39,"711mm Matuzek D50",2
+14127,33,"419mm Schlager Salvo",2
+14129,30,"21.5"" Bryson Shredder",2
+14130,11,"21.5"" Bryson Shredder",2
+20014,49,"Zulu-60",1
+14133,30,"18"" Demo Firewall",2
+14134,11,"18"" Demo Firewall",2
+14135,30,"16"" Bryson Shockwave",2
+14136,11,"16"" Bryson Shockwave",2
+14138,30,"8"" XRK CQB Barrel",2
+14140,2,"Kyzyl Dawn Barrel",2
+14141,2,"355mm GHS-55",2
+14142,2,"20"" Bruen Silver Series Barrel",2
+14146,7,"22.5"" Elevate-11",2
+14147,12,"22.5"" Elevate-11",2
+10975,18,"XTEN Black Kite",1
+10976,27,"XTEN Black Kite",1
+10977,24,"XTEN Black Kite",1
+10978,41,"XTEN Black Kite",1
+10979,14,"XTEN Black Kite",1
+10980,44,"XTEN Black Kite",1
+10981,15,"XTEN Black Kite",1
+10982,26,"XTEN Black Kite",1
+14148,7,"23.5"" Fluted R-67",2
+14149,25,"23.5"" Fluted R-67",2
+14150,7,"18.5"" XRK Resonate",2
+14151,32,"18.5"" XRK Resonate",2
+14152,7,"16"" ZLR Executor 80 Barrel",2
+14154,12,"16"" ZLR Executor 80 Barrel",2
+14155,7,"12.5"" Carbon Barrel",2
+14156,32,"12.5"" Carbon Barrel",2
+14157,32,"9"" TAC-CB 55",2
+14158,32,"18.5"" Bryson LR Factory",2
+14159,25,"18.5"" Bryson LR Factory",2
+14160,12,"18.5"" Bryson LR Factory",2
+14161,25,"22"" Cavalry Barrel",2
+14137,30,"16"" Bryson Factory",2
+14145,40,"26.5"" Demo Field Pro Barrel",2
+14165,9,"21"" Coyote Barrel",2
+14166,9,"25"" Buffalo Barrel",2
+14167,9,"22.5"" EXF Alamo",2
+14169,31,"17.5"" Orca Barrel",2
+14170,31,"19"" Silentfire Barrel",2
+14171,37,"FSS Jetstream",2
+14172,37,"21.5"" Fluted Fifty",2
+14173,37,"29"" TV Kilo-50",2
+14001,12,".300 Frangible",11
+14175,6,"XRK Tacops Barrel",2
+14176,6,"Matuzek Venom",2
+14178,1,"SA Brake Barrel",2
+20326,57,"SZ Holotherm",5
+20327,57,"XTEN Angel-40",5
+14180,1,"SA Longshot-50",2
+14181,1,"SA Tyrant Fifty",2
+20015,49,"Kastovia DX90",1
+20112,23,"FR Titan Silencer",1
+20113,34,"FR Titan Silencer",1
+10412,28,"Canted Vibro-Dot 7",4
+14185,13,"XRK LUC-9",2
+14656,46,"Corvus Downrange-00",5
+14657,46,"SZ Holotherm",5
+14658,46,"XTEN Angel-40",5
+14659,46,"VLK 4.0 Optic",5
+14661,46,"Forge Tac Delta 4",5
+14662,46,"Cronen Zero-P Optic",5
+14663,46,"SZ Bullseye Optic",5
+14664,46,"SZ Aggressor-IR Optic",5
+14665,46,"Schlager Night View",5
+14668,46,"DR582 Hybrid Sight",5
+14669,46,"Hybrid Firepoint",5
+14670,46,"SZ Vortex-90",5
+14671,46,"BPZ40 Hybrid",5
+14186,13,"Impact Point",2
+14187,3,"Bryson Snubby",2
+14188,3,"FTAC Fang Ported",2
+14189,3,"6.75"" Corvus Cougar 500",2
+14190,3,"10.5"" FTAC Arrow",2
+14191,3,"FTAC Carnivora 7""",2
+14192,10,"45 Round Mag",13
+14193,16,"45 Round Mag",13
+14194,10,"60 Round Mag",13
+14195,16,"60 Round Mag",13
+14196,16,"15 Round Magazine",13
+14197,29,"5 Round Mag",13
+14198,29,"15 Round Mag",13
+14199,36,"100 Round Box Mag",13
+14200,8,"40 Round Mag",13
+14201,8,"60 Round Mag",13
+14202,28,"30 Round Mag",13
+14203,28,"50 Round Drum",13
+14204,45,"15 Round Mag",13
+14205,45,"20 Round Mag",13
+14210,43,"45 Round Mag",13
+14211,19,"45 Round Mag",13
+14212,19,"60 Round Mag",13
+20032,49,"DF105 Reflex Sight",5
+14214,44,"Minibak Grip Mag",13
+14215,17,"100 Round Drum",13
+14218,35,"15 Round Mag",13
+14219,35,"40 Round Mag",13
+13880,38,"7.62 Armor Piercing",11
+14220,35,"60 Round Mag",13
+14667,46,"Teplo-OP3 Scope",5
+14222,23,"30 Round Mag",13
+14225,23,"10 Round Mag",13
+20328,57,"VLK 4.0 Optic",5
+20658,63,"Nilsound 90",1
+20659,63,"FTAC Dreadnought",1
+20329,57,"Schlager 3.4x",5
+14232,42,"42 Round Mag",13
+14233,20,"42 Round Mag",13
+20114,28,"FR Titan Silencer",1
+14235,20,"100 Round Mag",13
+14238,34,"25 Round Mag",13
+14239,22,"15 Round Mag",13
+14240,22,"20 Round Mag",13
+14241,18,"30 Round Mag",13
+14243,18,"60 Round Mag",13
+14244,26,"Fennec Double Tap Mod",13
+14245,26,"Fennec Mag 45",13
+14246,11,"5-Shell Mag",13
+14247,11,"12 Shell Mag",13
+14248,2,"125 Round Belt Mag",13
+14249,2,"150-Round Box Magazine",13
+14250,40,"100 Round Belt Mag",13
+14251,40,"50 Round Belt Mag",13
+14252,7,"10 Round Mag",13
+14255,25,"8-Round Magazine",13
+14256,12,"8-Round Magazine",13
+14257,31,"5 Round Mag",13
+14258,31,"15 Round Mag",13
+14259,37,"7 Round Magazine",13
+14339,17,"Heavy Support Stock",6
+14340,35,"LM-S Factory G79 Stock",6
+14341,23,"LM-S Factory G79 Stock",6
+14342,35,"Rapp-762 Factory",6
+14343,23,"Rapp-762 Factory",6
+14213,41,"45 Round Mag",13
+14344,38,"Rapp-762 Factory",6
+14345,35,"Lachmann S76 Factory Stock",6
+14346,24,"Lachmann S76 Factory Stock",6
+14347,21,"Lachmann S76 Factory Stock",6
+20655,63,"Ported DZ38",1
+20656,63,"Dark KX50 Flash Hider",1
+14349,35,"FT Mobile Stock",6
+14216,17,"30 Round Mag",13
+14217,17,"40 Round Mag",13
+14223,23,"15 Round Mag",13
+14227,24,"40 Round Mag",13
+14228,24,"50 Round Drum",13
+14351,24,"FT Mobile Stock",6
+14352,21,"FT Mobile Stock",6
+14353,38,"FT Mobile Stock",6
+14355,23,"Lachmann S9 Factory",6
+14356,23,"Meer Recoil-56 Factory Stock",6
+14357,24,"Meer Recoil-56 Factory Stock",6
+14358,21,"Meer Recoil-56 Factory Stock",6
+14359,38,"Meer Recoil-56 Factory Stock",6
+14360,24,"LM Stockless Mod",6
+13881,23,"7.62 Overpressured +P",11
+14361,42,"Bruen MX9 Stock",6
+14363,42,"Bruen HCR 56 Stock",6
+14369,22,"SO R55 Adaptor",6
+14370,34,"Model 1957 Stock",6
+20660,63,"FTAC Reaper",1
+14236,20,"30 Round Mag",13
+14371,22,"FTAC Valor Stock",6
+14372,22,"SO-90 Factory Stock",6
+14373,18,"LM Precision Stock",6
+14374,18,"Assault-60 Stock",6
+11352,11,"MACK8 Frost Bite",1
+14376,18,"VEL A-568 Collapsed",6
+14377,26,"Fennec Bullfighter",6
+14378,26,"FTAC XCommand Stock",6
+14379,26,"FTAC Locktight Stock",6
+14380,26,"Agile Assault-7 Stock",6
+14383,15,"Guard Duty Stock",6
+14384,15,"FSS Heavy Stock Pro",6
+14385,39,"Sweetspot Stock",6
+14386,39,"Cronen Marshal Stock",6
+14387,39,"Bryson Natural Series Stock",6
+14388,39,"Heist Stock Mod",6
+14389,33,"Resonance Stock Collapsed",6
+14390,33,"FSS Frame Stock",6
+14391,33,"Bryson Reverb-55 Stock",6
+14392,33,"Schlager Resonance",6
+14393,30,"FTAC Apollo Stock",6
+14394,11,"FTAC Apollo Stock",6
+14395,30,"FSS Guardian Stock",6
+14396,11,"FSS Guardian Stock",6
+14397,30,"FSS Watchman",6
+14398,30,"XTEN Ripcord Stock",6
+14399,11,"XTEN Ripcord Stock",6
+14400,30,"Stockless Pistol Grip",6
+14401,11,"Stockless Pistol Grip",6
+14402,30,"Sawed Off Mod",6
+14403,11,"Sawed Off Mod",6
+14404,11,"Bryson 800 Factory Stock",6
+14184,5,"XRK LUC-9",2
+14405,2,"Sakin Riptide Stock",6
+14407,2,"Cheetah STM Stock",6
+14408,40,"Demo H-40",6
+14409,40,"Demo Nimble Stock",6
+14411,40,"Demo Folding Stock",6
+14412,7,"Bryson Inforcer Stock",6
+20033,49,"Monocle CT90",5
+14413,7,"ZRL T70 Pad Extension",6
+14414,32,"FTAC EZX-Pro",6
+14415,32,"Assault-60 Stock",6
+14416,32,"XRK Specter Mod",6
+14417,25,"Bryson Streamline",6
+14666,46,"VX350 Thermal Optic",5
+14420,12,"PVZ-890 Tac Stock",6
+14421,9,"Demo VX509 Stock",6
+14422,9,"Lockwood Bullseye Stock",6
+14423,9,"Cut Off Stock Mod",6
+14425,31,"Cronen LW-88 Stock",6
+20330,57,"Forge Tac Delta 4",5
+14428,37,"SO Inline Stock",6
+14429,37,"FTAC Invisi-670 Stock",6
+14430,5,"XRK Pistol Stock",6
+14673,46,"Thermo-Optic X9",5
+14674,46,"Teplo Clear Shot",5
+20016,49,"Tempus GH50",1
+11858,1,"SZ Recharge-DX",5
+11421,42,"Slimline Pro",5
+11422,16,"Slimline Pro",5
+11423,43,"Slimline Pro",5
+11424,19,"Slimline Pro",5
+11425,23,"Slimline Pro",5
+11426,34,"Slimline Pro",5
+11427,28,"Slimline Pro",5
+11428,29,"Slimline Pro",5
+11429,18,"Slimline Pro",5
+11430,27,"Slimline Pro",5
+11431,24,"Slimline Pro",5
+11432,41,"Slimline Pro",5
+11433,14,"Slimline Pro",5
+11434,44,"Slimline Pro",5
+11435,15,"Slimline Pro",5
+11436,26,"Slimline Pro",5
+11437,39,"Slimline Pro",5
+11438,33,"Slimline Pro",5
+11439,30,"Slimline Pro",5
+11440,11,"Slimline Pro",5
+11441,2,"Slimline Pro",5
+11442,20,"Slimline Pro",5
+11443,36,"Slimline Pro",5
+11444,40,"Slimline Pro",5
+11445,17,"Slimline Pro",5
+11446,21,"Slimline Pro",5
+11447,22,"Slimline Pro",5
+11448,7,"Slimline Pro",5
+11449,9,"Slimline Pro",5
+11450,38,"Slimline Pro",5
+11451,32,"Slimline Pro",5
+11452,45,"Slimline Pro",5
+11453,6,"Slimline Pro",5
+20859,63,"Field-Wrapped Handle",21
+20860,63,"Keystone Handle",21
+11454,1,"Slimline Pro",5
+11455,5,"Slimline Pro",5
+11456,3,"Slimline Pro",5
+11457,13,"Slimline Pro",5
+14432,13,"XRK Bar Stock",6
+14433,13,"X13 Coachwhip Stock",6
+14434,10,"D15 Grip",16
+14436,29,"D15 Grip",16
+14437,14,"D15 Grip",16
+20034,49,"Corvus SOL-76",5
+13882,34,"7.62 Overpressured +P",11
+14438,36,"D15 Grip",16
+14439,10,"Sakin ZX Grip",16
+14440,16,"Sakin ZX Grip",16
+14677,46,"Luca Bandera Scope",5
+20331,57,"Cronen Zero-P Optic",5
+14678,46,"Drexsom Prime-90",5
+14679,46,"Ares Clear Shot",5
+14680,46,"DXS Coriolis V4",5
+14681,46,"Lachmann Impact 9",5
+14682,46,"SP-X 80 6.6x",5
+20661,63,"Bruen Agent 90",1
+20662,63,"Talon Sixteen",1
+14683,46,"FTAC Locus SP",5
+20116,17,"FR Titan Silencer",1
+20117,21,"FR Titan Silencer",1
+14692,46,"DS Farsight 11",5
+14693,46,"3x RFL-Optic",5
+14322,4,"Prolite TL3 Stock",6
+14694,46,"SZ Ultra 11.5x",5
+14695,46,"Drexsom Prime-90 2",5
+14696,46,"Level Aim Bipod",8
+14697,46,"Cornerstone Bipod",8
+14698,46,"XTEN Stable Shot",8
+14699,46,".50 Cal Frangible",11
+14700,46,".50 Cal Armor Piercing",11
+14701,46,".50 Cal Explosive",11
+14702,46,".50 Cal High Velocity",11
+14703,46,".50 Cal Incendiary",11
+14706,46,"26"" Mammoth HB50",2
+14707,46,"Executor 546",2
+14708,46,"7 Round Mag",13
+14709,46,"9 Round Mag",13
+14710,46,"FTAC Homeland",6
+14711,46,"XRK Bullseye",6
+14441,29,"Sakin ZX Grip",16
+14442,14,"Sakin ZX Grip",16
+14443,36,"Sakin ZX Grip",16
+14444,10,"XTEN Grip",16
+14445,16,"XTEN Grip",16
+14446,29,"XTEN Grip",16
+14447,14,"XTEN Grip",16
+14448,36,"XTEN Grip",16
+14449,10,"Phantom Grip",16
+14450,14,"Phantom Grip",16
+14451,10,"Support CP90 Grip",16
+14452,16,"Support CP90 Grip",16
+20861,64,"Series 710 Pistol Laser",4
+20862,64,"FJX DIOD-70",4
+14453,29,"Support CP90 Grip",16
+14454,8,"XRK Response Grip",16
+14455,28,"XRK Response Grip",16
+14457,8,"FSS Combat Grip",16
+14458,28,"FSS Combat Grip",16
+14459,45,"FSS Combat Grip",16
+14460,8,"Demo Cleanshot Grip",16
+14461,28,"Demo Cleanshot Grip",16
+14462,45,"Demo Cleanshot Grip",16
+14463,45,"TV Ergo Grip",16
+13883,28,"7.62 Overpressured +P",11
+14464,4,"Ivanov ST-70 Grip",16
+14465,43,"Ivanov ST-70 Grip",16
+14466,19,"Ivanov ST-70 Grip",16
+14469,17,"Ivanov ST-70 Grip",16
+14470,4,"Demo-X2 Grip",16
+14324,17,"Prolite TL3 Stock",6
+14471,43,"Demo-X2 Grip",16
+14472,19,"Demo-X2 Grip",16
+14473,41,"Demo-X2 Grip",16
+20019,49,"Bore-490",1
+20663,63,"EXF Relentless-40",1
+20664,63,"BVM-338",1
+14474,44,"Demo-X2 Grip",16
+14480,44,"True-TAC Grip",16
+14481,17,"True-TAC Grip",16
+20118,7,"FR Titan Silencer",1
+14482,35,"S-Grip Zero",16
+14483,23,"S-Grip Zero",16
+14484,35,"LM Cronus Grip",16
+14485,23,"LM Cronus Grip",16
+14486,24,"LM Cronus Grip",16
+10316,10,"Schlager PEQ Box IV",4
+10317,8,"Schlager PEQ Box IV",4
+10318,4,"Schlager PEQ Box IV",4
+10320,16,"Schlager PEQ Box IV",4
+10321,43,"Schlager PEQ Box IV",4
+10322,19,"Schlager PEQ Box IV",4
+10323,23,"Schlager PEQ Box IV",4
+10324,34,"Schlager PEQ Box IV",4
+10325,28,"Schlager PEQ Box IV",4
+10326,29,"Schlager PEQ Box IV",4
+10327,41,"Schlager PEQ Box IV",4
+10328,14,"Schlager PEQ Box IV",4
+10329,44,"Schlager PEQ Box IV",4
+10330,26,"Schlager PEQ Box IV",4
+10331,2,"Schlager PEQ Box IV",4
+10332,36,"Schlager PEQ Box IV",4
+10333,40,"Schlager PEQ Box IV",4
+10334,17,"Schlager PEQ Box IV",4
+14714,46,"Bruen G305 Grip",16
+14715,46,"STIP-40 Grip",16
+14716,46,"Bruen Q900 Grip",16
+14717,46,"Corvus Responder",9
+14718,48,"1mW Quick Fire Laser",4
+14719,48,"Accu-Shot 5mW Laser",4
+11827,43,"SZ Recharge-DX",5
+11828,19,"SZ Recharge-DX",5
+11829,23,"SZ Recharge-DX",5
+11830,34,"SZ Recharge-DX",5
+11831,28,"SZ Recharge-DX",5
+11832,29,"SZ Recharge-DX",5
+11833,18,"SZ Recharge-DX",5
+11834,27,"SZ Recharge-DX",5
+11835,24,"SZ Recharge-DX",5
+11838,44,"SZ Recharge-DX",5
+11840,26,"SZ Recharge-DX",5
+11841,39,"SZ Recharge-DX",5
+11842,33,"SZ Recharge-DX",5
+13884,2,"7.62 Overpressured +P",11
+11843,30,"SZ Recharge-DX",5
+11844,11,"SZ Recharge-DX",5
+11849,17,"SZ Recharge-DX",5
+11850,21,"SZ Recharge-DX",5
+11851,22,"SZ Recharge-DX",5
+11852,7,"SZ Recharge-DX",5
+11853,9,"SZ Recharge-DX",5
+11854,38,"SZ Recharge-DX",5
+11855,32,"SZ Recharge-DX",5
+11856,45,"SZ Recharge-DX",5
+11857,37,"SZ Recharge-DX",5
+20025,49,"Slimline Pro",5
+11860,13,"SZ Recharge-DX",5
+10336,22,"Schlager PEQ Box IV",4
+20665,63,"Cronen DM338",1
+10337,7,"Schlager PEQ Box IV",4
+10340,45,"Schlager PEQ Box IV",4
+10341,31,"Schlager PEQ Box IV",4
+10343,25,"Schlager PEQ Box IV",4
+20335,57,"VX350 Thermal Optic",5
+10344,12,"Schlager PEQ Box IV",4
+10346,8,"Corio LAZ-44 V3",4
+14721,48,"Schlager ULO-66 Laser",4
+14722,48,"Stovl TAC Laser",4
+14723,48,"Hipshot L20",4
+14724,48,"Point-G3P 04",4
+14725,48,"FJX Ultrabeam XR",4
+14726,48,"EXF Solarflare",4
+14727,48,"1mW Artemis Laser",4
+14728,48,"7mW Canted Laser",4
+14729,48,"XTEN RR-40",1
+14730,48,"Forge DX90-F",1
+14731,48,"SA Schalldämpfer 99",1
+14732,48,"Singuard MKV",1
+14733,48,"EXF Huntress-90",1
+14734,48,"XTEN Black Kite",1
+14735,48,"Bruen Pendulum",1
+14736,48,"AVR-T90 Comp",1
+14737,48,"FTAC Castle Comp",1
+14738,48,"XTEN Razor Comp",1
+14739,48,"XRK Sandstorm",1
+14740,48,"Lockshot KT85",1
+14741,48,"Bruen Cubic Comp",1
+14742,48,"Spiral V3.5 Flash Hider",1
+14743,48,"FOX-202 Flash Hider",1
+14744,48,"XRK Knockout Breach",1
+14746,48,"FSS Covert IV",1
+14747,48,"Lacerta Compensator",1
+14748,48,"Slimline Pro",5
+14749,48,"SZ Mini",5
+14751,48,"Cronen Mini Pro",5
+20863,64,"XTEN Sidearm-L400",4
+20864,64,"1mW Pistol Laser",4
+14752,48,"SZ Sigma-IV Optic",5
+11940,8,"Corio Enforcer Optic",5
+11942,35,"Corio Enforcer Optic",5
+11943,42,"Corio Enforcer Optic",5
+13885,21,"7.62 Overpressured +P",11
+11944,16,"Corio Enforcer Optic",5
+11945,43,"Corio Enforcer Optic",5
+11946,19,"Corio Enforcer Optic",5
+11947,23,"Corio Enforcer Optic",5
+11949,28,"Corio Enforcer Optic",5
+11950,29,"Corio Enforcer Optic",5
+11951,18,"Corio Enforcer Optic",5
+20026,49,"SZ Mini",5
+11952,27,"Corio Enforcer Optic",5
+20333,57,"SZ Aggressor-IR Optic",5
+12446,10,"VX350 Thermal Optic",5
+11954,41,"Corio Enforcer Optic",5
+11955,14,"Corio Enforcer Optic",5
+11956,44,"Corio Enforcer Optic",5
+20666,63,"Shred CP90",1
+11957,15,"Corio Enforcer Optic",5
+11958,26,"Corio Enforcer Optic",5
+11959,39,"Corio Enforcer Optic",5
+11961,30,"Corio Enforcer Optic",5
+11962,11,"Corio Enforcer Optic",5
+11963,2,"Corio Enforcer Optic",5
+10413,29,"Canted Vibro-Dot 7",4
+11964,20,"Corio Enforcer Optic",5
+11965,36,"Corio Enforcer Optic",5
+11966,40,"Corio Enforcer Optic",5
+11967,17,"Corio Enforcer Optic",5
+11968,21,"Corio Enforcer Optic",5
+11969,22,"Corio Enforcer Optic",5
+11970,7,"Corio Enforcer Optic",5
+11971,9,"Corio Enforcer Optic",5
+11972,38,"Corio Enforcer Optic",5
+11973,32,"Corio Enforcer Optic",5
+11974,45,"Corio Enforcer Optic",5
+11975,37,"Corio Enforcer Optic",5
+11976,1,"Corio Enforcer Optic",5
+11977,3,"Corio Enforcer Optic",5
+11978,13,"Corio Enforcer Optic",5
+14754,48,"XRK On-Point Optic",5
+14755,48,"DF105 Reflex Sight",5
+14759,48,"SZ SRO-7",5
+14760,48,"Corio RE-X Pro",5
+14762,48,"SZ Lonewolf Optic",5
+14763,48,"Kazan-Holo",5
+14764,48,"Corvus Downrange-00",5
+14765,48,"SZ Holotherm",5
+14766,48,"XTEN Angel-40",5
+14767,48,"VLK 4.0 Optic",5
+14769,48,"Forge Tac Delta 4",5
+20865,64,"DZM-1000 L",4
+20866,64,"FTAC Vortex 200",4
+14770,48,"Cronen Zero-P Optic",5
+14771,48,"SZ Bullseye Optic",5
+14772,48,"SZ Aggressor-IR Optic",5
+20036,49,"SZ SRO-7",5
+14775,48,"Teplo-OP3 Scope",5
+14776,48,"DR582 Hybrid Sight",5
+14777,48,"Hybrid Firepoint",5
+14778,48,"SZ Vortex-90",5
+14779,48,"BPZ40 Hybrid",5
+10357,14,"Corio LAZ-44 V3",4
+10358,44,"Corio LAZ-44 V3",4
+10359,26,"Corio LAZ-44 V3",4
+10360,2,"Corio LAZ-44 V3",4
+14323,19,"Prolite TL3 Stock",6
+20334,57,"Schlager Night View",5
+10361,36,"Corio LAZ-44 V3",4
+10362,40,"Corio LAZ-44 V3",4
+10363,17,"Corio LAZ-44 V3",4
+10364,21,"Corio LAZ-44 V3",4
+10366,7,"Corio LAZ-44 V3",4
+10367,38,"Corio LAZ-44 V3",4
+10368,32,"Corio LAZ-44 V3",4
+10369,45,"Corio LAZ-44 V3",4
+10370,31,"Corio LAZ-44 V3",4
+10371,37,"Corio LAZ-44 V3",4
+10374,10,"FSS OLE-V Laser",4
+20119,38,"FR Titan Silencer",1
+20120,32,"FR Titan Silencer",1
+10375,8,"FSS OLE-V Laser",4
+10376,4,"FSS OLE-V Laser",4
+10377,35,"FSS OLE-V Laser",4
+10378,16,"FSS OLE-V Laser",4
+10379,43,"FSS OLE-V Laser",4
+10380,19,"FSS OLE-V Laser",4
+10381,23,"FSS OLE-V Laser",4
+10382,34,"FSS OLE-V Laser",4
+10383,28,"FSS OLE-V Laser",4
+10384,29,"FSS OLE-V Laser",4
+10385,41,"FSS OLE-V Laser",4
+10386,14,"FSS OLE-V Laser",4
+10387,44,"FSS OLE-V Laser",4
+10388,26,"FSS OLE-V Laser",4
+10389,2,"FSS OLE-V Laser",4
+10390,36,"FSS OLE-V Laser",4
+10391,40,"FSS OLE-V Laser",4
+10392,17,"FSS OLE-V Laser",4
+10393,21,"FSS OLE-V Laser",4
+10474,36,"Stovl DR Laser Box",4
+10475,40,"Stovl DR Laser Box",4
+10476,17,"Stovl DR Laser Box",4
+10477,21,"Stovl DR Laser Box",4
+10478,22,"Stovl DR Laser Box",4
+10479,7,"Stovl DR Laser Box",4
+10480,38,"Stovl DR Laser Box",4
+10482,45,"Stovl DR Laser Box",4
+10483,31,"Stovl DR Laser Box",4
+20867,64,"XTEN RR-40",1
+10484,37,"Stovl DR Laser Box",4
+10485,25,"Stovl DR Laser Box",4
+10486,12,"Stovl DR Laser Box",4
+20035,49,"SZ Recharge-DX",5
+10487,10,"Corvus PEQ Beam-5",4
+10488,8,"Corvus PEQ Beam-5",4
+10489,4,"Corvus PEQ Beam-5",4
+11939,10,"Corio Enforcer Optic",5
+13886,22,"7.62 Overpressured +P",11
+13887,7,"7.62 Overpressured +P",11
+10490,35,"Corvus PEQ Beam-5",4
+10491,16,"Corvus PEQ Beam-5",4
+10492,43,"Corvus PEQ Beam-5",4
+10493,19,"Corvus PEQ Beam-5",4
+10494,23,"Corvus PEQ Beam-5",4
+10495,34,"Corvus PEQ Beam-5",4
+14855,47,"SZ Mini",5
+10497,29,"Corvus PEQ Beam-5",4
+10498,41,"Corvus PEQ Beam-5",4
+10500,44,"Corvus PEQ Beam-5",4
+10501,26,"Corvus PEQ Beam-5",4
+14326,43,"Markeev R7 Stock",6
+10503,36,"Corvus PEQ Beam-5",4
+20667,63,"XRK Kraken",1
+20668,63,"TA CG76",1
+20669,63,"VLK 4.0 Optic",5
+10504,40,"Corvus PEQ Beam-5",4
+10505,17,"Corvus PEQ Beam-5",4
+10506,21,"Corvus PEQ Beam-5",4
+10507,22,"Corvus PEQ Beam-5",4
+10508,7,"Corvus PEQ Beam-5",4
+10509,38,"Corvus PEQ Beam-5",4
+10510,32,"Corvus PEQ Beam-5",4
+10511,45,"Corvus PEQ Beam-5",4
+10512,31,"Corvus PEQ Beam-5",4
+10513,37,"Corvus PEQ Beam-5",4
+10514,25,"Corvus PEQ Beam-5",4
+11948,34,"Corio Enforcer Optic",5
+10515,12,"Corvus PEQ Beam-5",4
+10516,10,"FTAC Grimline Laser",4
+10517,8,"FTAC Grimline Laser",4
+10518,4,"FTAC Grimline Laser",4
+10519,35,"FTAC Grimline Laser",4
+10520,16,"FTAC Grimline Laser",4
+10521,43,"FTAC Grimline Laser",4
+10522,19,"FTAC Grimline Laser",4
+10523,23,"FTAC Grimline Laser",4
+10524,34,"FTAC Grimline Laser",4
+10525,28,"FTAC Grimline Laser",4
+10526,29,"FTAC Grimline Laser",4
+10527,41,"FTAC Grimline Laser",4
+10529,44,"FTAC Grimline Laser",4
+10530,26,"FTAC Grimline Laser",4
+10531,2,"FTAC Grimline Laser",4
+10532,36,"FTAC Grimline Laser",4
+10533,40,"FTAC Grimline Laser",4
+10534,17,"FTAC Grimline Laser",4
+20868,64,"Forge DX90-F",1
+10535,21,"FTAC Grimline Laser",4
+10536,22,"FTAC Grimline Laser",4
+10537,7,"FTAC Grimline Laser",4
+10538,38,"FTAC Grimline Laser",4
+10539,32,"FTAC Grimline Laser",4
+10540,45,"FTAC Grimline Laser",4
+10541,31,"FTAC Grimline Laser",4
+20037,49,"Corio RE-X Pro",5
+10542,37,"FTAC Grimline Laser",4
+10543,25,"FTAC Grimline Laser",4
+10544,12,"FTAC Grimline Laser",4
+10546,8,"Luminate-44",4
+10547,4,"Luminate-44",4
+10548,35,"Luminate-44",4
+10549,16,"Luminate-44",4
+12404,45,"SZ Aggressor-IR Optic",5
+12405,31,"SZ Aggressor-IR Optic",5
+12406,37,"SZ Aggressor-IR Optic",5
+12407,25,"SZ Aggressor-IR Optic",5
+14797,48,"OP-X9 Foregrip",8
+14798,48,"Operator Foregrip",8
+14801,48,"Cronen Grooveshot Grip",8
+14802,48,"Bruen Warrior Grip",8
+14803,48,"EXF Backdraft Grip",8
+14804,48,"XTEN Nexus Grip",8
+14806,48,"9mm Hollow Point",11
+14808,48,"9mm Overpressured +P",11
+20121,45,"FR Titan Silencer",1
+20122,4,"SA Leveler 55",1
+14809,48,"12"" Bruen SZ-36",2
+14810,48,"10.5"" Bruen Typhon",2
+14811,48,"6.5"" Bruen Drake",2
+14812,48,"4"" Thunderfire",2
+14813,48,"20 Round Mag",13
+14814,48,"50 Round Drum",13
+14815,48,"Ravage-8",6
+10414,41,"Canted Vibro-Dot 7",4
+14816,48,"Bruen Flash V4 Stock",6
+14817,48,"BR Stockless Mod",6
+14818,48,"Bruen GR-500",16
+14819,48,"D37 Grip",16
+14820,48,"Bruen Flash Grip",16
+14821,47,"1mW Quick Fire Laser",4
+14822,47,"Accu-Shot 5mW Laser",4
+14823,47,"VLK LZR 7mW",4
+14824,47,"Schlager ULO-66 Laser",4
+14825,47,"Stovl TAC Laser",4
+14826,47,"Hipshot L20",4
+14827,47,"Point-G3P 04",4
+14828,47,"FJX Ultrabeam XR",4
+14829,47,"EXF Solarflare",4
+14830,47,"1mW Artemis Laser",4
+14831,47,"7mW Canted Laser",4
+14832,47,"Corvus Slash Gen. 2",1
+14833,47,"Dark KX30",1
+14834,47,"VLK Koloss Flash Hider",1
+14835,47,"Broadhead-3DP",1
+14836,47,"Silentfire XG6",1
+14837,47,"Echoline GS-X",1
+14838,47,"Harbinger D20",1
+14839,47,"Echoless-80",1
+11292,18,"XRK Knockout Breach",1
+13888,38,"7.62 Overpressured +P",11
+14840,47,"FSS Covert V",1
+20038,49,"Corio Enforcer Optic",5
+12452,43,"VX350 Thermal Optic",5
+12453,19,"VX350 Thermal Optic",5
+12454,23,"VX350 Thermal Optic",5
+12455,34,"VX350 Thermal Optic",5
+12456,28,"VX350 Thermal Optic",5
+12457,29,"VX350 Thermal Optic",5
+12458,18,"VX350 Thermal Optic",5
+12459,27,"VX350 Thermal Optic",5
+12460,24,"VX350 Thermal Optic",5
+12461,41,"VX350 Thermal Optic",5
+12462,44,"VX350 Thermal Optic",5
+10603,42,"1mW Quick Fire Laser",4
+20336,57,"Teplo-OP3 Scope",5
+14865,47,"SZ SRO-7",5
+14866,47,"Corio RE-X Pro",5
+20670,63,"Schlager 3.4x",5
+20671,63,"Forge Tac Delta 4",5
+14867,47,"Corio Enforcer Optic",5
+14868,47,"SZ Lonewolf Optic",5
+14869,47,"Kazan-Holo",5
+14871,47,"SZ Holotherm",5
+14872,47,"XTEN Angel-40",5
+14873,47,"VLK 4.0 Optic",5
+10707,1,"XTEN Sidearm-L400",4
+10711,1,"1mW Pistol Laser",4
+10712,5,"1mW Pistol Laser",4
+10713,13,"1mW Pistol Laser",4
+10714,6,"DZM-1000 L",4
+10715,1,"DZM-1000 L",4
+10717,13,"DZM-1000 L",4
+10718,6,"FTAC Vortex 200",4
+13889,23,"7.62 High Velocity",11
+14875,47,"Forge Tac Delta 4",5
+20039,49,"SZ Lonewolf Optic",5
+14774,48,"VX350 Thermal Optic",5
+14877,47,"SZ Bullseye Optic",5
+14878,47,"SZ Aggressor-IR Optic",5
+14879,47,"Schlager Night View",5
+14881,47,"Teplo-OP3 Scope",5
+14882,47,"DR582 Hybrid Sight",5
+14883,47,"Hybrid Firepoint",5
+14884,47,"SZ Vortex-90",5
+14261,6,"12 Round Mag",13
+14885,47,"BPZ40 Hybrid",5
+14615,9,"Stallion Lever",12
+14887,47,"Thermo-Optic X9",5
+14888,47,"Teplo Clear Shot",5
+10719,1,"FTAC Vortex 200",4
+10720,5,"FTAC Vortex 200",4
+10721,13,"FTAC Vortex 200",4
+10722,3,"Basilisk Grip Laser",4
+10723,3,"Revo-LSD 7mW",4
+10724,3,"Corvus LZR-790",4
+10725,10,"Corvus Slash Gen. 2",1
+20869,64,"SA Schalldämpfer 99",1
+20870,64,"Singuard MKV",1
+20871,64,"EXF Huntress-90",1
+10726,8,"Corvus Slash Gen. 2",1
+20125,34,"SA Leveler 55",1
+20126,28,"SA Leveler 55",1
+10727,35,"Corvus Slash Gen. 2",1
+10728,42,"Corvus Slash Gen. 2",1
+10729,16,"Corvus Slash Gen. 2",1
+10730,43,"Corvus Slash Gen. 2",1
+10731,19,"Corvus Slash Gen. 2",1
+10732,20,"Corvus Slash Gen. 2",1
+10733,36,"Corvus Slash Gen. 2",1
+14329,44,"Markeev R7 Stock",6
+10737,42,"Dark KX30",1
+10738,16,"Dark KX30",1
+10739,43,"Dark KX30",1
+10740,19,"Dark KX30",1
+10741,20,"Dark KX30",1
+10742,36,"Dark KX30",1
+10743,10,"VLK Koloss Flash Hider",1
+14940,47,"Ravage-8",6
+20124,23,"SA Leveler 55",1
+10744,8,"VLK Koloss Flash Hider",1
+10745,35,"VLK Koloss Flash Hider",1
+10746,42,"VLK Koloss Flash Hider",1
+10747,16,"VLK Koloss Flash Hider",1
+10748,43,"VLK Koloss Flash Hider",1
+10734,10,"Dark KX30",1
+12451,16,"VX350 Thermal Optic",5
+10805,45,"Cronen Dark KX30",1
+10807,23,"Husher-65 Silencer",1
+10735,8,"Dark KX30",1
+12049,9,"Kazan-Holo",5
+10809,28,"Husher-65 Silencer",1
+10810,2,"Husher-65 Silencer",1
+10811,17,"Husher-65 Silencer",1
+20127,2,"SA Leveler 55",1
+10812,21,"Husher-65 Silencer",1
+10816,32,"Husher-65 Silencer",1
+10817,45,"Husher-65 Silencer",1
+10818,4,"Polarfire-S",1
+10819,23,"Polarfire-S",1
+10820,34,"Polarfire-S",1
+10821,28,"Polarfire-S",1
+10822,2,"Polarfire-S",1
+10823,17,"Polarfire-S",1
+10824,21,"Polarfire-S",1
+10825,22,"Polarfire-S",1
+10826,7,"Polarfire-S",1
+10827,38,"Polarfire-S",1
+10828,32,"Polarfire-S",1
+20040,49,"Kazan-Holo",5
+20041,49,"Corvus Downrange-00",5
+20673,63,"SZ Bullseye Optic",5
+10829,45,"Polarfire-S",1
+10830,4,"ZLR Talon 5",1
+10831,23,"ZLR Talon 5",1
+20872,64,"Bruen Pendulum",1
+14864,47,"SZ Recharge-DX",5
+10832,34,"ZLR Talon 5",1
+10833,28,"ZLR Talon 5",1
+10834,2,"ZLR Talon 5",1
+10836,21,"ZLR Talon 5",1
+10837,22,"ZLR Talon 5",1
+10838,7,"ZLR Talon 5",1
+10839,38,"ZLR Talon 5",1
+10840,32,"ZLR Talon 5",1
+10841,45,"ZLR Talon 5",1
+10842,10,"Echoline GS-X",1
+10646,24,"Stovl TAC Laser",4
+10843,8,"Echoline GS-X",1
+10844,4,"Echoline GS-X",1
+10845,35,"Echoline GS-X",1
+10846,42,"Echoline GS-X",1
+10847,16,"Echoline GS-X",1
+10848,43,"Echoline GS-X",1
+11414,3,"FTAC H50 Ported",1
+12957,31,"Raptor-FVM40",5
+12958,37,"Raptor-FVM40",5
+12959,25,"Raptor-FVM40",5
+12960,12,"Raptor-FVM40",5
+12961,10,"Edge-47 Grip",8
+12962,8,"Edge-47 Grip",8
+12963,4,"Edge-47 Grip",8
+12964,35,"Edge-47 Grip",8
+12965,42,"Edge-47 Grip",8
+20339,57,"SZ Vortex-90",5
+12966,16,"Edge-47 Grip",8
+12967,19,"Edge-47 Grip",8
+12968,23,"Edge-47 Grip",8
+12969,34,"Edge-47 Grip",8
+14890,47,"HMW-20 Optic",5
+14918,47,"TV Wrecker Grip",8
+14920,47,"Cronen Grooveshot Grip",8
+14921,47,"Bruen Warrior Grip",8
+14922,47,"Bipod V9 Grip",8
+20130,7,"SA Leveler 55",1
+14923,47,"Level Aim Bipod",8
+14924,47,"Cornerstone Bipod",8
+14925,47,"XTEN Stable Shot",8
+14927,47,"Corvus Masterkey",8
+10854,20,"Echoline GS-X",1
+10857,21,"Echoline GS-X",1
+10858,22,"Echoline GS-X",1
+10859,7,"Echoline GS-X",1
+10860,38,"Echoline GS-X",1
+10861,32,"Echoline GS-X",1
+10862,45,"Echoline GS-X",1
+10863,10,"Harbinger D20",1
+10864,8,"Harbinger D20",1
+10865,35,"Harbinger D20",1
+20674,63,"SZ Aggressor-IR Optic",5
+10866,42,"Harbinger D20",1
+10867,16,"Harbinger D20",1
+10868,43,"Harbinger D20",1
+10869,19,"Harbinger D20",1
+20873,64,"AVR-T90 Comp",1
+20874,64,"FTAC Castle Comp",1
+10870,20,"Harbinger D20",1
+10871,36,"Harbinger D20",1
+20042,49,"SZ Holotherm",5
+20340,57,"BPZ40 Hybrid",5
+20341,57,"Thermo-Optic X9",5
+10873,8,"Echoless-80",1
+10874,35,"Echoless-80",1
+10875,42,"Echoless-80",1
+10876,16,"Echoless-80",1
+10877,43,"Echoless-80",1
+10878,19,"Echoless-80",1
+10879,20,"Echoless-80",1
+10418,2,"Canted Vibro-Dot 7",4
+14330,43,"Spetsnaz S10 Stock",6
+10880,36,"Echoless-80",1
+10881,10,"FSS Covert V",1
+10882,8,"FSS Covert V",1
+10883,35,"FSS Covert V",1
+10885,16,"FSS Covert V",1
+10886,43,"FSS Covert V",1
+10887,19,"FSS Covert V",1
+10888,20,"FSS Covert V",1
+10889,36,"FSS Covert V",1
+10890,10,"Gauge-9 Mono",1
+10891,8,"Gauge-9 Mono",1
+10892,35,"Gauge-9 Mono",1
+14619,6,"Bruen MG80 Trigger",10
+10893,42,"Gauge-9 Mono",1
+10894,16,"Gauge-9 Mono",1
+10895,43,"Gauge-9 Mono",1
+10896,19,"Gauge-9 Mono",1
+10897,20,"Gauge-9 Mono",1
+10898,36,"Gauge-9 Mono",1
+13159,17,"FTAC Tiger Grip",8
+13160,21,"FTAC Tiger Grip",8
+13161,22,"FTAC Tiger Grip",8
+13162,9,"FTAC Tiger Grip",8
+12450,42,"VX350 Thermal Optic",5
+13163,38,"FTAC Tiger Grip",8
+13164,32,"FTAC Tiger Grip",8
+13165,45,"FTAC Tiger Grip",8
+10916,36,"Komodo Heavy",1
+10917,10,"XTEN Ported 290",1
+10918,8,"XTEN Ported 290",1
+10782,4,"TZL-90 V3",1
+10920,42,"XTEN Ported 290",1
+10921,16,"XTEN Ported 290",1
+10922,43,"XTEN Ported 290",1
+10923,19,"XTEN Ported 290",1
+10924,20,"XTEN Ported 290",1
+10925,36,"XTEN Ported 290",1
+10935,18,"XTEN RR-40",1
+10938,41,"XTEN RR-40",1
+10939,14,"XTEN RR-40",1
+10940,44,"XTEN RR-40",1
+10941,15,"XTEN RR-40",1
+10942,26,"XTEN RR-40",1
+20675,63,"Schlager Night View",5
+20677,63,"Teplo-OP3 Scope",5
+20875,64,"XRK Sandstorm",1
+10943,18,"Forge DX90-F",1
+14928,47,"Commando Foregrip",8
+11293,27,"XRK Knockout Breach",1
+11294,24,"XRK Knockout Breach",1
+11295,41,"XRK Knockout Breach",1
+11296,14,"XRK Knockout Breach",1
+11576,6,"Cronen Mini Pro",5
+11297,44,"XRK Knockout Breach",1
+11298,15,"XRK Knockout Breach",1
+11299,26,"XRK Knockout Breach",1
+10915,20,"Komodo Heavy",1
+13147,18,"FTAC Tiger Grip",8
+14929,47,"EXF Backdraft Grip",8
+14930,47,"XTEN Nexus Grip",8
+14931,47,"5.56 Frangible",11
+14933,47,"5.56 Armor Piercing",11
+14934,47,"5.56 Overpressured +P",11
+14935,47,"5.56 High Velocity",11
+14936,47,"14"" Bruen Echelon",2
+14937,47,"7"" Bruen B-M20",2
+14334,41,"Otrezat Stock",6
+14335,44,"Otrezat Stock",6
+14336,43,"VLK Stockless",6
+14337,41,"VLK Stockless",6
+14338,44,"VLK Stockless",6
+14487,38,"LM Cronus Grip",16
+14488,35,"LMK64 Grip",16
+13146,29,"FTAC Tiger Grip",8
+13892,2,"7.62 High Velocity",11
+13893,21,"7.62 High Velocity",11
+14938,47,"45 Round Mag",13
+14939,47,"60 Round Mag",13
+14942,47,"Bruen Flash V4 Stock",6
+14943,47,"Bruen GR-500",16
+14944,47,"D37 Grip",16
+14945,47,"Bruen Flash Grip",16
+10944,27,"Forge DX90-F",1
+20282,57,"Accu-Shot 5mW Laser",4
+20283,57,"VLK LZR 7mW",4
+10945,24,"Forge DX90-F",1
+10946,41,"Forge DX90-F",1
+11987,23,"SZ Lonewolf Optic",5
+10948,44,"Forge DX90-F",1
+10949,15,"Forge DX90-F",1
+10950,26,"Forge DX90-F",1
+10952,27,"SA Schalldämpfer 99",1
+10953,24,"SA Schalldämpfer 99",1
+10954,41,"SA Schalldämpfer 99",1
+10955,14,"SA Schalldämpfer 99",1
+20678,63,"DR582 Hybrid Sight",5
+10956,44,"SA Schalldämpfer 99",1
+10958,26,"SA Schalldämpfer 99",1
+10962,41,"Singuard MKV",1
+20876,64,"Bruen Cubic Comp",1
+20672,63,"Cronen Zero-P Optic",5
+10963,14,"Singuard MKV",1
+13166,37,"FTAC Tiger Grip",8
+10964,44,"Singuard MKV",1
+10965,15,"Singuard MKV",1
+10966,26,"Singuard MKV",1
+10967,18,"EXF Huntress-90",1
+10968,27,"EXF Huntress-90",1
+10969,24,"EXF Huntress-90",1
+20342,57,"Teplo Clear Shot",5
+20343,57,"Corio CQC Scope",5
+10970,41,"EXF Huntress-90",1
+10971,14,"EXF Huntress-90",1
+10972,44,"EXF Huntress-90",1
+10973,15,"EXF Huntress-90",1
+10974,26,"EXF Huntress-90",1
+10983,18,"Bruen Pendulum",1
+14489,23,"LMK64 Grip",16
+10984,27,"Bruen Pendulum",1
+10985,24,"Bruen Pendulum",1
+10987,14,"Bruen Pendulum",1
+10988,44,"Bruen Pendulum",1
+10989,15,"Bruen Pendulum",1
+14913,47,"Hex-40 Grip",8
+10991,18,"AVR-T90 Comp",1
+10992,27,"AVR-T90 Comp",1
+10993,24,"AVR-T90 Comp",1
+10994,41,"AVR-T90 Comp",1
+10996,44,"AVR-T90 Comp",1
+10997,15,"AVR-T90 Comp",1
+10998,26,"AVR-T90 Comp",1
+13894,22,"7.62 High Velocity",11
+13895,7,"7.62 High Velocity",11
+10999,10,"FTAC Castle Comp",1
+13318,33,"Phase-3 Grip",8
+13319,30,"Phase-3 Grip",8
+13320,11,"Phase-3 Grip",8
+13322,20,"Phase-3 Grip",8
+20284,57,"Schlager ULO-66 Laser",4
+20285,57,"Stovl TAC Laser",4
+13324,17,"Phase-3 Grip",8
+13325,21,"Phase-3 Grip",8
+13326,22,"Phase-3 Grip",8
+13327,9,"Phase-3 Grip",8
+13328,38,"Phase-3 Grip",8
+13329,32,"Phase-3 Grip",8
+13330,45,"Phase-3 Grip",8
+11006,18,"FTAC Castle Comp",1
+14333,43,"Otrezat Stock",6
+11007,27,"FTAC Castle Comp",1
+11013,26,"FTAC Castle Comp",1
+11014,20,"FTAC Castle Comp",1
+20679,63,"Hybrid Firepoint",5
+20680,63,"SZ Vortex-90",5
+11015,36,"FTAC Castle Comp",1
+11017,8,"XTEN Havoc 90",1
+20877,64,"Spiral V3.5 Flash Hider",1
+11018,35,"XTEN Havoc 90",1
+11019,42,"XTEN Havoc 90",1
+11020,16,"XTEN Havoc 90",1
+11021,43,"XTEN Havoc 90",1
+11023,20,"XTEN Havoc 90",1
+13423,9,"Hex-40 Grip",8
+13148,24,"FTAC Tiger Grip",8
+13424,38,"Hex-40 Grip",8
+13425,45,"Hex-40 Grip",8
+13426,37,"Hex-40 Grip",8
+13427,13,"Hex-40 Grip",8
+11301,27,"TA Hul-Breach",1
+11302,24,"TA Hul-Breach",1
+11303,41,"TA Hul-Breach",1
+11304,14,"TA Hul-Breach",1
+11305,44,"TA Hul-Breach",1
+11306,15,"TA Hul-Breach",1
+11307,26,"TA Hul-Breach",1
+11308,26,"Shikra Silencer",1
+11309,39,"Sakin DB 107",1
+11311,39,"GW Max-99",1
+11312,39,"DB-Big Bore Comp",1
+14490,21,"LMK64 Grip",16
+14491,38,"LMK64 Grip",16
+14492,23,"Lachmann TCG-10",16
+11022,19,"XTEN Havoc 90",1
+14493,24,"Lachmann TCG-10",16
+14622,6,"P890 Double Action",10
+14494,21,"Lachmann TCG-10",16
+14495,38,"Lachmann TCG-10",16
+14496,42,"Bruen G305 Grip Wrap",16
+14497,27,"Bruen G305 Grip Wrap",16
+14498,20,"Bruen G305 Grip Wrap",16
+14522,40,"STIP-40 Grip",16
+14499,42,"STIP-40 Grip",16
+14501,20,"STIP-40 Grip",16
+14502,42,"Bruen Q900 Grip",16
+14712,46,"XRK Rise 50",6
+14503,27,"Bruen Q900 Grip",16
+14504,20,"Bruen Q900 Grip",16
+14505,34,"Cronen EM55 Grip",16
+14506,22,"Cronen EM55 Grip",16
+14507,22,"FSS Spider Grip",16
+11313,39,"DB-Dread Comp",1
+11314,39,"MACK8 Shotgun Breach",1
+11315,39,"XTEN V1.3 Choke",1
+11316,39,"XTEN V2.0 Choke",1
+11317,39,"Bryson Series IX Choke",1
+13300,10,"Phase-3 Grip",8
+11000,8,"FTAC Castle Comp",1
+10990,26,"Bruen Pendulum",1
+11001,35,"FTAC Castle Comp",1
+20681,63,"BPZ40 Hybrid",5
+11002,42,"FTAC Castle Comp",1
+11003,16,"FTAC Castle Comp",1
+11004,43,"FTAC Castle Comp",1
+11005,19,"FTAC Castle Comp",1
+20878,64,"FOX-202 Flash Hider",1
+20879,64,"XRK Knockout Breach",1
+20880,64,"TA Hul-Breach",1
+11024,36,"XTEN Havoc 90",1
+20046,49,"Forge Tac Delta 4",5
+13797,20,"Bruen Heavy Bipod",8
+11025,4,"Zulu-60",1
+11026,23,"Zulu-60",1
+11027,34,"Zulu-60",1
+11028,28,"Zulu-60",1
+11029,2,"Zulu-60",1
+11031,21,"Zulu-60",1
+20345,57,"Aim OP-V4",5
+20346,57,"SZ Battle Optic",5
+14509,18,"Sakin Rubber Grip",16
+10419,36,"Canted Vibro-Dot 7",4
+10420,40,"Canted Vibro-Dot 7",4
+10421,17,"Canted Vibro-Dot 7",4
+10422,21,"Canted Vibro-Dot 7",4
+10423,22,"Canted Vibro-Dot 7",4
+10424,7,"Canted Vibro-Dot 7",4
+10425,38,"Canted Vibro-Dot 7",4
+10426,32,"Canted Vibro-Dot 7",4
+14510,18,"ZLR Combat Grip",16
+14511,18,"Schlager Soldier Grip",16
+14512,26,"Fennec Stippled Grip",16
+14513,26,"Fennec Textured Grip",16
+14514,26,"Fennec Rubber Grip",16
+14515,15,"Bruen G305 Grip Wrap",16
+14516,15,"STIP-40 Grip",16
+14517,15,"Bruen Q900 Grip",16
+14519,2,"STIP-40 Grip",16
+14520,2,"Bruen Q900 Grip Wrap",16
+14521,40,"Bruen G305 Grip Wrap",16
+14523,40,"Bruen Q900 Grip Wrap",16
+13896,38,"7.62 High Velocity",11
+14035,36,"FTAC SB",2
+14932,47,"5.56 Hollowpoint",11
+20288,57,"FJX Ultrabeam XR",4
+11033,7,"Zulu-60",1
+11035,32,"Zulu-60",1
+11040,28,"Kastovia DX90",1
+11042,17,"Kastovia DX90",1
+11043,21,"Kastovia DX90",1
+11044,22,"Kastovia DX90",1
+11045,7,"Kastovia DX90",1
+14660,46,"Schlager 3.4x",5
+11046,38,"Kastovia DX90",1
+11047,32,"Kastovia DX90",1
+11048,45,"Kastovia DX90",1
+11049,4,"Tempus GH50",1
+20683,63,"Thermo-Optic X9",5
+20684,63,"Teplo Clear Shot",5
+11051,34,"Tempus GH50",1
+11052,28,"Tempus GH50",1
+11053,2,"Tempus GH50",1
+20881,65,"EXF Fifty GS",1
+14907,47,"Agent Grip",8
+11054,17,"Tempus GH50",1
+11055,21,"Tempus GH50",1
+11056,22,"Tempus GH50",1
+11057,7,"Tempus GH50",1
+11058,38,"Tempus GH50",1
+11059,32,"Tempus GH50",1
+20047,49,"Cronen Zero-P Optic",5
+20048,49,"SZ Bullseye Optic",5
+20049,49,"Schlager Night View",5
+20050,49,"VX350 Thermal Optic",5
+20051,49,"Teplo-OP3 Scope",5
+20052,49,"DR582 Hybrid Sight",5
+20053,49,"Hybrid Firepoint",5
+20054,49,"SZ Vortex-90",5
+20347,57,"SZ Oscar-9",5
+20348,57,"Edge-47 Grip",8
+14332,44,"Spetsnaz S10 Stock",6
+11060,45,"Tempus GH50",1
+11061,4,"TY-LR8",1
+11062,23,"TY-LR8",1
+11063,34,"TY-LR8",1
+11064,28,"TY-LR8",1
+11065,2,"TY-LR8",1
+11066,17,"TY-LR8",1
+11067,21,"TY-LR8",1
+11068,22,"TY-LR8",1
+11069,7,"TY-LR8",1
+11070,38,"TY-LR8",1
+11071,32,"TY-LR8",1
+11072,45,"TY-LR8",1
+11073,18,"XTEN Razor Comp",1
+11074,27,"XTEN Razor Comp",1
+11075,24,"XTEN Razor Comp",1
+11076,41,"XTEN Razor Comp",1
+11077,14,"XTEN Razor Comp",1
+11078,44,"XTEN Razor Comp",1
+11079,15,"XTEN Razor Comp",1
+11080,26,"XTEN Razor Comp",1
+11081,18,"XRK Sandstorm",1
+11082,27,"XRK Sandstorm",1
+20289,57,"EXF Solarflare",4
+13897,23,"7.62 Incendiary",11
+11084,41,"XRK Sandstorm",1
+13798,40,"Demo Narrow Grip",8
+11085,14,"XRK Sandstorm",1
+11086,44,"XRK Sandstorm",1
+11087,15,"XRK Sandstorm",1
+11088,26,"XRK Sandstorm",1
+11089,4,"Lockshot KT85",1
+11091,34,"Lockshot KT85",1
+11092,28,"Lockshot KT85",1
+20685,63,"FTAC Charlie7",5
+20686,63,"HMW-20 Optic",5
+20287,57,"Point-G3P 04",4
+11093,18,"Lockshot KT85",1
+20882,65,"Matuzek Crown",1
+20883,65,"FTAC Fifty Comp",1
+13928,5,"9mm Armor Piercing",11
+11094,27,"Lockshot KT85",1
+11095,24,"Lockshot KT85",1
+11097,14,"Lockshot KT85",1
+11099,15,"Lockshot KT85",1
+11100,26,"Lockshot KT85",1
+11101,2,"Lockshot KT85",1
+11103,21,"Lockshot KT85",1
+11104,22,"Lockshot KT85",1
+11105,7,"Lockshot KT85",1
+11106,38,"Lockshot KT85",1
+11108,45,"Lockshot KT85",1
+11110,23,"Bore-490",1
+11111,34,"Bore-490",1
+11112,28,"Bore-490",1
+20349,57,"Demo Firm Grip",8
+11114,17,"Bore-490",1
+11115,21,"Bore-490",1
+11116,22,"Bore-490",1
+11117,7,"Bore-490",1
+11118,38,"Bore-490",1
+10427,45,"Canted Vibro-Dot 7",4
+10428,31,"Canted Vibro-Dot 7",4
+10429,10,"1mW Laser Box",4
+10430,8,"1mW Laser Box",4
+10431,4,"1mW Laser Box",4
+10432,35,"1mW Laser Box",4
+10433,16,"1mW Laser Box",4
+10434,43,"1mW Laser Box",4
+10435,19,"1mW Laser Box",4
+10437,34,"1mW Laser Box",4
+10438,28,"1mW Laser Box",4
+10439,29,"1mW Laser Box",4
+10440,41,"1mW Laser Box",4
+10441,14,"1mW Laser Box",4
+10442,44,"1mW Laser Box",4
+10443,26,"1mW Laser Box",4
+14624,1,"SA Fifty Trigger",10
+10444,2,"1mW Laser Box",4
+11119,32,"Bore-490",1
+11120,45,"Bore-490",1
+11121,29,"AP-390 Flash Hider",1
+13922,24,"9mm Hollow Point",11
+20290,57,"1mW Artemis Laser",4
+20291,57,"7mW Canted Laser",4
+20292,57,"SA Schweigen DX",1
+20293,57,"SA Schweigen XS",1
+20294,57,"FTAC Tridentcore",1
+20295,57,"SA MX-50",1
+20296,57,"RMGE-7",1
+20297,57,"Lockwood Smoothfire 12",1
+20298,57,"OVL-70 Comp",1
+20687,63,"Luca Bandera Scope",5
+13923,41,"9mm Hollow Point",11
+13924,5,"9mm Hollow Point",11
+20884,65,"Potato Masher",1
+20885,65,"SA Peak-77",1
+13925,13,"9mm Hollow Point",11
+10410,23,"Canted Vibro-Dot 7",4
+20012,49,"ZLR Talon 5",1
+13929,13,"9mm Armor Piercing",11
+11122,40,"AP-390 Flash Hider",1
+11123,9,"AP-390 Flash Hider",1
+11124,31,"AP-390 Flash Hider",1
+11125,25,"AP-390 Flash Hider",1
+11126,12,"AP-390 Flash Hider",1
+11127,29,"Ported DZ38",1
+11128,40,"Ported DZ38",1
+11129,9,"Ported DZ38",1
+11130,31,"Ported DZ38",1
+11132,12,"Ported DZ38",1
+11133,29,"Dark KX50 Flash Hider",1
+11136,31,"Dark KX50 Flash Hider",1
+11138,12,"Dark KX50 Flash Hider",1
+11139,29,"Demon Helix T7",1
+11140,40,"Demon Helix T7",1
+11141,9,"Demon Helix T7",1
+11142,31,"Demon Helix T7",1
+20057,49,"Thermo-Optic X9",5
+20058,49,"Teplo Clear Shot",5
+20059,49,"FTAC Charlie7",5
+20060,49,"HMW-20 Optic",5
+20061,49,"Luca Bandera Scope",5
+20350,57,"XTEN Gravedigger",8
+20351,57,"FTAC Ripper 56",8
+20063,49,"Ares Clear Shot",5
+20064,49,"Aim OP-V4",5
+20065,49,"SZ Battle Optic",5
+20066,49,"SZ Oscar-9",5
+20067,49,"DS Farsight 11",5
+20068,49,"3x RFL-Optic",5
+20069,49,"Edge-47 Grip",8
+20070,49,"Demo Firm Grip",8
+20071,49,"XTEN Gravedigger",8
+20299,57,"Flash Twist-90",1
+11144,12,"Demon Helix T7",1
+10447,17,"1mW Laser Box",4
+10448,21,"1mW Laser Box",4
+10449,22,"1mW Laser Box",4
+10450,7,"1mW Laser Box",4
+10451,38,"1mW Laser Box",4
+10452,32,"1mW Laser Box",4
+10453,45,"1mW Laser Box",4
+10454,31,"1mW Laser Box",4
+10455,37,"1mW Laser Box",4
+10456,25,"1mW Laser Box",4
+10457,12,"1mW Laser Box",4
+10458,10,"Stovl DR Laser Box",4
+10459,8,"Stovl DR Laser Box",4
+10460,4,"Stovl DR Laser Box",4
+10461,35,"Stovl DR Laser Box",4
+10462,16,"Stovl DR Laser Box",4
+14625,1,"SA Hare Trigger",10
+20688,63,"Drexsom Prime-90",5
+20886,65,"GW Flash Fifty",1
+20887,64,"FSS Covert IV",1
+20689,63,"Ares Clear Shot",5
+20690,63,"DXS Coriolis V4",5
+20691,63,"Lachmann Impact 9",5
+20692,63,"SP-X 80 6.6x",5
+20693,63,"FTAC Locus SP",5
+20694,63,"SZ Heatsource 800",5
+20695,63,"MCPR-300 9.5x",5
+20696,63,"Victus 13x",5
+20697,63,"Sightmax Clear Shot",5
+11823,4,"SZ Recharge-DX",5
+11824,35,"SZ Recharge-DX",5
+11825,42,"SZ Recharge-DX",5
+14626,5,"XRK Lighting Fire",10
+14143,40,"EXF Gulf-16 Barrel",2
+14144,40,"21"" EXF Rhino Barrel",2
+14627,5,"XRK TR9 Trigger",10
+14628,5,"XRK V6 Match",10
+10463,43,"Stovl DR Laser Box",4
+14508,22,"FSS Gen. 7 Grip",16
+11145,29,"Nilsound 90",1
+11146,40,"Nilsound 90",1
+11147,9,"Nilsound 90",1
+11148,31,"Nilsound 90",1
+11149,25,"Nilsound 90",1
+11150,12,"Nilsound 90",1
+11151,29,"FTAC Dreadnought",1
+11152,40,"FTAC Dreadnought",1
+20072,49,"FTAC Ripper 56",8
+20073,49,"Demo Cleanshot 40",8
+20075,49,"FTAC Tiger Grip",8
+20076,49,"FSS Sharkfin 90",8
+20078,49,"Bruen Sync Shot Grip",8
+14584,33,"Padded Shotgun Comb",17
+14585,33,"FSS Ammo Sleeve",17
+20080,49,"Phase-3 Grip",8
+20081,49,"Merc Foregrip",8
+20082,49,"Lockgrip Precision-40",8
+20352,57,"Demo Cleanshot 40",8
+20084,49,"Schlager Tango",8
+20085,49,"VX Pineapple",8
+11153,9,"FTAC Dreadnought",1
+11154,31,"FTAC Dreadnought",1
+11155,25,"FTAC Dreadnought",1
+11156,12,"FTAC Dreadnought",1
+11159,9,"FTAC Reaper",1
+11160,31,"FTAC Reaper",1
+11161,25,"FTAC Reaper",1
+11162,12,"FTAC Reaper",1
+20300,57,"XTEN Quadflash",1
+20301,57,"Vulture Claw Breacher",1
+20302,57,"MACK8 Frost Bite",1
+20303,57,"XTEN Full Choke",1
+20304,57,"XTEN Modified Choke",1
+20305,57,"Bryson Improved Choke",1
+20306,57,"Bryson Choke",1
+20307,57,"Long Haul 50",1
+20001,49,"Hipshot L20",4
+20888,64,"Lacerta Compensator",1
+20889,64,"FT Siege Control",1
+20890,64,"Slimline Pro",5
+10688,18,"EXF Solarflare",4
+10689,27,"EXF Solarflare",4
+10690,24,"EXF Solarflare",4
+10691,15,"EXF Solarflare",4
+10692,39,"EXF Solarflare",4
+10693,33,"EXF Solarflare",4
+10694,30,"EXF Solarflare",4
+10695,11,"EXF Solarflare",4
+11163,29,"Bruen Agent 90",1
+11164,40,"Bruen Agent 90",1
+11165,9,"Bruen Agent 90",1
+11166,31,"Bruen Agent 90",1
+11167,25,"Bruen Agent 90",1
+11168,12,"Bruen Agent 90",1
+11169,29,"Talon Sixteen",1
+11170,40,"Talon Sixteen",1
+11171,9,"Talon Sixteen",1
+13931,15,"5.7x28mm Frangible",11
+13932,14,"5.7x28mm Hollow Point",11
+13933,15,"5.7x28mm Hollow Point",11
+13934,14,"5.7x28mm Armor Piercing",11
+13935,15,"5.7x28mm Armor Piercing",11
+10633,42,"Schlager ULO-66 Laser",4
+10634,18,"Schlager ULO-66 Laser",4
+10635,27,"Schlager ULO-66 Laser",4
+10636,24,"Schlager ULO-66 Laser",4
+10637,39,"Schlager ULO-66 Laser",4
+10638,33,"Schlager ULO-66 Laser",4
+11175,29,"EXF Relentless-40",1
+11181,29,"BVM-338",1
+11205,29,"TA CG76",1
+11206,40,"TA CG76",1
+11207,9,"TA CG76",1
+11208,31,"TA CG76",1
+11210,12,"TA CG76",1
+11211,10,"Sakin Tread-40",1
+11212,8,"Sakin Tread-40",1
+11213,4,"Sakin Tread-40",1
+11214,35,"Sakin Tread-40",1
+11215,42,"Sakin Tread-40",1
+11216,16,"Sakin Tread-40",1
+11217,43,"Sakin Tread-40",1
+11218,19,"Sakin Tread-40",1
+11219,23,"Sakin Tread-40",1
+11220,34,"Sakin Tread-40",1
+20353,57,"Demo IMP-44 Grip",8
+20354,57,"FTAC Tiger Grip",8
+20701,63,"SZ Oscar-9",5
+20702,63,"DS Farsight 11",5
+20703,63,"3x RFL-Optic",5
+20704,63,"SZ Ultra 11.5x",5
+20891,65,"Slimline Pro",5
+20705,63,"Luca Field-6",5
+20706,63,"Corio SZ-HS 800",5
+20707,63,".408 Armor Piercing",11
+20708,63,".408 Incendiary",11
+20709,63,".408 Frangible",11
+20710,63,".408 Hollowpoint",11
+20711,63,".408 High Velocity",11
+20712,63,".408 Overpressured +P",11
+20713,63,".408 Explosive",11
+20714,63,"Fahrenheit 29""",2
+20715,63,"LR-Retort 19""",2
+20716,63,"Tac-Command 19""",2
+20355,57,"FSS Sharkfin 90",8
+20356,57,"Agent Grip",8
+20357,57,"Bruen Sync Shot Grip",8
+20358,57,"XTEN Drop Grip",8
+20359,57,"Phase-3 Grip",8
+20360,57,"Merc Foregrip",8
+11821,10,"SZ Recharge-DX",5
+11221,28,"Sakin Tread-40",1
+13941,44,"9mm Overpressured +P",11
+13942,26,".45 Auto Frangible",11
+13943,6,".45 Auto Frangible",11
+13944,26,".45 Auto Hollowpoint",11
+13945,6,".45 Auto Hollowpoint",11
+13946,26,".45 Auto Armor Piercing",11
+13947,6,".45 Auto Armor Piercing",11
+13948,26,".45 Auto Overpressured +P",11
+13949,6,".45 Auto Overpressured +P",11
+13950,39,"12 Gauge Explosive",11
+13951,33,"12 Gauge Explosive",11
+13952,30,"12 Gauge Explosive",11
+13953,11,"12 Gauge Explosive",11
+13954,39,"12 Gauge Slug",11
+13955,33,"12 Gauge Slug",11
+20717,63,"Ceros 22""",2
+20718,63,"Ceros 29""",2
+20719,63,"7 Round Mag",13
+20720,63,"FJX Lux-7",6
+20721,63,"RIB400",6
+20722,63,"FJX Kilo-Tac",6
+20723,63,"CP60 Grip",16
+20724,63,"Skull-40",16
+20725,63,"FJX Blast",14
+20726,63,"FJX H-Bolt",14
+20729,62,"SZ 1mW PEQ",4
+20730,62,"Schlager PEQ Box IV",4
+20731,62,"Corio LAZ-44 V3",4
+20732,62,"FSS OLE-V Laser",4
+13956,30,"12 Gauge Slug",11
+13766,22,"XTEN Stable Shot",8
+13767,7,"XTEN Stable Shot",8
+13768,9,"XTEN Stable Shot",8
+20733,62,"Canted Vibro-Dot 7",4
+13769,38,"XTEN Stable Shot",8
+13770,32,"XTEN Stable Shot",8
+13771,45,"XTEN Stable Shot",8
+20892,64,"SZ Mini",5
+20893,65,"SZ Mini",5
+20894,64,"Cronen Mini Red Dot",5
+20895,65,"Cronen Mini Red Dot",5
+20896,64,"Cronen Mini Pro",5
+20897,65,"Cronen Mini Pro",5
+20898,64,"SZ Sigma-IV Optic",5
+20899,65,"SZ Sigma-IV Optic",5
+20900,64,"SZ Minitac-40",5
+20901,65,"SZ Minitac-40",5
+13772,31,"XTEN Stable Shot",8
+14272,29,"Ravage-8",6
+14273,14,"Ravage-8",6
+14274,36,"Ravage-8",6
+14275,10,"Demo Fade Pro Stock",6
+14276,16,"Demo Fade Pro Stock",6
+14277,29,"Demo Fade Pro Stock",6
+14278,14,"Demo Fade Pro Stock",6
+14279,36,"Demo Fade Pro Stock",6
+14280,10,"Tempus P80 Strike Stock",6
+14281,10,"Demo Precision Elite Factory",6
+14282,29,"Demo Precision Elite Factory",6
+14283,36,"Demo Precision Elite Factory",6
+14284,10,"Corio Precio Factory",6
+14285,16,"Corio Precio Factory",6
+14286,36,"Corio Precio Factory",6
+20056,49,"Angel-40 4.8x",5
+13773,37,"XTEN Stable Shot",8
+12218,35,"Schlager 3.4x",5
+12219,42,"Schlager 3.4x",5
+12220,16,"Schlager 3.4x",5
+12221,43,"Schlager 3.4x",5
+12222,19,"Schlager 3.4x",5
+12223,23,"Schlager 3.4x",5
+12224,34,"Schlager 3.4x",5
+12225,28,"Schlager 3.4x",5
+12226,29,"Schlager 3.4x",5
+12227,18,"Schlager 3.4x",5
+12228,27,"Schlager 3.4x",5
+12230,41,"Schlager 3.4x",5
+12248,32,"Schlager 3.4x",5
+12249,45,"Schlager 3.4x",5
+12250,31,"Schlager 3.4x",5
+12251,37,"Schlager 3.4x",5
+11336,30,"Lockwood Smoothfire 12",1
+11337,11,"Lockwood Smoothfire 12",1
+11338,33,"OVL-70 Comp",1
+11339,30,"OVL-70 Comp",1
+14526,32,"Cronen Grip Wrap",16
+14527,12,"Cronen Grip Wrap",16
+14288,16,"Assault-60 Stock Factory",6
+20902,64,"XRK On-Point Optic",5
+14291,14,"Demo Quicksilver Stock",6
+14292,14,"Demo Quicksilver Collapsed",6
+14293,8,"Tactique Brute Stock",6
+14294,28,"Tactique Brute Stock",6
+20361,57,"Lockgrip Precision-40",8
+20362,57,"Hex-40 Grip",8
+20363,57,"Schlager Tango",8
+20364,57,"VX Pineapple",8
+20365,57,"OP-X9 Foregrip",8
+20367,57,"TV Wrecker Grip",8
+20368,57,"Bruen Tilt Grip",8
+20369,57,"Cronen Grooveshot Grip",8
+20370,57,"Bruen Warrior Grip",8
+17905,35,"Aim OP-V4",5
+20371,57,"Bipod V9 Grip",8
+20372,57,"Level Aim Bipod",8
+20181,56,"SZ Sigma-IV Optic",5
+17933,21,"Aim OP-V4",5
+20373,57,"Cornerstone Bipod",8
+20374,57,"XTEN Stable Shot",8
+20375,57,"Corvus Masterkey",8
+20376,57,"KL40-M2",8
+20377,57,"Commando Foregrip",8
+14295,45,"Tactique Brute Stock",6
+14296,8,"TV XLine Pro",6
+14297,28,"TV XLine Pro",6
+14298,45,"TV XLine Pro",6
+14299,8,"TV LPX-434",6
+14300,28,"TV LPX-434",6
+14301,8,"TV Cardinal Stock",6
+14302,28,"TV Cardinal Stock",6
+14303,45,"TV Ballast Stock",6
+14305,4,"Ivanov Wood Stock",6
+14530,31,"Cronen Zero Grip",16
+14531,31,"Cronen RFX-300",16
+11131,25,"Ported DZ38",1
+11347,33,"Vulture Claw Breacher",1
+11348,30,"Vulture Claw Breacher",1
+14634,46,"Accu-Shot 5mW Laser",4
+12449,35,"VX350 Thermal Optic",5
+13818,20,"5.56 Armor Piercing",11
+13819,36,"5.56 Armor Piercing",11
+13820,10,"5.56 Overpressured +P",11
+13821,8,"5.56 Overpressured +P",11
+13822,35,"5.56 Overpressured +P",11
+13823,42,"5.56 Overpressured +P",11
+13824,16,"5.56 Overpressured +P",11
+20378,57,"EXF Backdraft Grip",8
+20379,57,"XTEN Nexus Grip",8
+20380,57,"12 Gauge Explosive",11
+20381,57,"12 Gauge Slug",11
+20382,57,"12 Gauge Dragon's Breath",11
+20383,57,"LTC-B",2
+20384,57,"Warrior Wolf",2
+20385,57,"Range Twelve",2
+20386,57,"Deadsight 90",2
+20387,57,"Velocious 40",2
+20903,65,"XRK On-Point Optic",5
+20904,65,"DF105 Reflex Sight",5
+20905,65,"Monocle CT90",5
+20906,64,"Corvus SOL-76",5
+20907,65,"Corvus SOL-76",5
+20908,64,"SZ Recharge-DX",5
+20909,65,"SZ Recharge-DX",5
+20910,65,"SZ SRO-7",5
+20911,65,"Corio RE-X Pro",5
+20912,65,"Corio Enforcer Optic",5
+20913,65,"SZ Lonewolf Optic",5
+20914,65,"Kazan-Holo",5
+20915,65,"Corvus Downrange-00",5
+20916,65,"SZ Holotherm",5
+20917,65,"XTEN Angel-40",5
+20918,64,"Aim OP-V4",5
+20919,65,"Aim OP-V4",5
+20920,65,"SZ Battle Optic",5
+15769,10,"Zulu-60",1
+15770,8,"Zulu-60",1
+15772,35,"Zulu-60",1
+15773,42,"Zulu-60",1
+15774,16,"Zulu-60",1
+15775,43,"Zulu-60",1
+15776,19,"Zulu-60",1
+15782,20,"Zulu-60",1
+15783,36,"Zulu-60",1
+16192,16,"Cronen MAW-86",1
+16193,43,"Cronen MAW-86",1
+16194,19,"Cronen MAW-86",1
+20734,62,"1mW Laser Box",4
+20735,62,"Stovl DR Laser Box",4
+16196,20,"Cronen MAW-86",1
+16197,36,"Cronen MAW-86",1
+20182,56,"SZ Minitac-40",5
+16198,10,"FJX Fulcrum Pro",1
+16199,8,"FJX Fulcrum Pro",1
+16200,35,"FJX Fulcrum Pro",1
+16201,42,"FJX Fulcrum Pro",1
+16202,16,"FJX Fulcrum Pro",1
+16203,43,"FJX Fulcrum Pro",1
+20921,65,"OP-X9 Foregrip",8
+20922,65,"Operator Foregrip",8
+20923,65,"TV Wrecker Grip",8
+20924,65,"Bruen Tilt Grip",8
+20925,65,"Cronen Grooveshot Grip",8
+20926,65,"Bruen Warrior Grip",8
+20927,65,"EXF Backdraft Grip",8
+20928,64,"Wedge Grip",8
+20929,64,"Rebel-HX",8
+20930,64,"S40-H Grip",8
+20931,64,"9mm Frangible",11
+20932,64,"9mm Hollow Point",11
+20933,64,"9mm Armor Piercing",11
+20934,64,"9mm Overpressured +P",11
+20935,65,".50 Pistol Frangible",11
+16204,19,"FJX Fulcrum Pro",1
+16206,20,"FJX Fulcrum Pro",1
+16207,36,"FJX Fulcrum Pro",1
+16208,10,"JCZ-390 Muzzle Device",1
+16209,8,"JCZ-390 Muzzle Device",1
+16210,35,"JCZ-390 Muzzle Device",1
+16227,18,"Lacerta Compensator",1
+16228,27,"Lacerta Compensator",1
+16229,24,"Lacerta Compensator",1
+16230,41,"Lacerta Compensator",1
+16231,14,"Lacerta Compensator",1
+16232,44,"Lacerta Compensator",1
+16234,15,"Lacerta Compensator",1
+16235,26,"Lacerta Compensator",1
+16237,37,"Bruen L40 Kobra",1
+16239,37,"Talon Sixteen Silencer",1
+16243,37,"Vigilante Comp",1
+16245,37,"SA Shroud Flash Hider",1
+17903,8,"Aim OP-V4",5
+17904,4,"Aim OP-V4",5
+10464,19,"Stovl DR Laser Box",4
+10465,23,"Stovl DR Laser Box",4
+10466,34,"Stovl DR Laser Box",4
+10467,28,"Stovl DR Laser Box",4
+10468,29,"Stovl DR Laser Box",4
+13959,33,"12 Gauge Dragon's Breath",11
+10469,41,"Stovl DR Laser Box",4
+10470,14,"Stovl DR Laser Box",4
+20936,65,".50 Pistol Hollowpoint",11
+10471,44,"Stovl DR Laser Box",4
+10472,26,"Stovl DR Laser Box",4
+10550,43,"Luminate-44",4
+10551,19,"Luminate-44",4
+10553,34,"Luminate-44",4
+10554,28,"Luminate-44",4
+10555,29,"Luminate-44",4
+10556,41,"Luminate-44",4
+10558,44,"Luminate-44",4
+10559,26,"Luminate-44",4
+10560,2,"Luminate-44",4
+10561,36,"Luminate-44",4
+10562,40,"Luminate-44",4
+10563,17,"Luminate-44",4
+10564,21,"Luminate-44",4
+17906,42,"Aim OP-V4",5
+17907,16,"Aim OP-V4",5
+17908,43,"Aim OP-V4",5
+17909,19,"Aim OP-V4",5
+20736,62,"Corvus PEQ Beam-5",4
+17911,23,"Aim OP-V4",5
+17913,28,"Aim OP-V4",5
+17914,29,"Aim OP-V4",5
+17915,18,"Aim OP-V4",5
+20183,56,"XRK On-Point Optic",5
+20184,56,"DF105 Reflex Sight",5
+20185,56,"Monocle CT90",5
+20186,56,"Corvus SOL-76",5
+20187,56,"SZ Recharge-DX",5
+20188,56,"SZ SRO-7",5
+20189,56,"Corio RE-X Pro",5
+20190,56,"Corio Enforcer Optic",5
+20191,56,"SZ Lonewolf Optic",5
+20192,56,"Kazan-Holo",5
+20193,56,"Corvus Downrange-00",5
+20194,56,"SZ Holotherm",5
+20195,56,"XTEN Angel-40",5
+20196,56,"VLK 4.0 Optic",5
+20197,56,"Schlager 3.4x",5
+20198,56,"Forge Tac Delta 4",5
+20199,56,"Cronen Zero-P Optic",5
+20200,56,"SZ Bullseye Optic",5
+20201,56,"SZ Aggressor-IR Optic",5
+20202,56,"Schlager Night View",5
+20203,56,"VX350 Thermal Optic",5
+20204,56,"Teplo-OP3 Scope",5
+20205,56,"DR582 Hybrid Sight",5
+20206,56,"Hybrid Firepoint",5
+20207,56,"SZ Vortex-90",5
+17916,27,"Aim OP-V4",5
+20088,49,"TV Wrecker Grip",8
+20089,49,"Bruen Tilt Grip",8
+20090,49,"Cronen Grooveshot Grip",8
+20091,49,"Bruen Warrior Grip",8
+20092,49,"Bipod V9 Grip",8
+20093,49,"Commando Foregrip",8
+20094,49,"EXF Backdraft Grip",8
+20095,49,"XTEN Nexus Grip",8
+14306,43,"Ivanov Wood Stock",6
+20937,65,".50 Pistol Armor Piercing",11
+20096,49,".300 Blk Frangible",11
+20097,49,".300 Blk Hollowpoint",11
+20098,49,".300 Blk Armor Piercing",11
+20099,49,".300 Blk Overpressured +P",11
+20101,49,"6.5"" EXF OP-40",2
+20102,49,"6.5"" EXF Vorpal",2
+20103,49,"45 Round Mag",13
+20104,49,"20 Round Mag",13
+20105,49,"Ravage-8",6
+20107,49,"Bruen GR-500",16
+20108,49,"D37 Grip",16
+13421,21,"Hex-40 Grip",8
+17923,26,"Aim OP-V4",5
+17924,39,"Aim OP-V4",5
+17926,30,"Aim OP-V4",5
+17927,11,"Aim OP-V4",5
+17928,2,"Aim OP-V4",5
+17929,20,"Aim OP-V4",5
+20737,62,"FTAC Grimline Laser",4
+20738,62,"Luminate-44",4
+20739,62,"DXS Flash 90",4
+20740,62,"Eight-Point Flash Hider",1
+20741,62,"TZL-90 V3",1
+20742,62,"Cronen Dark KX30",1
+20743,62,"Husher-65 Silencer",1
+20744,62,"Polarfire-S",1
+20745,62,"ZLR Talon 5",1
+20746,62,"Echoline GS-X",1
+20747,62,"Zulu-60",1
+20748,62,"Kastovia DX90",1
+20749,62,"Tempus GH50",1
+20750,62,"TY-LR8",1
+20751,62,"Lockshot KT85",1
+20752,62,"Bore-490",1
+20753,62,"Sakin Tread-40",1
+20754,62,"GL Clear Breach",1
+20755,62,"TA HUL-Breach KL",1
+20756,62,"FR Titan Silencer",1
+20757,62,"SA Leveler 55",1
+20758,62,"Cronen SP-DR",1
+20759,62,"Slimline Pro",5
+20760,62,"SZ Mini",5
+20761,62,"Cronen Mini Red Dot",5
+17930,36,"Aim OP-V4",5
+17931,40,"Aim OP-V4",5
+17932,17,"Aim OP-V4",5
+13961,11,"12 Gauge Dragon's Breath",11
+20029,49,"SZ Sigma-IV Optic",5
+20030,49,"SZ Minitac-40",5
+13962,40,".338 Mag Frangible",11
+13965,40,".338 Mag Overpressured +P",11
+13966,40,".338 Mag High Velocity",11
+13967,40,".338 Mag Incendiary",11
+13968,9,".45 GVT Frangible",11
+13969,9,".45 GVT Hollowpoint",11
+13970,9,".45 GVT Armor Piercing",11
+13971,9,".45 GVT Overpressured +P",11
+20938,65,".50 Pistol Overpressured +P",11
+20939,65,"SA Brake Barrel",2
+13974,32,".308 Frangible",11
+13975,32,".308 Hollowpoint",11
+20394,57,"Markeev R7 Stock",6
+13976,32,".308 Armor Piercing",11
+13977,32,".308 Overpressured +P",11
+13978,32,".308 High Velocity",11
+13979,32,".308 Incendiary",11
+13980,45,"6.5mm Hollowpoint",11
+13981,45,"6.5mm Armor Piercing",11
+13982,45,"6.5mm Frangible",11
+13983,45,"6.5mm Overpressured +P",11
+17934,22,"Aim OP-V4",5
+17935,7,"Aim OP-V4",5
+17936,9,"Aim OP-V4",5
+17937,38,"Aim OP-V4",5
+17939,45,"Aim OP-V4",5
+17940,37,"Aim OP-V4",5
+17941,1,"Aim OP-V4",5
+17942,3,"Aim OP-V4",5
+17943,13,"Aim OP-V4",5
+17944,10,"SZ Battle Optic",5
+13402,43,"Hex-40 Grip",8
+17945,8,"SZ Battle Optic",5
+17946,4,"SZ Battle Optic",5
+20208,56,"BPZ40 Hybrid",5
+17947,35,"SZ Battle Optic",5
+17948,42,"SZ Battle Optic",5
+17949,16,"SZ Battle Optic",5
+17950,43,"SZ Battle Optic",5
+17951,19,"SZ Battle Optic",5
+20395,57,"Spetsnaz S10 Stock",6
+17989,35,"SZ Oscar-9",5
+17990,42,"SZ Oscar-9",5
+17991,16,"SZ Oscar-9",5
+17992,43,"SZ Oscar-9",5
+17993,19,"SZ Oscar-9",5
+17995,23,"SZ Oscar-9",5
+17996,34,"SZ Oscar-9",5
+17997,28,"SZ Oscar-9",5
+17998,29,"SZ Oscar-9",5
+17999,18,"SZ Oscar-9",5
+18000,27,"SZ Oscar-9",5
+18001,24,"SZ Oscar-9",5
+18006,26,"SZ Oscar-9",5
+18007,39,"SZ Oscar-9",5
+18008,33,"SZ Oscar-9",5
+18009,30,"SZ Oscar-9",5
+18010,11,"SZ Oscar-9",5
+18011,2,"SZ Oscar-9",5
+18012,20,"SZ Oscar-9",5
+18014,40,"SZ Oscar-9",5
+18015,17,"SZ Oscar-9",5
+14307,19,"Ivanov Wood Stock",6
+20028,49,"Cronen Mini Pro",5
+20209,56,"Angel-40 4.8x",5
+14308,17,"Ivanov Wood Stock",6
+20762,62,"Cronen Mini Pro",5
+14309,4,"KSTV-RPK Factory",6
+14310,43,"KSTV-RPK Factory",6
+20795,62,"HMW-20 Optic",5
+14311,19,"KSTV-RPK Factory",6
+12372,8,"SZ Aggressor-IR Optic",5
+12373,4,"SZ Aggressor-IR Optic",5
+12374,35,"SZ Aggressor-IR Optic",5
+12375,42,"SZ Aggressor-IR Optic",5
+12376,16,"SZ Aggressor-IR Optic",5
+12377,43,"SZ Aggressor-IR Optic",5
+12378,19,"SZ Aggressor-IR Optic",5
+12379,23,"SZ Aggressor-IR Optic",5
+12380,34,"SZ Aggressor-IR Optic",5
+12381,28,"SZ Aggressor-IR Optic",5
+12382,29,"SZ Aggressor-IR Optic",5
+12383,18,"SZ Aggressor-IR Optic",5
+12384,27,"SZ Aggressor-IR Optic",5
+12385,24,"SZ Aggressor-IR Optic",5
+12386,41,"SZ Aggressor-IR Optic",5
+20150,56,"Stovl DR Laser Box",4
+20151,56,"Corvus PEQ Beam-5",4
+20152,56,"FTAC Grimline Laser",4
+20153,56,"Luminate-44",4
+20154,56,"DXS Flash 90",4
+20155,56,"Corvus Slash Gen. 2",1
+20763,62,"SZ Sigma-IV Optic",5
+20210,56,"Thermo-Optic X9",5
+20156,56,"Dark KX30",1
+20157,56,"VLK Koloss Flash Hider",1
+20158,56,"Broadhead-3DP",1
+20159,56,"Silentfire XG6",1
+18027,12,"SZ Oscar-9",5
+18028,10,"DS Farsight 11",5
+18029,8,"DS Farsight 11",5
+18030,4,"DS Farsight 11",5
+18031,35,"DS Farsight 11",5
+13837,17,"7.62 Frangible",11
+13838,4,"7.62 Hollowpoint",11
+13839,17,"7.62 Hollowpoint",11
+13840,4,"7.62 Armor Piercing",11
+13841,17,"7.62 Armor Piercing",11
+13842,4,"7.62 Overpressured +P",11
+19068,10,"XTEN Nexus Grip",8
+18002,41,"SZ Oscar-9",5
+18003,44,"SZ Oscar-9",5
+18005,15,"SZ Oscar-9",5
+18041,21,"DS Farsight 11",5
+18042,22,"DS Farsight 11",5
+12394,2,"SZ Aggressor-IR Optic",5
+18043,7,"DS Farsight 11",5
+18044,9,"DS Farsight 11",5
+10566,7,"Luminate-44",4
+18045,38,"DS Farsight 11",5
+18046,32,"DS Farsight 11",5
+18047,45,"DS Farsight 11",5
+18048,31,"DS Farsight 11",5
+18050,37,"DS Farsight 11",5
+18051,25,"DS Farsight 11",5
+18052,12,"DS Farsight 11",5
+18054,8,"3x RFL-Optic",5
+20796,62,"Luca Bandera Scope",5
+20797,62,"Drexsom Prime-90",5
+20798,62,"Ares Clear Shot",5
+20799,62,"Aim OP-V4",5
+20800,62,"SZ Battle Optic",5
+20801,62,"SZ Oscar-9",5
+20802,62,"DS Farsight 11",5
+20803,62,"3x RFL-Optic",5
+20804,62,"Vigilant-30 C-Iron",5
+20805,62,"Edge-47 Grip",8
+20806,62,"Demo Firm Grip",8
+20807,62,"XTEN Gravedigger",8
+20808,62,"FTAC Ripper 56",8
+20809,62,"Demo Cleanshot 40",8
+20811,62,"FTAC Tiger Grip",8
+20812,62,"FSS Sharkfin 90",8
+20813,62,"Agent Grip",8
+20814,62,"Bruen Sync Shot Grip",8
+20815,62,"XTEN Drop Grip",8
+20816,62,"Phase-3 Grip",8
+20817,62,"Merc Foregrip",8
+20818,62,"Lockgrip Precision-40",8
+20819,62,"Hex-40 Grip",8
+20820,62,"Schlager Tango",8
+20821,62,"VX Pineapple",8
+18055,4,"3x RFL-Optic",5
+18056,35,"3x RFL-Optic",5
+18059,19,"3x RFL-Optic",5
+18061,23,"3x RFL-Optic",5
+18062,34,"3x RFL-Optic",5
+18063,28,"3x RFL-Optic",5
+18064,29,"3x RFL-Optic",5
+18065,17,"3x RFL-Optic",5
+18066,21,"3x RFL-Optic",5
+13843,17,"7.62 Overpressured +P",11
+18067,22,"3x RFL-Optic",5
+18068,7,"3x RFL-Optic",5
+18069,9,"3x RFL-Optic",5
+18070,38,"3x RFL-Optic",5
+18071,32,"3x RFL-Optic",5
+18072,45,"3x RFL-Optic",5
+18073,31,"3x RFL-Optic",5
+18076,25,"3x RFL-Optic",5
+18077,12,"3x RFL-Optic",5
+18078,31,"SZ Ultra 11.5x",5
+18080,37,"SZ Ultra 11.5x",5
+18081,25,"SZ Ultra 11.5x",5
+19009,35,"Commando Foregrip",8
+19010,42,"Commando Foregrip",8
+19011,16,"Commando Foregrip",8
+20764,62,"SZ Minitac-40",5
+20211,56,"Teplo Clear Shot",5
+20011,49,"Polarfire-S",1
+20236,56,"Lockgrip Precision-40",8
+20237,56,"Hex-40 Grip",8
+20238,56,"Schlager Tango",8
+20239,56,"VX Pineapple",8
+10928,35,"Cronen OP44",1
+10929,42,"Cronen OP44",1
+20406,59,"1mW Quick Fire Laser",4
+20407,59,"Accu-Shot 5mW Laser",4
+20408,59,"VLK LZR 7mW",4
+20409,59,"Schlager ULO-66 Laser",4
+20410,59,"Stovl TAC Laser",4
+20411,59,"Hipshot L20",4
+20412,59,"Point-G3P 04",4
+20413,59,"FJX Ultrabeam XR",4
+20414,59,"EXF Solarflare",4
+19012,19,"Commando Foregrip",8
+19014,23,"Commando Foregrip",8
+19015,34,"Commando Foregrip",8
+19016,28,"Commando Foregrip",8
+19017,29,"Commando Foregrip",8
+19018,18,"Commando Foregrip",8
+19019,41,"Commando Foregrip",8
+19020,14,"Commando Foregrip",8
+19021,15,"Commando Foregrip",8
+19022,39,"Commando Foregrip",8
+19023,33,"Commando Foregrip",8
+19024,30,"Commando Foregrip",8
+18013,36,"SZ Oscar-9",5
+19025,11,"Commando Foregrip",8
+19026,2,"Commando Foregrip",8
+19027,20,"Commando Foregrip",8
+19028,17,"Commando Foregrip",8
+19029,21,"Commando Foregrip",8
+19031,9,"Commando Foregrip",8
+19032,38,"Commando Foregrip",8
+13984,45,"6.5mm High Velocity",11
+19033,32,"Commando Foregrip",8
+19034,37,"Commando Foregrip",8
+20415,59,"1mW Artemis Laser",4
+20416,59,"7mW Canted Laser",4
+14589,15,"Integrated Reflex Rail",3
+20822,62,"OP-X9 Foregrip",8
+20106,49,"TRX-56 Stock",6
+19035,10,"EXF Backdraft Grip",8
+19036,8,"EXF Backdraft Grip",8
+19037,4,"EXF Backdraft Grip",8
+19038,35,"EXF Backdraft Grip",8
+19039,42,"EXF Backdraft Grip",8
+19040,16,"EXF Backdraft Grip",8
+19080,29,"XTEN Nexus Grip",8
+19081,18,"XTEN Nexus Grip",8
+13990,31,".300 Mag Hollowpoint",11
+13991,31,".300 Mag High Velocity",11
+19244,13,"9mm Overpressured +P",11
+19315,37,".50 Cal High Velocity",11
+19317,37,".50 Cal Incendiary",11
+20765,62,"XRK On-Point Optic",5
+20766,62,"DF105 Reflex Sight",5
+20767,62,"Monocle CT90",5
+20768,62,"Corvus SOL-76",5
+20769,62,"SZ Recharge-DX",5
+20770,62,"SZ SRO-7",5
+20771,62,"Corio RE-X Pro",5
+20772,62,"Corio Enforcer Optic",5
+20773,62,"SZ Lonewolf Optic",5
+20774,62,"Kazan-Holo",5
+20775,62,"Corvus Downrange-00",5
+20776,62,"SZ Holotherm",5
+20777,62,"XTEN Angel-40",5
+20778,62,"VLK 4.0 Optic",5
+20779,62,"Schlager 3.4x",5
+20780,62,"Forge Tac Delta 4",5
+20781,62,"Cronen Zero-P Optic",5
+20782,62,"SZ Bullseye Optic",5
+12911,22,"SP-X 80 6.6x",5
+20160,56,"Echoline GS-X",1
+14638,46,"Hipshot L20",4
+11269,27,"Bruen Cubic Comp",1
+11270,24,"Bruen Cubic Comp",1
+11271,41,"Bruen Cubic Comp",1
+11272,14,"Bruen Cubic Comp",1
+11273,44,"Bruen Cubic Comp",1
+11274,15,"Bruen Cubic Comp",1
+11275,26,"Bruen Cubic Comp",1
+11276,18,"Spiral V3.5 Flash Hider",1
+14606,32,"ZLR Reinforced Lockbolt",14
+11277,27,"Spiral V3.5 Flash Hider",1
+11278,24,"Spiral V3.5 Flash Hider",1
+11279,41,"Spiral V3.5 Flash Hider",1
+11280,14,"Spiral V3.5 Flash Hider",1
+11281,44,"Spiral V3.5 Flash Hider",1
+11282,15,"Spiral V3.5 Flash Hider",1
+11283,26,"Spiral V3.5 Flash Hider",1
+11284,18,"FOX-202 Flash Hider",1
+13992,31,".300 Mag Overpressured +P",11
+11285,27,"FOX-202 Flash Hider",1
+20783,62,"SZ Aggressor-IR Optic",5
+20823,62,"Operator Foregrip",8
+20784,62,"Schlager Night View",5
+11286,24,"FOX-202 Flash Hider",1
+11287,41,"FOX-202 Flash Hider",1
+11288,14,"FOX-202 Flash Hider",1
+11289,44,"FOX-202 Flash Hider",1
+11290,15,"FOX-202 Flash Hider",1
+11291,26,"FOX-202 Flash Hider",1
+11349,11,"Vulture Claw Breacher",1
+11355,11,"XTEN Full Choke",1
+11356,33,"XTEN Modified Choke",1
+11357,30,"XTEN Modified Choke",1
+11369,37,"Demon Helix XL",1
+11358,11,"XTEN Modified Choke",1
+11359,33,"Bryson Improved Choke",1
+11360,30,"Bryson Improved Choke",1
+11361,11,"Bryson Improved Choke",1
+20417,59,"Slimline Pro",5
+12395,20,"SZ Aggressor-IR Optic",5
+11363,30,"Bryson Choke",1
+11364,11,"Bryson Choke",1
+11365,37,"Bruen Agent 90 Silencer",1
+11366,37,"Nilsound 90 Silencer",1
+11367,37,"H26 Ported Comp",1
+11368,37,"Legion Fire Comp",1
+11370,6,"CN30 Suppressor",1
+11371,5,"CN30 Suppressor",1
+11372,13,"CN30 Suppressor",1
+11373,6,"Forge DX90-F",1
+11374,5,"Forge DX90-F",1
+11375,13,"Forge DX90-F",1
+11376,6,"FT Steel Fire",1
+11377,5,"FT Steel Fire",1
+11378,13,"FT Steel Fire",1
+11379,6,"DZS Open Comp",1
+11380,5,"DZS Open Comp",1
+11381,13,"DZS Open Comp",1
+20161,56,"Harbinger D20",1
+11382,6,"SLAB-10 Comp",1
+11383,5,"SLAB-10 Comp",1
+11384,13,"SLAB-10 Comp",1
+11385,6,"XRK Ventor-900",1
+11386,5,"XRK Ventor-900",1
+11387,13,"XRK Ventor-900",1
+11388,6,"Comp 905F Pistol",1
+11389,5,"Comp 905F Pistol",1
+11390,13,"Comp 905F Pistol",1
+11392,5,"Bruen Tri-Port",1
+11393,13,"Bruen Tri-Port",1
+14012,3,".500 Armor Piercing",11
+11394,6,"Corvus Series-D",1
+11395,5,"Corvus Series-D",1
+11396,13,"Corvus Series-D",1
+11398,5,"XRK QZ-105",1
+11399,13,"XRK QZ-105",1
+11400,6,"SA GF90 Flash Hider",1
+11401,5,"SA GF90 Flash Hider",1
+13993,37,".50 Cal Frangible",11
+20824,62,"TV Wrecker Grip",8
+11402,13,"SA GF90 Flash Hider",1
+11403,6,"Hole Punch Breacher",1
+11404,5,"Hole Punch Breacher",1
+11405,13,"Hole Punch Breacher",1
+11406,1,"EXF Fifty GS",1
+11407,1,"Matuzek Crown",1
+11408,1,"FTAC Fifty Comp",1
+11409,1,"Potato Masher",1
+11410,1,"SA Peak-77",1
+11411,1,"GW Flash Fifty",1
+11412,3,"RVS607 Compensator",1
+11415,3,"FSS VMW Flash Hider",1
+11416,31,"Cronen Irons",5
+11458,10,"SZ Mini",5
+11459,8,"SZ Mini",5
+11460,4,"SZ Mini",5
+11461,35,"SZ Mini",5
+11577,1,"Cronen Mini Pro",5
+11462,42,"SZ Mini",5
+13806,10,"5.56 Frangible",11
+13807,8,"5.56 Frangible",11
+14319,4,"Kastov-Rama",6
+12397,17,"SZ Aggressor-IR Optic",5
+14000,25,".300 Frangible",11
+12398,21,"SZ Aggressor-IR Optic",5
+12399,22,"SZ Aggressor-IR Optic",5
+12401,9,"SZ Aggressor-IR Optic",5
+12402,38,"SZ Aggressor-IR Optic",5
+12403,32,"SZ Aggressor-IR Optic",5
+12240,36,"Schlager 3.4x",5
+12241,40,"Schlager 3.4x",5
+12242,17,"Schlager 3.4x",5
+12243,21,"Schlager 3.4x",5
+12244,22,"Schlager 3.4x",5
+12245,7,"Schlager 3.4x",5
+12246,9,"Schlager 3.4x",5
+12247,38,"Schlager 3.4x",5
+14607,25,"ZLR Reinforced Lockbolt",14
+11464,43,"SZ Mini",5
+11465,19,"SZ Mini",5
+20162,56,"Echoless-80",1
+20163,56,"FSS Covert V",1
+20164,56,"Gauge-9 Mono",1
+20165,56,"RF Crown 50",1
+20166,56,"Komodo Heavy",1
+20131,38,"SA Leveler 55",1
+20132,32,"SA Leveler 55",1
+20133,45,"SA Leveler 55",1
+20134,37,"23.5"" SA Fifty-H7",2
+20135,15,"Hollow Extended Stock",6
+20136,34,"FSS Spider Grip",16
+20138,34,"FSS Gen. 7 Grip",16
+20140,33,"TV CF40 Guard",9
+20141,33,"AZ-40 Shotguard",9
+20142,33,"Azarov T15",9
+20018,49,"Lockshot KT85",1
+20418,59,"SZ Mini",5
+20020,49,"Sakin Tread-40",1
+11466,23,"SZ Mini",5
+11467,34,"SZ Mini",5
+20825,62,"Bruen Tilt Grip",8
+20826,62,"Cronen Grooveshot Grip",8
+20827,62,"Bruen Warrior Grip",8
+20828,62,"Bipod V9 Grip",8
+20829,62,"Level Aim Bipod",8
+20830,62,"Cornerstone Bipod",8
+20831,62,"XTEN Stable Shot",8
+20832,62,"SPW 40mm",8
+20833,62,"Corvus Masterkey",8
+20834,62,"Commando Foregrip",8
+20835,62,"EXF Backdraft Grip",8
+20836,62,"XTEN Nexus Grip",8
+20837,62,"Core BP2",8
+20838,62,"SPW 40mm Drill",8
+20839,62,"6.8 Armor Piercing",11
+20840,62,"6.8 Composite",11
+20841,62,"6.8 Frangible",11
+11468,28,"SZ Mini",5
+11469,29,"SZ Mini",5
+11470,18,"SZ Mini",5
+11471,27,"SZ Mini",5
+11472,24,"SZ Mini",5
+11473,41,"SZ Mini",5
+11474,14,"SZ Mini",5
+11475,44,"SZ Mini",5
+13799,40,"XRK Dune Grip",8
+11476,15,"SZ Mini",5
+11477,26,"SZ Mini",5
+12048,7,"Kazan-Holo",5
+11478,39,"SZ Mini",5
+11479,33,"SZ Mini",5
+11480,30,"SZ Mini",5
+11481,11,"SZ Mini",5
+11482,2,"SZ Mini",5
+11483,20,"SZ Mini",5
+11484,36,"SZ Mini",5
+11485,40,"SZ Mini",5
+13994,37,".50 Cal Armor Piercing",11
+11487,21,"SZ Mini",5
+20419,59,"Cronen Mini Red Dot",5
+20420,59,"Cronen Mini Pro",5
+11488,22,"SZ Mini",5
+11489,7,"SZ Mini",5
+11490,9,"SZ Mini",5
+11491,38,"SZ Mini",5
+20842,62,"6.8 Hollowpoint",11
+20843,62,"6.8 High Velocity",11
+20785,62,"VX350 Thermal Optic",5
+11492,32,"SZ Mini",5
+20021,49,"GL Clear Breach",1
+11353,33,"XTEN Full Choke",1
+11493,45,"SZ Mini",5
+11494,6,"SZ Mini",5
+11495,1,"SZ Mini",5
+10588,26,"DXS Flash 90",4
+13834,20,"5.56 Incendiary",11
+11496,5,"SZ Mini",5
+14106,18,"Lach-165 Zulu",2
+11497,3,"SZ Mini",5
+11498,13,"SZ Mini",5
+11500,8,"Cronen Mini Red Dot",5
+11501,4,"Cronen Mini Red Dot",5
+11502,35,"Cronen Mini Red Dot",5
+11503,42,"Cronen Mini Red Dot",5
+11504,16,"Cronen Mini Red Dot",5
+11505,43,"Cronen Mini Red Dot",5
+11507,23,"Cronen Mini Red Dot",5
+11508,34,"Cronen Mini Red Dot",5
+11509,28,"Cronen Mini Red Dot",5
+11510,29,"Cronen Mini Red Dot",5
+14608,12,"ZLR Reinforced Lockbolt",14
+14609,7,"FSS ST87 Bolt",14
+11511,18,"Cronen Mini Red Dot",5
+11512,27,"Cronen Mini Red Dot",5
+11513,24,"Cronen Mini Red Dot",5
+11514,41,"Cronen Mini Red Dot",5
+11515,14,"Cronen Mini Red Dot",5
+10652,20,"Stovl TAC Laser",4
+11516,44,"Cronen Mini Red Dot",5
+11517,15,"Cronen Mini Red Dot",5
+20787,62,"DR582 Hybrid Sight",5
+20788,62,"Hybrid Firepoint",5
+11518,26,"Cronen Mini Red Dot",5
+11519,39,"Cronen Mini Red Dot",5
+11520,33,"Cronen Mini Red Dot",5
+11521,30,"Cronen Mini Red Dot",5
+11522,11,"Cronen Mini Red Dot",5
+11523,2,"Cronen Mini Red Dot",5
+11524,20,"Cronen Mini Red Dot",5
+11525,36,"Cronen Mini Red Dot",5
+11526,40,"Cronen Mini Red Dot",5
+11527,17,"Cronen Mini Red Dot",5
+11528,21,"Cronen Mini Red Dot",5
+11529,22,"Cronen Mini Red Dot",5
+11532,38,"Cronen Mini Red Dot",5
+11533,32,"Cronen Mini Red Dot",5
+11534,45,"Cronen Mini Red Dot",5
+11535,6,"Cronen Mini Red Dot",5
+11536,1,"Cronen Mini Red Dot",5
+11537,5,"Cronen Mini Red Dot",5
+20786,62,"Teplo-OP3 Scope",5
+13995,37,".50 Cal Explosive",11
+13996,25,".300 Armor Piercing",11
+11538,3,"Cronen Mini Red Dot",5
+11539,13,"Cronen Mini Red Dot",5
+11540,10,"Cronen Mini Pro",5
+20022,49,"TA HUL-Breach KL",1
+11541,8,"Cronen Mini Pro",5
+11542,4,"Cronen Mini Pro",5
+11543,35,"Cronen Mini Pro",5
+11544,42,"Cronen Mini Pro",5
+11545,16,"Cronen Mini Pro",5
+11546,43,"Cronen Mini Pro",5
+11547,19,"Cronen Mini Pro",5
+10589,2,"DXS Flash 90",4
+11548,23,"Cronen Mini Pro",5
+11549,34,"Cronen Mini Pro",5
+11550,28,"Cronen Mini Pro",5
+11551,29,"Cronen Mini Pro",5
+14153,25,"16"" ZLR Executor 80 Barrel",2
+11552,18,"Cronen Mini Pro",5
+11553,27,"Cronen Mini Pro",5
+11554,24,"Cronen Mini Pro",5
+11555,41,"Cronen Mini Pro",5
+11556,14,"Cronen Mini Pro",5
+11557,44,"Cronen Mini Pro",5
+11558,15,"Cronen Mini Pro",5
+11559,26,"Cronen Mini Pro",5
+11560,39,"Cronen Mini Pro",5
+11561,33,"Cronen Mini Pro",5
+11562,30,"Cronen Mini Pro",5
+14610,32,"FSS ST87 Bolt",14
+14611,25,"FSS ST87 Bolt",14
+11563,11,"Cronen Mini Pro",5
+11564,2,"Cronen Mini Pro",5
+11565,20,"Cronen Mini Pro",5
+11568,17,"Cronen Mini Pro",5
+11569,21,"Cronen Mini Pro",5
+10653,9,"Stovl TAC Laser",4
+11570,22,"Cronen Mini Pro",5
+11571,7,"Cronen Mini Pro",5
+11572,9,"Cronen Mini Pro",5
+11573,38,"Cronen Mini Pro",5
+11574,32,"Cronen Mini Pro",5
+11575,45,"Cronen Mini Pro",5
+11578,5,"Cronen Mini Pro",5
+11579,3,"Cronen Mini Pro",5
+11580,13,"Cronen Mini Pro",5
+11581,10,"SZ Sigma-IV Optic",5
+11582,8,"SZ Sigma-IV Optic",5
+11583,4,"SZ Sigma-IV Optic",5
+11584,35,"SZ Sigma-IV Optic",5
+11585,42,"SZ Sigma-IV Optic",5
+11587,43,"SZ Sigma-IV Optic",5
+11588,19,"SZ Sigma-IV Optic",5
+11589,23,"SZ Sigma-IV Optic",5
+11591,28,"SZ Sigma-IV Optic",5
+11592,29,"SZ Sigma-IV Optic",5
+11593,18,"SZ Sigma-IV Optic",5
+20422,59,"SZ Minitac-40",5
+20844,62,"6.8 Overpressured +P",11
+11594,27,"SZ Sigma-IV Optic",5
+13997,12,".300 Armor Piercing",11
+11595,24,"SZ Sigma-IV Optic",5
+11596,41,"SZ Sigma-IV Optic",5
+11597,14,"SZ Sigma-IV Optic",5
+11598,44,"SZ Sigma-IV Optic",5
+20023,49,"FR Titan Silencer",1
+11600,26,"SZ Sigma-IV Optic",5
+11601,39,"SZ Sigma-IV Optic",5
+11602,33,"SZ Sigma-IV Optic",5
+11603,30,"SZ Sigma-IV Optic",5
+11604,11,"SZ Sigma-IV Optic",5
+11605,2,"SZ Sigma-IV Optic",5
+11606,20,"SZ Sigma-IV Optic",5
+11607,36,"SZ Sigma-IV Optic",5
+11608,40,"SZ Sigma-IV Optic",5
+10590,36,"DXS Flash 90",4
+11609,17,"SZ Sigma-IV Optic",5
+11610,21,"SZ Sigma-IV Optic",5
+11611,22,"SZ Sigma-IV Optic",5
+11612,7,"SZ Sigma-IV Optic",5
+11613,9,"SZ Sigma-IV Optic",5
+11614,38,"SZ Sigma-IV Optic",5
+11615,32,"SZ Sigma-IV Optic",5
+11616,45,"SZ Sigma-IV Optic",5
+11617,6,"SZ Sigma-IV Optic",5
+11618,1,"SZ Sigma-IV Optic",5
+11619,5,"SZ Sigma-IV Optic",5
+11620,3,"SZ Sigma-IV Optic",5
+11621,13,"SZ Sigma-IV Optic",5
+11622,10,"SZ Minitac-40",5
+11623,8,"SZ Minitac-40",5
+11624,4,"SZ Minitac-40",5
+14612,12,"FSS ST87 Bolt",14
+11625,35,"SZ Minitac-40",5
+20790,62,"BPZ40 Hybrid",5
+11626,42,"SZ Minitac-40",5
+11627,16,"SZ Minitac-40",5
+11628,43,"SZ Minitac-40",5
+11630,23,"SZ Minitac-40",5
+11631,34,"SZ Minitac-40",5
+10654,42,"Hipshot L20",4
+10655,18,"Hipshot L20",4
+11632,28,"SZ Minitac-40",5
+11633,29,"SZ Minitac-40",5
+11634,18,"SZ Minitac-40",5
+11635,27,"SZ Minitac-40",5
+11636,24,"SZ Minitac-40",5
+11637,41,"SZ Minitac-40",5
+11638,14,"SZ Minitac-40",5
+11639,44,"SZ Minitac-40",5
+11640,15,"SZ Minitac-40",5
+11642,39,"SZ Minitac-40",5
+11643,33,"SZ Minitac-40",5
+11644,30,"SZ Minitac-40",5
+11645,11,"SZ Minitac-40",5
+11646,2,"SZ Minitac-40",5
+11647,20,"SZ Minitac-40",5
+11648,36,"SZ Minitac-40",5
+11650,17,"SZ Minitac-40",5
+11651,21,"SZ Minitac-40",5
+20845,62,"SB6.8 16""",2
+20846,62,"LR6.8 22""",2
+11652,22,"SZ Minitac-40",5
+20423,59,"XRK On-Point Optic",5
+11654,9,"SZ Minitac-40",5
+11655,38,"SZ Minitac-40",5
+13998,25,".300 Incendiary",11
+11656,32,"SZ Minitac-40",5
+11657,45,"SZ Minitac-40",5
+11658,6,"SZ Minitac-40",5
+11659,1,"SZ Minitac-40",5
+20024,49,"SA Leveler 55",1
+14037,8,"17.5"" Tundra Pro Barrel",2
+11660,5,"SZ Minitac-40",5
+11661,3,"SZ Minitac-40",5
+11662,13,"SZ Minitac-40",5
+11663,10,"XRK On-Point Optic",5
+11664,8,"XRK On-Point Optic",5
+11665,4,"XRK On-Point Optic",5
+11666,35,"XRK On-Point Optic",5
+11667,42,"XRK On-Point Optic",5
+11668,16,"XRK On-Point Optic",5
+11669,43,"XRK On-Point Optic",5
+11670,19,"XRK On-Point Optic",5
+10591,40,"DXS Flash 90",4
+11671,23,"XRK On-Point Optic",5
+11672,34,"XRK On-Point Optic",5
+11673,28,"XRK On-Point Optic",5
+11674,29,"XRK On-Point Optic",5
+11675,18,"XRK On-Point Optic",5
+11676,27,"XRK On-Point Optic",5
+11677,24,"XRK On-Point Optic",5
+11678,41,"XRK On-Point Optic",5
+11679,14,"XRK On-Point Optic",5
+11680,44,"XRK On-Point Optic",5
+11681,15,"XRK On-Point Optic",5
+11682,26,"XRK On-Point Optic",5
+20791,62,"Angel-40 4.8x",5
+20792,62,"Thermo-Optic X9",5
+11683,39,"XRK On-Point Optic",5
+11684,33,"XRK On-Point Optic",5
+14613,31,"Cronen B85 Bolt",14
+11685,30,"XRK On-Point Optic",5
+11686,11,"XRK On-Point Optic",5
+11687,2,"XRK On-Point Optic",5
+11688,20,"XRK On-Point Optic",5
+11689,36,"XRK On-Point Optic",5
+10656,27,"Hipshot L20",4
+10657,24,"Hipshot L20",4
+11690,40,"XRK On-Point Optic",5
+11691,17,"XRK On-Point Optic",5
+11692,21,"XRK On-Point Optic",5
+11693,22,"XRK On-Point Optic",5
+11694,7,"XRK On-Point Optic",5
+11695,9,"XRK On-Point Optic",5
+11696,38,"XRK On-Point Optic",5
+11698,45,"XRK On-Point Optic",5
+11699,37,"XRK On-Point Optic",5
+20789,62,"SZ Vortex-90",5
+11701,3,"XRK On-Point Optic",5
+11702,13,"XRK On-Point Optic",5
+11703,10,"DF105 Reflex Sight",5
+20424,59,"DF105 Reflex Sight",5
+11817,37,"Corvus SOL-76",5
+11705,4,"DF105 Reflex Sight",5
+11706,35,"DF105 Reflex Sight",5
+11707,42,"DF105 Reflex Sight",5
+11708,16,"DF105 Reflex Sight",5
+11709,43,"DF105 Reflex Sight",5
+13999,12,".300 Incendiary",11
+11710,19,"DF105 Reflex Sight",5
+19996,49,"1mW Quick Fire Laser",4
+11711,23,"DF105 Reflex Sight",5
+11712,34,"DF105 Reflex Sight",5
+11713,28,"DF105 Reflex Sight",5
+11714,29,"DF105 Reflex Sight",5
+11715,18,"DF105 Reflex Sight",5
+11716,27,"DF105 Reflex Sight",5
+11717,24,"DF105 Reflex Sight",5
+11718,41,"DF105 Reflex Sight",5
+11719,44,"DF105 Reflex Sight",5
+11720,15,"DF105 Reflex Sight",5
+11721,26,"DF105 Reflex Sight",5
+11723,33,"DF105 Reflex Sight",5
+11724,30,"DF105 Reflex Sight",5
+11725,11,"DF105 Reflex Sight",5
+11726,2,"DF105 Reflex Sight",5
+10592,17,"DXS Flash 90",4
+11727,20,"DF105 Reflex Sight",5
+11728,36,"DF105 Reflex Sight",5
+11729,40,"DF105 Reflex Sight",5
+11730,17,"DF105 Reflex Sight",5
+11731,21,"DF105 Reflex Sight",5
+11732,22,"DF105 Reflex Sight",5
+20793,62,"Teplo Clear Shot",5
+10659,39,"Hipshot L20",4
+11734,9,"DF105 Reflex Sight",5
+14629,3,"Bryson HTA",10
+11735,38,"DF105 Reflex Sight",5
+11736,32,"DF105 Reflex Sight",5
+11737,45,"DF105 Reflex Sight",5
+11738,37,"DF105 Reflex Sight",5
+14614,31,"Cronen Smooth Bolt",14
+11739,1,"DF105 Reflex Sight",5
+11740,3,"DF105 Reflex Sight",5
+11741,13,"DF105 Reflex Sight",5
+11742,10,"Monocle CT90",5
+10658,15,"Hipshot L20",4
+11743,8,"Monocle CT90",5
+11744,4,"Monocle CT90",5
+11745,35,"Monocle CT90",5
+11746,42,"Monocle CT90",5
+11747,16,"Monocle CT90",5
+11748,43,"Monocle CT90",5
+11750,23,"Monocle CT90",5
+14381,26,"FTAC Stock Cap",6
+20847,62,"HR6.8 Barrel",2
+11751,34,"Monocle CT90",5
+11752,28,"Monocle CT90",5
+11753,29,"Monocle CT90",5
+11754,18,"Monocle CT90",5
+11755,27,"Monocle CT90",5
+20425,59,"Monocle CT90",5
+11757,41,"Monocle CT90",5
+11758,44,"Monocle CT90",5
+11759,15,"Monocle CT90",5
+11760,26,"Monocle CT90",5
+11761,39,"Monocle CT90",5
+11762,33,"Monocle CT90",5
+11763,30,"Monocle CT90",5
+10660,33,"Hipshot L20",4
+19997,49,"Accu-Shot 5mW Laser",4
+11764,11,"Monocle CT90",5
+11765,2,"Monocle CT90",5
+11766,20,"Monocle CT90",5
+11767,36,"Monocle CT90",5
+11768,40,"Monocle CT90",5
+11769,17,"Monocle CT90",5
+11770,21,"Monocle CT90",5
+11771,22,"Monocle CT90",5
+11772,7,"Monocle CT90",5
+11773,9,"Monocle CT90",5
+11775,32,"Monocle CT90",5
+11776,45,"Monocle CT90",5
+11777,37,"Monocle CT90",5
+11778,1,"Monocle CT90",5
+11779,3,"Monocle CT90",5
+11780,13,"Monocle CT90",5
+11781,10,"Corvus SOL-76",5
+11782,8,"Corvus SOL-76",5
+11783,4,"Corvus SOL-76",5
+11784,35,"Corvus SOL-76",5
+11785,42,"Corvus SOL-76",5
+11786,16,"Corvus SOL-76",5
+11787,43,"Corvus SOL-76",5
+11788,19,"Corvus SOL-76",5
+11789,23,"Corvus SOL-76",5
+20852,62,"FJX Z-Pad 9",6
+11790,34,"Corvus SOL-76",5
+11791,28,"Corvus SOL-76",5
+11792,29,"Corvus SOL-76",5
+11793,18,"Corvus SOL-76",5
+11794,27,"Corvus SOL-76",5
+11795,24,"Corvus SOL-76",5
+11796,41,"Corvus SOL-76",5
+11797,14,"Corvus SOL-76",5
+11798,44,"Corvus SOL-76",5
+11799,15,"Corvus SOL-76",5
+11800,26,"Corvus SOL-76",5
+19055,39,"EXF Backdraft Grip",8
+19056,33,"EXF Backdraft Grip",8
+19057,30,"EXF Backdraft Grip",8
+19058,11,"EXF Backdraft Grip",8
+19059,2,"EXF Backdraft Grip",8
+19060,20,"EXF Backdraft Grip",8
+19061,17,"EXF Backdraft Grip",8
+19062,21,"EXF Backdraft Grip",8
+19064,9,"EXF Backdraft Grip",8
+19065,38,"EXF Backdraft Grip",8
+20848,62,"30 Round Mag",13
+20849,62,"50 Round Drum",13
+19066,37,"EXF Backdraft Grip",8
+19067,13,"EXF Backdraft Grip",8
+19070,4,"XTEN Nexus Grip",8
+19071,35,"XTEN Nexus Grip",8
+20483,59,"TV Wrecker Grip",8
+20484,59,"Bruen Tilt Grip",8
+19072,42,"XTEN Nexus Grip",8
+19073,16,"XTEN Nexus Grip",8
+19074,43,"XTEN Nexus Grip",8
+19075,19,"XTEN Nexus Grip",8
+19077,23,"XTEN Nexus Grip",8
+11801,39,"Corvus SOL-76",5
+11802,33,"Corvus SOL-76",5
+11803,30,"Corvus SOL-76",5
+11804,11,"Corvus SOL-76",5
+11805,2,"Corvus SOL-76",5
+19998,49,"VLK LZR 7mW",4
+14002,25,".300 Hollowpoint",11
+14053,43,"Shorttac 330mm",2
+11806,20,"Corvus SOL-76",5
+11807,36,"Corvus SOL-76",5
+11808,40,"Corvus SOL-76",5
+11809,17,"Corvus SOL-76",5
+11810,21,"Corvus SOL-76",5
+11811,22,"Corvus SOL-76",5
+11812,7,"Corvus SOL-76",5
+11813,9,"Corvus SOL-76",5
+11814,38,"Corvus SOL-76",5
+11815,32,"Corvus SOL-76",5
+11816,45,"Corvus SOL-76",5
+11818,1,"Corvus SOL-76",5
+11819,3,"Corvus SOL-76",5
+11820,13,"Corvus SOL-76",5
+11861,10,"SZ SRO-7",5
+11862,8,"SZ SRO-7",5
+11863,4,"SZ SRO-7",5
+11864,35,"SZ SRO-7",5
+20854,62,"D15 Grip",16
+11865,42,"SZ SRO-7",5
+11866,16,"SZ SRO-7",5
+11867,43,"SZ SRO-7",5
+10672,30,"Point-G3P 04",4
+11868,19,"SZ SRO-7",5
+11869,23,"SZ SRO-7",5
+11870,34,"SZ SRO-7",5
+11871,28,"SZ SRO-7",5
+11872,29,"SZ SRO-7",5
+11873,18,"SZ SRO-7",5
+11874,27,"SZ SRO-7",5
+11875,24,"SZ SRO-7",5
+11876,41,"SZ SRO-7",5
+11310,39,"Tempus VOX",1
+13869,21,"7.62 Hollowpoint",11
+11756,24,"Monocle CT90",5
+14072,23,"Romeo FT 16"" Barrel",2
+20850,62,"B13 Pad",6
+14312,17,"KSTV-RPK Factory",6
+14117,15,"16"" Cloak 90",2
+14704,46,"Mack 8 33.5 Super",2
+14705,46,"Mack 8 21.5 Short",2
+10319,35,"Schlager PEQ Box IV",4
+10347,4,"Corio LAZ-44 V3",4
+10473,2,"Stovl DR Laser Box",4
+10528,14,"FTAC Grimline Laser",4
+20214,56,"Luca Bandera Scope",5
+13321,2,"Phase-3 Grip",8
+11911,29,"Corio RE-X Pro",5
+11912,18,"Corio RE-X Pro",5
+11913,27,"Corio RE-X Pro",5
+11914,24,"Corio RE-X Pro",5
+11252,38,"GL Clear Breach",1
+11253,32,"GL Clear Breach",1
+11254,45,"GL Clear Breach",1
+11255,4,"TA HUL-Breach KL",1
+11256,23,"TA HUL-Breach KL",1
+19999,49,"Schlager ULO-66 Laser",4
+11257,34,"TA HUL-Breach KL",1
+14056,41,"KAS-1 381mm",2
+11258,28,"TA HUL-Breach KL",1
+11259,29,"TA HUL-Breach KL",1
+11260,2,"TA HUL-Breach KL",1
+11261,17,"TA HUL-Breach KL",1
+11262,21,"TA HUL-Breach KL",1
+11263,22,"TA HUL-Breach KL",1
+11264,7,"TA HUL-Breach KL",1
+11265,38,"TA HUL-Breach KL",1
+11266,32,"TA HUL-Breach KL",1
+11267,45,"TA HUL-Breach KL",1
+11988,34,"SZ Lonewolf Optic",5
+11989,28,"SZ Lonewolf Optic",5
+11990,29,"SZ Lonewolf Optic",5
+11991,18,"SZ Lonewolf Optic",5
+11992,27,"SZ Lonewolf Optic",5
+11993,24,"SZ Lonewolf Optic",5
+20855,62,"XTEN Grip",16
+11994,41,"SZ Lonewolf Optic",5
+11995,44,"SZ Lonewolf Optic",5
+11996,15,"SZ Lonewolf Optic",5
+11997,26,"SZ Lonewolf Optic",5
+11998,39,"SZ Lonewolf Optic",5
+11999,33,"SZ Lonewolf Optic",5
+12001,11,"SZ Lonewolf Optic",5
+12002,2,"SZ Lonewolf Optic",5
+12150,24,"XTEN Angel-40",5
+12003,20,"SZ Lonewolf Optic",5
+12004,36,"SZ Lonewolf Optic",5
+12005,40,"SZ Lonewolf Optic",5
+12006,17,"SZ Lonewolf Optic",5
+12007,21,"SZ Lonewolf Optic",5
+12008,22,"SZ Lonewolf Optic",5
+12009,7,"SZ Lonewolf Optic",5
+12010,9,"SZ Lonewolf Optic",5
+12011,38,"SZ Lonewolf Optic",5
+12012,32,"SZ Lonewolf Optic",5
+20504,41,"Broadside FCT",6
+20942,65,"SA Tyrant Fifty",2
+12013,45,"SZ Lonewolf Optic",5
+12015,1,"SZ Lonewolf Optic",5
+12016,3,"SZ Lonewolf Optic",5
+12017,13,"SZ Lonewolf Optic",5
+12018,10,"Kazan-Holo",5
+12019,8,"Kazan-Holo",5
+12020,4,"Kazan-Holo",5
+12021,35,"Kazan-Holo",5
+12088,7,"Corvus Downrange-00",5
+12089,9,"Corvus Downrange-00",5
+12090,38,"Corvus Downrange-00",5
+12091,32,"Corvus Downrange-00",5
+12092,45,"Corvus Downrange-00",5
+12093,37,"Corvus Downrange-00",5
+12094,1,"Corvus Downrange-00",5
+12095,3,"Corvus Downrange-00",5
+11877,44,"SZ SRO-7",5
+11878,15,"SZ SRO-7",5
+11879,26,"SZ SRO-7",5
+11880,39,"SZ SRO-7",5
+11882,30,"SZ SRO-7",5
+11883,11,"SZ SRO-7",5
+14561,27,"Bruen TS-30 Comb",7
+14562,20,"Bruen TS-30 Comb",7
+11884,2,"SZ SRO-7",5
+11885,20,"SZ SRO-7",5
+11886,36,"SZ SRO-7",5
+11887,40,"SZ SRO-7",5
+11888,17,"SZ SRO-7",5
+14631,3,"Bryson Match Grade",10
+11889,21,"SZ SRO-7",5
+11890,22,"SZ SRO-7",5
+13899,28,"7.62 Incendiary",11
+11891,7,"SZ SRO-7",5
+11892,9,"SZ SRO-7",5
+12097,10,"SZ Holotherm",5
+12098,8,"SZ Holotherm",5
+12099,4,"SZ Holotherm",5
+12100,35,"SZ Holotherm",5
+12101,42,"SZ Holotherm",5
+12102,16,"SZ Holotherm",5
+12103,43,"SZ Holotherm",5
+12104,19,"SZ Holotherm",5
+12105,23,"SZ Holotherm",5
+12106,34,"SZ Holotherm",5
+12107,28,"SZ Holotherm",5
+12108,29,"SZ Holotherm",5
+12109,18,"SZ Holotherm",5
+20213,56,"HMW-20 Optic",5
+14054,43,"BR209 Barrel",2
+12111,24,"SZ Holotherm",5
+12112,41,"SZ Holotherm",5
+12113,44,"SZ Holotherm",5
+12114,15,"SZ Holotherm",5
+12115,26,"SZ Holotherm",5
+12116,39,"SZ Holotherm",5
+12198,11,"VLK 4.0 Optic",5
+20943,64,"Mouse 99",2
+20944,64,"Streetsweeper 9mm",2
+12199,2,"VLK 4.0 Optic",5
+12200,20,"VLK 4.0 Optic",5
+12201,36,"VLK 4.0 Optic",5
+12202,40,"VLK 4.0 Optic",5
+12203,17,"VLK 4.0 Optic",5
+12267,27,"Forge Tac Delta 4",5
+12268,24,"Forge Tac Delta 4",5
+12269,41,"Forge Tac Delta 4",5
+12270,44,"Forge Tac Delta 4",5
+13900,2,"7.62 Incendiary",11
+12271,15,"Forge Tac Delta 4",5
+12272,26,"Forge Tac Delta 4",5
+12273,39,"Forge Tac Delta 4",5
+12274,33,"Forge Tac Delta 4",5
+12275,30,"Forge Tac Delta 4",5
+12276,11,"Forge Tac Delta 4",5
+20485,59,"Cronen Grooveshot Grip",8
+20309,57,"Slimline Pro",5
+12277,2,"Forge Tac Delta 4",5
+12278,20,"Forge Tac Delta 4",5
+12279,36,"Forge Tac Delta 4",5
+12280,40,"Forge Tac Delta 4",5
+12281,17,"Forge Tac Delta 4",5
+12282,21,"Forge Tac Delta 4",5
+12283,22,"Forge Tac Delta 4",5
+12284,7,"Forge Tac Delta 4",5
+12285,9,"Forge Tac Delta 4",5
+12286,38,"Forge Tac Delta 4",5
+12287,32,"Forge Tac Delta 4",5
+12288,45,"Forge Tac Delta 4",5
+12290,37,"Forge Tac Delta 4",5
+10673,11,"Point-G3P 04",4
+10674,20,"Point-G3P 04",4
+12291,25,"Forge Tac Delta 4",5
+12292,12,"Forge Tac Delta 4",5
+12293,10,"Cronen Zero-P Optic",5
+12294,8,"Cronen Zero-P Optic",5
+12295,4,"Cronen Zero-P Optic",5
+12296,35,"Cronen Zero-P Optic",5
+12298,16,"Cronen Zero-P Optic",5
+12299,43,"Cronen Zero-P Optic",5
+12300,19,"Cronen Zero-P Optic",5
+12301,23,"Cronen Zero-P Optic",5
+12325,38,"Cronen Zero-P Optic",5
+12326,32,"Cronen Zero-P Optic",5
+12327,45,"Cronen Zero-P Optic",5
+12328,31,"Cronen Zero-P Optic",5
+12329,37,"Cronen Zero-P Optic",5
+12330,25,"Cronen Zero-P Optic",5
+12331,12,"Cronen Zero-P Optic",5
+12333,8,"SZ Bullseye Optic",5
+12334,4,"SZ Bullseye Optic",5
+12335,35,"SZ Bullseye Optic",5
+12336,42,"SZ Bullseye Optic",5
+20945,64,"CMRN-50",2
+12337,16,"SZ Bullseye Optic",5
+12339,19,"SZ Bullseye Optic",5
+12340,23,"SZ Bullseye Optic",5
+12341,34,"SZ Bullseye Optic",5
+12342,28,"SZ Bullseye Optic",5
+12343,29,"SZ Bullseye Optic",5
+12344,18,"SZ Bullseye Optic",5
+12345,27,"SZ Bullseye Optic",5
+12346,24,"SZ Bullseye Optic",5
+12347,41,"SZ Bullseye Optic",5
+12348,44,"SZ Bullseye Optic",5
+12349,15,"SZ Bullseye Optic",5
+12350,26,"SZ Bullseye Optic",5
+14313,4,"FT TAC-Elite Stock",6
+14314,43,"FT TAC-Elite Stock",6
+12352,33,"SZ Bullseye Optic",5
+12353,30,"SZ Bullseye Optic",5
+12354,11,"SZ Bullseye Optic",5
+20311,57,"Cronen Mini Red Dot",5
+20856,62,"Phantom Grip",16
+20857,62,"Demo Flak Comb",7
+12355,2,"SZ Bullseye Optic",5
+12356,20,"SZ Bullseye Optic",5
+12357,36,"SZ Bullseye Optic",5
+12358,40,"SZ Bullseye Optic",5
+12359,17,"SZ Bullseye Optic",5
+12360,21,"SZ Bullseye Optic",5
+12361,22,"SZ Bullseye Optic",5
+12362,7,"SZ Bullseye Optic",5
+12363,9,"SZ Bullseye Optic",5
+12364,38,"SZ Bullseye Optic",5
+12365,32,"SZ Bullseye Optic",5
+12366,45,"SZ Bullseye Optic",5
+12428,39,"Schlager Night View",5
+12429,33,"Schlager Night View",5
+14058,44,"BAK-9 279mm Barrel",2
+14059,17,"TAC 597 Barrel",2
+12430,30,"Schlager Night View",5
+12431,11,"Schlager Night View",5
+12432,20,"Schlager Night View",5
+12433,40,"Schlager Night View",5
+12434,17,"Schlager Night View",5
+12435,21,"Schlager Night View",5
+12436,22,"Schlager Night View",5
+12437,7,"Schlager Night View",5
+12519,12,"Teplo-OP3 Scope",5
+12520,10,"DR582 Hybrid Sight",5
+12521,8,"DR582 Hybrid Sight",5
+12522,4,"DR582 Hybrid Sight",5
+12523,35,"DR582 Hybrid Sight",5
+12524,42,"DR582 Hybrid Sight",5
+12525,16,"DR582 Hybrid Sight",5
+12526,43,"DR582 Hybrid Sight",5
+12527,19,"DR582 Hybrid Sight",5
+12528,23,"DR582 Hybrid Sight",5
+12529,34,"DR582 Hybrid Sight",5
+12530,28,"DR582 Hybrid Sight",5
+12531,29,"DR582 Hybrid Sight",5
+12532,18,"DR582 Hybrid Sight",5
+12533,27,"DR582 Hybrid Sight",5
+12534,24,"DR582 Hybrid Sight",5
+12535,41,"DR582 Hybrid Sight",5
+12536,44,"DR582 Hybrid Sight",5
+12537,15,"DR582 Hybrid Sight",5
+12538,26,"DR582 Hybrid Sight",5
+12539,39,"DR582 Hybrid Sight",5
+12540,33,"DR582 Hybrid Sight",5
+12541,30,"DR582 Hybrid Sight",5
+12542,11,"DR582 Hybrid Sight",5
+12543,2,"DR582 Hybrid Sight",5
+12544,20,"DR582 Hybrid Sight",5
+12546,40,"DR582 Hybrid Sight",5
+12547,17,"DR582 Hybrid Sight",5
+12548,21,"DR582 Hybrid Sight",5
+12549,22,"DR582 Hybrid Sight",5
+20858,62,"SAB Comb",7
+20505,61,"SZ 1mW PEQ",4
+12550,7,"DR582 Hybrid Sight",5
+20312,57,"Cronen Mini Pro",5
+12551,38,"DR582 Hybrid Sight",5
+12552,32,"DR582 Hybrid Sight",5
+12553,45,"DR582 Hybrid Sight",5
+12554,37,"DR582 Hybrid Sight",5
+12555,25,"DR582 Hybrid Sight",5
+12556,12,"DR582 Hybrid Sight",5
+12557,10,"Hybrid Firepoint",5
+12558,8,"Hybrid Firepoint",5
+12559,4,"Hybrid Firepoint",5
+13901,21,"7.62 Incendiary",11
+13902,22,"7.62 Incendiary",11
+12561,42,"Hybrid Firepoint",5
+12562,16,"Hybrid Firepoint",5
+12563,43,"Hybrid Firepoint",5
+12564,19,"Hybrid Firepoint",5
+12565,23,"Hybrid Firepoint",5
+12566,34,"Hybrid Firepoint",5
+12567,28,"Hybrid Firepoint",5
+12568,29,"Hybrid Firepoint",5
+12569,18,"Hybrid Firepoint",5
+12570,27,"Hybrid Firepoint",5
+12571,24,"Hybrid Firepoint",5
+12572,41,"Hybrid Firepoint",5
+12579,11,"Hybrid Firepoint",5
+12580,2,"Hybrid Firepoint",5
+12581,20,"Hybrid Firepoint",5
+12582,36,"Hybrid Firepoint",5
+12583,40,"Hybrid Firepoint",5
+12584,17,"Hybrid Firepoint",5
+12616,33,"SZ Vortex-90",5
+12617,30,"SZ Vortex-90",5
+12618,11,"SZ Vortex-90",5
+12619,2,"SZ Vortex-90",5
+12620,20,"SZ Vortex-90",5
+12621,36,"SZ Vortex-90",5
+12622,40,"SZ Vortex-90",5
+12623,17,"SZ Vortex-90",5
+12624,21,"SZ Vortex-90",5
+12626,7,"SZ Vortex-90",5
+12627,9,"SZ Vortex-90",5
+12628,38,"SZ Vortex-90",5
+12629,32,"SZ Vortex-90",5
+12630,45,"SZ Vortex-90",5
+12631,31,"SZ Vortex-90",5
+12632,37,"SZ Vortex-90",5
+12633,25,"SZ Vortex-90",5
+12634,12,"SZ Vortex-90",5
+20215,56,"Drexsom Prime-90",5
+20216,56,"Ares Clear Shot",5
+12635,10,"BPZ40 Hybrid",5
+12636,8,"BPZ40 Hybrid",5
+12637,4,"BPZ40 Hybrid",5
+10436,23,"1mW Laser Box",4
+12638,35,"BPZ40 Hybrid",5
+12639,42,"BPZ40 Hybrid",5
+20506,61,"Schlager PEQ Box IV",4
+12640,16,"BPZ40 Hybrid",5
+12641,43,"BPZ40 Hybrid",5
+12642,19,"BPZ40 Hybrid",5
+12643,23,"BPZ40 Hybrid",5
+12644,34,"BPZ40 Hybrid",5
+12645,28,"BPZ40 Hybrid",5
+12646,29,"BPZ40 Hybrid",5
+12647,18,"BPZ40 Hybrid",5
+12649,24,"BPZ40 Hybrid",5
+12650,41,"BPZ40 Hybrid",5
+12651,44,"BPZ40 Hybrid",5
+12652,15,"BPZ40 Hybrid",5
+12653,26,"BPZ40 Hybrid",5
+12654,39,"BPZ40 Hybrid",5
+12655,33,"BPZ40 Hybrid",5
+13903,7,"7.62 Incendiary",11
+10675,9,"Point-G3P 04",4
+12656,30,"BPZ40 Hybrid",5
+12727,10,"Teplo Clear Shot",5
+12728,8,"Teplo Clear Shot",5
+12729,4,"Teplo Clear Shot",5
+12730,35,"Teplo Clear Shot",5
+12731,42,"Teplo Clear Shot",5
+12732,16,"Teplo Clear Shot",5
+12733,43,"Teplo Clear Shot",5
+12734,19,"Teplo Clear Shot",5
+12735,23,"Teplo Clear Shot",5
+12736,34,"Teplo Clear Shot",5
+14316,41,"FT TAC-Elite Stock",6
+12737,28,"Teplo Clear Shot",5
+12738,29,"Teplo Clear Shot",5
+12739,18,"Teplo Clear Shot",5
+12740,27,"Teplo Clear Shot",5
+12741,24,"Teplo Clear Shot",5
+12742,41,"Teplo Clear Shot",5
+12743,44,"Teplo Clear Shot",5
+12744,15,"Teplo Clear Shot",5
+12745,26,"Teplo Clear Shot",5
+12746,39,"Teplo Clear Shot",5
+12748,30,"Teplo Clear Shot",5
+12749,11,"Teplo Clear Shot",5
+12750,2,"Teplo Clear Shot",5
+12751,20,"Teplo Clear Shot",5
+12752,40,"Teplo Clear Shot",5
+12754,21,"Teplo Clear Shot",5
+20946,64,"Ratchet BE",2
+20947,64,"Supertac-VI",2
+12755,22,"Teplo Clear Shot",5
+12756,7,"Teplo Clear Shot",5
+12757,9,"Teplo Clear Shot",5
+12758,38,"Teplo Clear Shot",5
+12759,32,"Teplo Clear Shot",5
+12760,45,"Teplo Clear Shot",5
+20217,56,"Aim OP-V4",5
+12761,31,"Teplo Clear Shot",5
+12762,37,"Teplo Clear Shot",5
+12763,25,"Teplo Clear Shot",5
+12764,12,"Teplo Clear Shot",5
+12765,10,"FTAC Charlie7",5
+12766,8,"FTAC Charlie7",5
+12767,4,"FTAC Charlie7",5
+12768,35,"FTAC Charlie7",5
+12769,42,"FTAC Charlie7",5
+12770,16,"FTAC Charlie7",5
+12771,19,"FTAC Charlie7",5
+12772,23,"FTAC Charlie7",5
+12773,34,"FTAC Charlie7",5
+12774,28,"FTAC Charlie7",5
+12775,29,"FTAC Charlie7",5
+20218,56,"SZ Battle Optic",5
+12776,20,"FTAC Charlie7",5
+12777,17,"FTAC Charlie7",5
+12778,21,"FTAC Charlie7",5
+12779,22,"FTAC Charlie7",5
+12780,7,"FTAC Charlie7",5
+12781,9,"FTAC Charlie7",5
+12783,32,"FTAC Charlie7",5
+12784,45,"FTAC Charlie7",5
+12785,31,"FTAC Charlie7",5
+12786,37,"FTAC Charlie7",5
+12787,25,"FTAC Charlie7",5
+12788,12,"FTAC Charlie7",5
+12789,10,"HMW-20 Optic",5
+12790,8,"HMW-20 Optic",5
+12791,4,"HMW-20 Optic",5
+12792,35,"HMW-20 Optic",5
+12793,42,"HMW-20 Optic",5
+12794,16,"HMW-20 Optic",5
+12795,19,"HMW-20 Optic",5
+12796,23,"HMW-20 Optic",5
+12797,34,"HMW-20 Optic",5
+12798,28,"HMW-20 Optic",5
+12799,29,"HMW-20 Optic",5
+12800,20,"HMW-20 Optic",5
+12801,17,"HMW-20 Optic",5
+12802,21,"HMW-20 Optic",5
+12803,22,"HMW-20 Optic",5
+13904,38,"7.62 Incendiary",11
+12804,7,"HMW-20 Optic",5
+12805,9,"HMW-20 Optic",5
+12806,38,"HMW-20 Optic",5
+12807,32,"HMW-20 Optic",5
+12808,45,"HMW-20 Optic",5
+12809,31,"HMW-20 Optic",5
+12810,37,"HMW-20 Optic",5
+12811,25,"HMW-20 Optic",5
+20948,64,"STF-U",2
+20949,64,"Ratchet BE Tac",2
+12812,12,"HMW-20 Optic",5
+12813,10,"Luca Bandera Scope",5
+12814,8,"Luca Bandera Scope",5
+12815,4,"Luca Bandera Scope",5
+12817,42,"Luca Bandera Scope",5
+12818,16,"Luca Bandera Scope",5
+12819,19,"Luca Bandera Scope",5
+12820,23,"Luca Bandera Scope",5
+12615,39,"SZ Vortex-90",5
+12821,34,"Luca Bandera Scope",5
+12822,28,"Luca Bandera Scope",5
+10397,32,"FSS OLE-V Laser",4
+12823,29,"Luca Bandera Scope",5
+12824,20,"Luca Bandera Scope",5
+12825,22,"Luca Bandera Scope",5
+12826,7,"Luca Bandera Scope",5
+12827,9,"Luca Bandera Scope",5
+12828,38,"Luca Bandera Scope",5
+20507,61,"Corio LAZ-44 V3",4
+12829,32,"Luca Bandera Scope",5
+12830,45,"Luca Bandera Scope",5
+12831,31,"Luca Bandera Scope",5
+12832,37,"Luca Bandera Scope",5
+12833,25,"Luca Bandera Scope",5
+12834,12,"Luca Bandera Scope",5
+12835,10,"Drexsom Prime-90",5
+12836,8,"Drexsom Prime-90",5
+12400,7,"SZ Aggressor-IR Optic",5
+12837,4,"Drexsom Prime-90",5
+12838,35,"Drexsom Prime-90",5
+12839,42,"Drexsom Prime-90",5
+12840,16,"Drexsom Prime-90",5
+12841,19,"Drexsom Prime-90",5
+12842,23,"Drexsom Prime-90",5
+12843,34,"Drexsom Prime-90",5
+12844,28,"Drexsom Prime-90",5
+12845,29,"Drexsom Prime-90",5
+12846,20,"Drexsom Prime-90",5
+12847,21,"Drexsom Prime-90",5
+12848,22,"Drexsom Prime-90",5
+12849,7,"Drexsom Prime-90",5
+12850,9,"Drexsom Prime-90",5
+12851,38,"Drexsom Prime-90",5
+12852,32,"Drexsom Prime-90",5
+12853,45,"Drexsom Prime-90",5
+12854,31,"Drexsom Prime-90",5
+12855,37,"Drexsom Prime-90",5
+14317,44,"FT TAC-Elite Stock",6
+12857,12,"Drexsom Prime-90",5
+12858,10,"Ares Clear Shot",5
+12859,8,"Ares Clear Shot",5
+12860,4,"Ares Clear Shot",5
+12861,35,"Ares Clear Shot",5
+12862,42,"Ares Clear Shot",5
+20647,63,"Schlager ULO-66 Laser",4
+12863,16,"Ares Clear Shot",5
+12864,19,"Ares Clear Shot",5
+12865,23,"Ares Clear Shot",5
+12866,34,"Ares Clear Shot",5
+12867,28,"Ares Clear Shot",5
+12868,29,"Ares Clear Shot",5
+12869,20,"Ares Clear Shot",5
+12870,22,"Ares Clear Shot",5
+12871,7,"Ares Clear Shot",5
+12872,9,"Ares Clear Shot",5
+12873,38,"Ares Clear Shot",5
+12874,32,"Ares Clear Shot",5
+12875,45,"Ares Clear Shot",5
+12876,31,"Ares Clear Shot",5
+12877,37,"Ares Clear Shot",5
+12878,25,"Ares Clear Shot",5
+12880,42,"Luca Canis 4x Optic",5
+12881,27,"Luca Canis 4x Optic",5
+12882,20,"Luca Canis 4x Optic",5
+12883,39,"Corio CQC Scope",5
+12885,30,"Corio CQC Scope",5
+12886,11,"Corio CQC Scope",5
+12887,39,"Daunt-C80",5
+12888,33,"Daunt-C80",5
+12889,30,"Daunt-C80",5
+12890,11,"Daunt-C80",5
+12891,22,"DXS Coriolis V4",5
+12892,7,"DXS Coriolis V4",5
+12893,9,"DXS Coriolis V4",5
+12894,38,"DXS Coriolis V4",5
+12463,15,"VX350 Thermal Optic",5
+12895,32,"DXS Coriolis V4",5
+12896,45,"DXS Coriolis V4",5
+12897,31,"DXS Coriolis V4",5
+12898,37,"DXS Coriolis V4",5
+12899,25,"DXS Coriolis V4",5
+12900,12,"DXS Coriolis V4",5
+12901,22,"Lachmann Impact 9",5
+12902,7,"Lachmann Impact 9",5
+12903,9,"Lachmann Impact 9",5
+12904,38,"Lachmann Impact 9",5
+12905,32,"Lachmann Impact 9",5
+12906,45,"Lachmann Impact 9",5
+12907,31,"Lachmann Impact 9",5
+12908,37,"Lachmann Impact 9",5
+12909,25,"Lachmann Impact 9",5
+12910,12,"Lachmann Impact 9",5
+12913,9,"SP-X 80 6.6x",5
+12914,38,"SP-X 80 6.6x",5
+12915,32,"SP-X 80 6.6x",5
+12991,8,"Demo Firm Grip",8
+12879,12,"Ares Clear Shot",5
+12992,4,"Demo Firm Grip",8
+12993,35,"Demo Firm Grip",8
+12994,42,"Demo Firm Grip",8
+12995,16,"Demo Firm Grip",8
+13905,29,".458 Frangible",11
+12996,19,"Demo Firm Grip",8
+12997,23,"Demo Firm Grip",8
+12998,34,"Demo Firm Grip",8
+12999,28,"Demo Firm Grip",8
+13000,29,"Demo Firm Grip",8
+13001,18,"Demo Firm Grip",8
+13002,14,"Demo Firm Grip",8
+13003,15,"Demo Firm Grip",8
+13004,39,"Demo Firm Grip",8
+13005,33,"Demo Firm Grip",8
+13007,11,"Demo Firm Grip",8
+13008,2,"Demo Firm Grip",8
+13069,17,"FTAC Ripper 56",8
+13070,21,"FTAC Ripper 56",8
+13071,22,"FTAC Ripper 56",8
+13072,9,"FTAC Ripper 56",8
+13073,38,"FTAC Ripper 56",8
+13074,32,"FTAC Ripper 56",8
+13075,45,"FTAC Ripper 56",8
+13076,37,"FTAC Ripper 56",8
+13077,10,"Demo Cleanshot 40",8
+13079,4,"Demo Cleanshot 40",8
+13080,35,"Demo Cleanshot 40",8
+13081,42,"Demo Cleanshot 40",8
+13082,16,"Demo Cleanshot 40",8
+13083,19,"Demo Cleanshot 40",8
+20219,56,"SZ Oscar-9",5
+13084,23,"Demo Cleanshot 40",8
+13085,34,"Demo Cleanshot 40",8
+14060,35,"Lach-12 Barrel",2
+13086,28,"Demo Cleanshot 40",8
+13087,29,"Demo Cleanshot 40",8
+13088,18,"Demo Cleanshot 40",8
+13089,14,"Demo Cleanshot 40",8
+13090,15,"Demo Cleanshot 40",8
+13091,39,"Demo Cleanshot 40",8
+13092,33,"Demo Cleanshot 40",8
+13094,11,"Demo Cleanshot 40",8
+13095,2,"Demo Cleanshot 40",8
+13096,20,"Demo Cleanshot 40",8
+13097,36,"Demo Cleanshot 40",8
+13099,21,"Demo Cleanshot 40",8
+13100,22,"Demo Cleanshot 40",8
+13102,38,"Demo Cleanshot 40",8
+13104,45,"Demo Cleanshot 40",8
+13105,37,"Demo Cleanshot 40",8
+13106,10,"Demo IMP-44 Grip",8
+13107,8,"Demo IMP-44 Grip",8
+13108,4,"Demo IMP-44 Grip",8
+13109,35,"Demo IMP-44 Grip",8
+13110,42,"Demo IMP-44 Grip",8
+13111,16,"Demo IMP-44 Grip",8
+13112,19,"Demo IMP-44 Grip",8
+13113,23,"Demo IMP-44 Grip",8
+13114,34,"Demo IMP-44 Grip",8
+13115,28,"Demo IMP-44 Grip",8
+13116,29,"Demo IMP-44 Grip",8
+13117,18,"Demo IMP-44 Grip",8
+13118,14,"Demo IMP-44 Grip",8
+13119,15,"Demo IMP-44 Grip",8
+13120,39,"Demo IMP-44 Grip",8
+13121,33,"Demo IMP-44 Grip",8
+13122,30,"Demo IMP-44 Grip",8
+20648,63,"Stovl TAC Laser",4
+13123,11,"Demo IMP-44 Grip",8
+13124,2,"Demo IMP-44 Grip",8
+13125,20,"Demo IMP-44 Grip",8
+13126,36,"Demo IMP-44 Grip",8
+13127,17,"Demo IMP-44 Grip",8
+13128,21,"Demo IMP-44 Grip",8
+12205,22,"VLK 4.0 Optic",5
+12206,7,"VLK 4.0 Optic",5
+12207,9,"VLK 4.0 Optic",5
+12208,38,"VLK 4.0 Optic",5
+12209,32,"VLK 4.0 Optic",5
+12212,37,"VLK 4.0 Optic",5
+12213,25,"VLK 4.0 Optic",5
+12214,12,"VLK 4.0 Optic",5
+12254,10,"Forge Tac Delta 4",5
+12255,8,"Forge Tac Delta 4",5
+13179,29,"FSS Sharkfin 90",8
+13180,18,"FSS Sharkfin 90",8
+13181,24,"FSS Sharkfin 90",8
+13182,14,"FSS Sharkfin 90",8
+13213,18,"Agent Grip",8
+13214,24,"Agent Grip",8
+13215,14,"Agent Grip",8
+13216,15,"Agent Grip",8
+13217,26,"Agent Grip",8
+13218,39,"Agent Grip",8
+13219,33,"Agent Grip",8
+13220,30,"Agent Grip",8
+13221,11,"Agent Grip",8
+13222,2,"Agent Grip",8
+10399,31,"FSS OLE-V Laser",4
+13223,20,"Agent Grip",8
+13224,36,"Agent Grip",8
+13225,17,"Agent Grip",8
+13226,21,"Agent Grip",8
+13227,22,"Agent Grip",8
+13229,38,"Agent Grip",8
+13230,32,"Agent Grip",8
+13231,45,"Agent Grip",8
+13233,13,"Agent Grip",8
+13234,10,"Bruen Sync Shot Grip",8
+13235,8,"Bruen Sync Shot Grip",8
+13236,4,"Bruen Sync Shot Grip",8
+13237,35,"Bruen Sync Shot Grip",8
+13238,42,"Bruen Sync Shot Grip",8
+13239,16,"Bruen Sync Shot Grip",8
+13240,43,"Bruen Sync Shot Grip",8
+13241,19,"Bruen Sync Shot Grip",8
+13242,23,"Bruen Sync Shot Grip",8
+13243,34,"Bruen Sync Shot Grip",8
+13244,28,"Bruen Sync Shot Grip",8
+13245,29,"Bruen Sync Shot Grip",8
+13246,18,"Bruen Sync Shot Grip",8
+13247,24,"Bruen Sync Shot Grip",8
+13248,14,"Bruen Sync Shot Grip",8
+13249,15,"Bruen Sync Shot Grip",8
+13250,26,"Bruen Sync Shot Grip",8
+13251,39,"Bruen Sync Shot Grip",8
+13252,33,"Bruen Sync Shot Grip",8
+13253,30,"Bruen Sync Shot Grip",8
+13286,30,"XTEN Drop Grip",8
+13288,2,"XTEN Drop Grip",8
+13289,20,"XTEN Drop Grip",8
+13290,36,"XTEN Drop Grip",8
+13291,17,"XTEN Drop Grip",8
+13354,20,"Merc Foregrip",8
+13355,36,"Merc Foregrip",8
+13356,17,"Merc Foregrip",8
+13357,21,"Merc Foregrip",8
+13358,22,"Merc Foregrip",8
+13359,9,"Merc Foregrip",8
+10398,45,"FSS OLE-V Laser",4
+13360,38,"Merc Foregrip",8
+13361,45,"Merc Foregrip",8
+13362,37,"Merc Foregrip",8
+13363,13,"Merc Foregrip",8
+13364,10,"Lockgrip Precision-40",8
+13365,8,"Lockgrip Precision-40",8
+13366,4,"Lockgrip Precision-40",8
+13367,35,"Lockgrip Precision-40",8
+13368,42,"Lockgrip Precision-40",8
+13369,16,"Lockgrip Precision-40",8
+20221,56,"3x RFL-Optic",5
+13370,43,"Lockgrip Precision-40",8
+13371,19,"Lockgrip Precision-40",8
+10401,25,"FSS OLE-V Laser",4
+13372,23,"Lockgrip Precision-40",8
+13373,34,"Lockgrip Precision-40",8
+13374,28,"Lockgrip Precision-40",8
+13375,29,"Lockgrip Precision-40",8
+13376,18,"Lockgrip Precision-40",8
+13377,24,"Lockgrip Precision-40",8
+13378,14,"Lockgrip Precision-40",8
+13379,15,"Lockgrip Precision-40",8
+13380,26,"Lockgrip Precision-40",8
+13381,39,"Lockgrip Precision-40",8
+13382,33,"Lockgrip Precision-40",8
+13383,30,"Lockgrip Precision-40",8
+13384,11,"Lockgrip Precision-40",8
+13385,2,"Lockgrip Precision-40",8
+13386,20,"Lockgrip Precision-40",8
+13387,36,"Lockgrip Precision-40",8
+13388,17,"Lockgrip Precision-40",8
+13389,21,"Lockgrip Precision-40",8
+13390,22,"Lockgrip Precision-40",8
+13391,9,"Lockgrip Precision-40",8
+13392,38,"Lockgrip Precision-40",8
+20314,57,"SZ Minitac-40",5
+13393,45,"Lockgrip Precision-40",8
+13394,37,"Lockgrip Precision-40",8
+13395,13,"Lockgrip Precision-40",8
+13459,13,"Schlager Tango",8
+13461,8,"VX Pineapple",8
+13462,4,"VX Pineapple",8
+13463,35,"VX Pineapple",8
+13464,42,"VX Pineapple",8
+20571,61,"Drexsom Prime-90",5
+13465,16,"VX Pineapple",8
+13466,43,"VX Pineapple",8
+13467,19,"VX Pineapple",8
+13468,23,"VX Pineapple",8
+13470,28,"VX Pineapple",8
+13472,18,"VX Pineapple",8
+13473,24,"VX Pineapple",8
+13474,14,"VX Pineapple",8
+13475,15,"VX Pineapple",8
+13476,26,"VX Pineapple",8
+13477,39,"VX Pineapple",8
+13479,30,"VX Pineapple",8
+13480,11,"VX Pineapple",8
+13481,2,"VX Pineapple",8
+13482,20,"VX Pineapple",8
+13483,36,"VX Pineapple",8
+13484,17,"VX Pineapple",8
+13486,22,"VX Pineapple",8
+13487,9,"VX Pineapple",8
+13488,38,"VX Pineapple",8
+13489,45,"VX Pineapple",8
+13490,37,"VX Pineapple",8
+13491,13,"VX Pineapple",8
+13492,10,"OP-X9 Foregrip",8
+13493,8,"OP-X9 Foregrip",8
+13494,4,"OP-X9 Foregrip",8
+13495,35,"OP-X9 Foregrip",8
+13497,16,"OP-X9 Foregrip",8
+13498,43,"OP-X9 Foregrip",8
+13499,19,"OP-X9 Foregrip",8
+13500,23,"OP-X9 Foregrip",8
+13501,34,"OP-X9 Foregrip",8
+13502,28,"OP-X9 Foregrip",8
+10400,37,"FSS OLE-V Laser",4
+13504,18,"OP-X9 Foregrip",8
+13505,24,"OP-X9 Foregrip",8
+13506,14,"OP-X9 Foregrip",8
+13507,15,"OP-X9 Foregrip",8
+14061,35,"Lachmann Nova",2
+13509,39,"OP-X9 Foregrip",8
+13510,33,"OP-X9 Foregrip",8
+13511,30,"OP-X9 Foregrip",8
+13512,11,"OP-X9 Foregrip",8
+13513,2,"OP-X9 Foregrip",8
+14318,17,"FT TAC-Elite Stock",6
+13514,20,"OP-X9 Foregrip",8
+13515,36,"OP-X9 Foregrip",8
+13516,17,"OP-X9 Foregrip",8
+13517,21,"OP-X9 Foregrip",8
+13519,9,"OP-X9 Foregrip",8
+20508,61,"FSS OLE-V Laser",4
+13520,38,"OP-X9 Foregrip",8
+13521,45,"OP-X9 Foregrip",8
+13522,37,"OP-X9 Foregrip",8
+13523,13,"OP-X9 Foregrip",8
+13524,10,"Operator Foregrip",8
+13525,8,"Operator Foregrip",8
+13526,4,"Operator Foregrip",8
+13527,35,"Operator Foregrip",8
+20572,61,"Ares Clear Shot",5
+13528,42,"Operator Foregrip",8
+13529,16,"Operator Foregrip",8
+13531,19,"Operator Foregrip",8
+13533,34,"Operator Foregrip",8
+13534,28,"Operator Foregrip",8
+13535,29,"Operator Foregrip",8
+13536,18,"Operator Foregrip",8
+13537,24,"Operator Foregrip",8
+13538,14,"Operator Foregrip",8
+13539,15,"Operator Foregrip",8
+13540,26,"Operator Foregrip",8
+13541,39,"Operator Foregrip",8
+13596,23,"Bruen Tilt Grip",8
+13542,33,"Operator Foregrip",8
+13543,30,"Operator Foregrip",8
+13544,11,"Operator Foregrip",8
+13545,2,"Operator Foregrip",8
+13546,20,"Operator Foregrip",8
+13547,36,"Operator Foregrip",8
+13548,17,"Operator Foregrip",8
+13549,21,"Operator Foregrip",8
+13550,22,"Operator Foregrip",8
+13551,9,"Operator Foregrip",8
+13552,38,"Operator Foregrip",8
+20315,57,"XRK On-Point Optic",5
+13553,45,"Operator Foregrip",8
+13574,33,"TV Wrecker Grip",8
+10677,18,"FJX Ultrabeam XR",4
+13554,37,"Operator Foregrip",8
+13555,13,"Operator Foregrip",8
+13556,10,"TV Wrecker Grip",8
+13557,8,"TV Wrecker Grip",8
+13559,35,"TV Wrecker Grip",8
+13560,42,"TV Wrecker Grip",8
+13561,16,"TV Wrecker Grip",8
+10404,8,"Canted Vibro-Dot 7",4
+13562,43,"TV Wrecker Grip",8
+13563,19,"TV Wrecker Grip",8
+13564,23,"TV Wrecker Grip",8
+13565,34,"TV Wrecker Grip",8
+13566,28,"TV Wrecker Grip",8
+13567,29,"TV Wrecker Grip",8
+13568,18,"TV Wrecker Grip",8
+13569,24,"TV Wrecker Grip",8
+13570,14,"TV Wrecker Grip",8
+13571,15,"TV Wrecker Grip",8
+13572,26,"TV Wrecker Grip",8
+13573,39,"TV Wrecker Grip",8
+13575,30,"TV Wrecker Grip",8
+13576,11,"TV Wrecker Grip",8
+13577,2,"TV Wrecker Grip",8
+13578,20,"TV Wrecker Grip",8
+13579,36,"TV Wrecker Grip",8
+13580,17,"TV Wrecker Grip",8
+13581,21,"TV Wrecker Grip",8
+13582,22,"TV Wrecker Grip",8
+13584,38,"TV Wrecker Grip",8
+13585,45,"TV Wrecker Grip",8
+13586,37,"TV Wrecker Grip",8
+13588,10,"Bruen Tilt Grip",8
+13589,8,"Bruen Tilt Grip",8
+13590,4,"Bruen Tilt Grip",8
+13591,35,"Bruen Tilt Grip",8
+13592,42,"Bruen Tilt Grip",8
+13593,16,"Bruen Tilt Grip",8
+13594,43,"Bruen Tilt Grip",8
+13595,19,"Bruen Tilt Grip",8
+13598,28,"Bruen Tilt Grip",8
+13599,29,"Bruen Tilt Grip",8
+13600,18,"Bruen Tilt Grip",8
+13601,24,"Bruen Tilt Grip",8
+11041,2,"Kastovia DX90",1
+13602,14,"Bruen Tilt Grip",8
+13603,15,"Bruen Tilt Grip",8
+13604,26,"Bruen Tilt Grip",8
+13605,39,"Bruen Tilt Grip",8
+13607,30,"Bruen Tilt Grip",8
+13608,11,"Bruen Tilt Grip",8
+13609,2,"Bruen Tilt Grip",8
+13610,20,"Bruen Tilt Grip",8
+13611,36,"Bruen Tilt Grip",8
+13612,17,"Bruen Tilt Grip",8
+13613,21,"Bruen Tilt Grip",8
+13614,22,"Bruen Tilt Grip",8
+13615,9,"Bruen Tilt Grip",8
+13617,45,"Bruen Tilt Grip",8
+13618,37,"Bruen Tilt Grip",8
+13619,13,"Bruen Tilt Grip",8
+13620,10,"Cronen Grooveshot Grip",8
+13621,8,"Cronen Grooveshot Grip",8
+10405,4,"Canted Vibro-Dot 7",4
+10406,35,"Canted Vibro-Dot 7",4
+13623,35,"Cronen Grooveshot Grip",8
+13624,42,"Cronen Grooveshot Grip",8
+13625,16,"Cronen Grooveshot Grip",8
+13626,43,"Cronen Grooveshot Grip",8
+13627,19,"Cronen Grooveshot Grip",8
+13628,23,"Cronen Grooveshot Grip",8
+13629,34,"Cronen Grooveshot Grip",8
+13630,28,"Cronen Grooveshot Grip",8
+13631,29,"Cronen Grooveshot Grip",8
+13632,18,"Cronen Grooveshot Grip",8
+13633,24,"Cronen Grooveshot Grip",8
+13634,14,"Cronen Grooveshot Grip",8
+10402,12,"FSS OLE-V Laser",4
+14065,35,"LM Aurora 90 Barrel",2
+13635,15,"Cronen Grooveshot Grip",8
+20509,61,"Canted Vibro-Dot 7",4
+13636,26,"Cronen Grooveshot Grip",8
+13637,39,"Cronen Grooveshot Grip",8
+13638,33,"Cronen Grooveshot Grip",8
+13639,30,"Cronen Grooveshot Grip",8
+13640,11,"Cronen Grooveshot Grip",8
+13641,2,"Cronen Grooveshot Grip",8
+13447,30,"Schlager Tango",8
+20579,61,"SZ Battle Optic",5
+13643,36,"Cronen Grooveshot Grip",8
+13644,17,"Cronen Grooveshot Grip",8
+13646,22,"Cronen Grooveshot Grip",8
+13647,9,"Cronen Grooveshot Grip",8
+13648,38,"Cronen Grooveshot Grip",8
+13649,45,"Cronen Grooveshot Grip",8
+13650,37,"Cronen Grooveshot Grip",8
+13651,13,"Cronen Grooveshot Grip",8
+13652,10,"Bruen Warrior Grip",8
+13653,8,"Bruen Warrior Grip",8
+13654,4,"Bruen Warrior Grip",8
+13655,35,"Bruen Warrior Grip",8
+13656,42,"Bruen Warrior Grip",8
+11098,44,"Lockshot KT85",1
+13658,43,"Bruen Warrior Grip",8
+13659,19,"Bruen Warrior Grip",8
+13661,34,"Bruen Warrior Grip",8
+13662,28,"Bruen Warrior Grip",8
+13664,18,"Bruen Warrior Grip",8
+13665,24,"Bruen Warrior Grip",8
+13666,14,"Bruen Warrior Grip",8
+13667,15,"Bruen Warrior Grip",8
+20316,57,"DF105 Reflex Sight",5
+13668,26,"Bruen Warrior Grip",8
+13669,39,"Bruen Warrior Grip",8
+13670,33,"Bruen Warrior Grip",8
+13671,30,"Bruen Warrior Grip",8
+13672,11,"Bruen Warrior Grip",8
+13673,2,"Bruen Warrior Grip",8
+13677,21,"Bruen Warrior Grip",8
+13678,22,"Bruen Warrior Grip",8
+13679,9,"Bruen Warrior Grip",8
+13680,38,"Bruen Warrior Grip",8
+14063,21,"Lachmann Nova",2
+13681,45,"Bruen Warrior Grip",8
+13682,37,"Bruen Warrior Grip",8
+13908,29,".458 Overpressured +P",11
+13683,13,"Bruen Warrior Grip",8
+13685,8,"Bipod V9 Grip",8
+13686,4,"Bipod V9 Grip",8
+13687,35,"Bipod V9 Grip",8
+13688,42,"Bipod V9 Grip",8
+13689,16,"Bipod V9 Grip",8
+13690,43,"Bipod V9 Grip",8
+13691,19,"Bipod V9 Grip",8
+14066,23,"LM Aurora 90 Barrel",2
+13657,16,"Bruen Warrior Grip",8
+13693,34,"Bipod V9 Grip",8
+13694,28,"Bipod V9 Grip",8
+13695,29,"Bipod V9 Grip",8
+13696,20,"Bipod V9 Grip",8
+13697,36,"Bipod V9 Grip",8
+13698,17,"Bipod V9 Grip",8
+13699,21,"Bipod V9 Grip",8
+13701,9,"Bipod V9 Grip",8
+13702,38,"Bipod V9 Grip",8
+13703,45,"Bipod V9 Grip",8
+20580,61,"SZ Oscar-9",5
+13704,10,"Level Aim Bipod",8
+13705,8,"Level Aim Bipod",8
+13706,4,"Level Aim Bipod",8
+13707,35,"Level Aim Bipod",8
+13708,42,"Level Aim Bipod",8
+13709,16,"Level Aim Bipod",8
+13710,43,"Level Aim Bipod",8
+13711,19,"Level Aim Bipod",8
+13712,23,"Level Aim Bipod",8
+13713,34,"Level Aim Bipod",8
+13714,28,"Level Aim Bipod",8
+13715,29,"Level Aim Bipod",8
+13716,36,"Level Aim Bipod",8
+13717,21,"Level Aim Bipod",8
+13718,22,"Level Aim Bipod",8
+13719,7,"Level Aim Bipod",8
+13720,9,"Level Aim Bipod",8
+13721,38,"Level Aim Bipod",8
+13723,45,"Level Aim Bipod",8
+13724,31,"Level Aim Bipod",8
+13725,37,"Level Aim Bipod",8
+13726,25,"Level Aim Bipod",8
+20317,57,"Monocle CT90",5
+13727,12,"Level Aim Bipod",8
+13728,10,"Cornerstone Bipod",8
+13729,8,"Cornerstone Bipod",8
+13730,4,"Cornerstone Bipod",8
+13731,35,"Cornerstone Bipod",8
+13733,16,"Cornerstone Bipod",8
+13734,43,"Cornerstone Bipod",8
+13749,37,"Cornerstone Bipod",8
+13750,25,"Cornerstone Bipod",8
+13779,10,"Corvus Masterkey",8
+13780,8,"Corvus Masterkey",8
+13781,4,"Corvus Masterkey",8
+13782,35,"Corvus Masterkey",8
+13909,29,".458 High Velocity",11
+13783,16,"Corvus Masterkey",8
+13784,19,"Corvus Masterkey",8
+13785,28,"Corvus Masterkey",8
+13786,29,"Corvus Masterkey",8
+11932,38,"Corio RE-X Pro",5
+11933,32,"Corio RE-X Pro",5
+11158,40,"FTAC Reaper",1
+11934,45,"Corio RE-X Pro",5
+14067,35,"10.6"" Lachstrike Barrel",2
+10307,22,"SZ 1mW PEQ",4
+11935,37,"Corio RE-X Pro",5
+11936,1,"Corio RE-X Pro",5
+11937,3,"Corio RE-X Pro",5
+11938,13,"Corio RE-X Pro",5
+20510,61,"1mW Laser Box",4
+11979,10,"SZ Lonewolf Optic",5
+11980,8,"SZ Lonewolf Optic",5
+11981,4,"SZ Lonewolf Optic",5
+11982,35,"SZ Lonewolf Optic",5
+11983,42,"SZ Lonewolf Optic",5
+11984,16,"SZ Lonewolf Optic",5
+11985,43,"SZ Lonewolf Optic",5
+12110,27,"SZ Holotherm",5
+12588,9,"Hybrid Firepoint",5
+13168,10,"FSS Sharkfin 90",8
+13345,24,"Merc Foregrip",8
+13597,34,"Bruen Tilt Grip",8
+13790,19,"KL40-M2",8
+13791,35,"TL40 Fire Drake",8
+13792,42,"TL40 Fire Drake",8
+13793,23,"TL40 Fire Drake",8
+13794,2,"Sakin Side Grip",8
+14768,48,"Schlager 3.4x",5
+13800,40,"SA Side Grip",8
+13801,40,"Raal Bipod",8
+13802,17,"RPK Bipod",8
+13803,21,"DI-Grip 4.5",8
+13804,21,"Hound-9G Grip",8
+13805,21,"B052 Grip",8
+11248,17,"GL Clear Breach",1
+11774,38,"Monocle CT90",5
+10288,8,"SZ 1mW PEQ",4
+20319,57,"SZ Recharge-DX",5
+10289,4,"SZ 1mW PEQ",4
+10290,35,"SZ 1mW PEQ",4
+10293,19,"SZ 1mW PEQ",4
+10294,23,"SZ 1mW PEQ",4
+10295,34,"SZ 1mW PEQ",4
+10296,28,"SZ 1mW PEQ",4
+10298,41,"SZ 1mW PEQ",4
+10299,14,"SZ 1mW PEQ",4
+10300,44,"SZ 1mW PEQ",4
+10301,26,"SZ 1mW PEQ",4
+10302,2,"SZ 1mW PEQ",4
+10303,36,"SZ 1mW PEQ",4
+10304,40,"SZ 1mW PEQ",4
+10305,17,"SZ 1mW PEQ",4
+20222,56,"Vigilant-30 C-Iron",5
+10306,21,"SZ 1mW PEQ",4
+13910,18,"4.6mm Frangible",11
+13911,18,"4.6mm Hollowpoint",11
+10308,7,"SZ 1mW PEQ",4
+10309,38,"SZ 1mW PEQ",4
+10310,32,"SZ 1mW PEQ",4
+10311,45,"SZ 1mW PEQ",4
+14068,23,"10.6"" Lachstrike Barrel",2
+10312,31,"SZ 1mW PEQ",4
+10313,37,"SZ 1mW PEQ",4
+14264,5,"24 Round Mag",13
+14265,13,"24 Round Mag",13
+14266,5,"33 Round Mag",13
+14268,5,"50 Round Drum",13
+14269,13,"50 Round Drum",13
+10403,10,"Canted Vibro-Dot 7",4
+20511,61,"Stovl DR Laser Box",4
+13960,30,"12 Gauge Dragon's Breath",11
+14008,1,".50 Pistol Frangible",11
+14114,15,"FTAC Series IX 14.5""",2
+14354,35,"Lachmann S9 Factory",6
+14410,40,"FSS Riot Stock",6
+14435,16,"D15 Grip",16
+14782,48,"Aim OP-V4",5
+14783,48,"SZ Battle Optic",5
+14784,48,"SZ Oscar-9",5
+20581,61,"DS Farsight 11",5
+14785,48,"Demo Cleanshot 40",8
+14786,48,"FTAC Tiger Grip",8
+14787,48,"FSS Sharkfin 90",8
+14788,48,"Agent Grip",8
+14789,48,"Bruen Sync Shot Grip",8
+14260,6,"10 Round Mag",13
+14790,48,"XTEN Drop Grip",8
+14791,48,"Phase-3 Grip",8
+14792,48,"Merc Foregrip",8
+14793,48,"Lockgrip Precision-40",8
+14794,48,"Hex-40 Grip",8
+14795,48,"Schlager Tango",8
+10348,35,"Corio LAZ-44 V3",4
+10350,43,"Corio LAZ-44 V3",4
+10351,19,"Corio LAZ-44 V3",4
+10352,23,"Corio LAZ-44 V3",4
+10353,34,"Corio LAZ-44 V3",4
+20226,56,"FTAC Ripper 56",8
+12448,4,"VX350 Thermal Optic",5
+10354,28,"Corio LAZ-44 V3",4
+10355,29,"Corio LAZ-44 V3",4
+10356,41,"Corio LAZ-44 V3",4
+14262,1,"10 Round Mag",13
+12939,37,"MCPR-300 9.5x",5
+10959,18,"Singuard MKV",1
+11318,39,"Bryson Series XII Choke",1
+11319,39,"Reckoner Comp",1
+11320,33,"SA Schweigen DX",1
+11321,30,"SA Schweigen DX",1
+11322,11,"SA Schweigen DX",1
+20223,56,"Edge-47 Grip",8
+11323,33,"SA Schweigen XS",1
+12677,35,"Angel-40 4.8x",5
+11324,30,"SA Schweigen XS",1
+11325,11,"SA Schweigen XS",1
+11326,33,"FTAC Tridentcore",1
+11327,30,"FTAC Tridentcore",1
+11328,11,"FTAC Tridentcore",1
+11329,33,"SA MX-50",1
+14069,21,"10.6"" Lachstrike Barrel",2
+11330,30,"SA MX-50",1
+11331,11,"SA MX-50",1
+11332,33,"RMGE-7",1
+11333,30,"RMGE-7",1
+11334,11,"RMGE-7",1
+11335,33,"Lockwood Smoothfire 12",1
+11009,41,"FTAC Castle Comp",1
+11010,14,"FTAC Castle Comp",1
+20512,61,"Corvus PEQ Beam-5",4
+20318,57,"Corvus SOL-76",5
+11011,44,"FTAC Castle Comp",1
+11012,15,"FTAC Castle Comp",1
+11037,4,"Kastovia DX90",1
+10315,12,"SZ 1mW PEQ",4
+10394,22,"FSS OLE-V Laser",4
+10395,7,"FSS OLE-V Laser",4
+12032,24,"Kazan-Holo",5
+12033,41,"Kazan-Holo",5
+12034,44,"Kazan-Holo",5
+11038,23,"Kastovia DX90",1
+11157,29,"FTAC Reaper",1
+16211,42,"JCZ-390 Muzzle Device",1
+16212,16,"JCZ-390 Muzzle Device",1
+16213,43,"JCZ-390 Muzzle Device",1
+16214,19,"JCZ-390 Muzzle Device",1
+16216,20,"JCZ-390 Muzzle Device",1
+16217,36,"JCZ-390 Muzzle Device",1
+16218,18,"FSS Covert IV",1
+16219,27,"FSS Covert IV",1
+13301,8,"Phase-3 Grip",8
+13302,4,"Phase-3 Grip",8
+13303,35,"Phase-3 Grip",8
+13305,16,"Phase-3 Grip",8
+13306,43,"Phase-3 Grip",8
+13307,19,"Phase-3 Grip",8
+20320,57,"SZ SRO-7",5
+20321,57,"Corio RE-X Pro",5
+13308,23,"Phase-3 Grip",8
+13309,34,"Phase-3 Grip",8
+13310,28,"Phase-3 Grip",8
+13311,29,"Phase-3 Grip",8
+13312,18,"Phase-3 Grip",8
+13315,15,"Phase-3 Grip",8
+10407,16,"Canted Vibro-Dot 7",4
+13316,26,"Phase-3 Grip",8
+13317,39,"Phase-3 Grip",8
+16220,24,"FSS Covert IV",1
+16222,14,"FSS Covert IV",1
+16223,44,"FSS Covert IV",1
+20224,56,"Demo Firm Grip",8
+20225,56,"XTEN Gravedigger",8
+16225,15,"FSS Covert IV",1
+12035,15,"Kazan-Holo",5
+13684,10,"Bipod V9 Grip",8
+16226,26,"FSS Covert IV",1
+19069,8,"XTEN Nexus Grip",8
+11102,17,"Lockshot KT85",1
+17956,29,"SZ Battle Optic",5
+11530,7,"Cronen Mini Red Dot",5
+14070,35,"15.9"" Lachmann Rapp Barrel",2
+13912,18,"4.6mm Armor Piercing",11
+11590,34,"SZ Sigma-IV Optic",5
+11649,40,"SZ Minitac-40",5
+11893,38,"SZ SRO-7",5
+11894,32,"SZ SRO-7",5
+11895,45,"SZ SRO-7",5
+11896,37,"SZ SRO-7",5
+11897,1,"SZ SRO-7",5
+11898,3,"SZ SRO-7",5
+11899,13,"SZ SRO-7",5
+11900,10,"Corio RE-X Pro",5
+11901,8,"Corio RE-X Pro",5
+11902,4,"Corio RE-X Pro",5
+11903,35,"Corio RE-X Pro",5
+11905,16,"Corio RE-X Pro",5
+11906,43,"Corio RE-X Pro",5
+11907,19,"Corio RE-X Pro",5
+11908,23,"Corio RE-X Pro",5
+20582,61,"3x RFL-Optic",5
+11909,34,"Corio RE-X Pro",5
+11910,28,"Corio RE-X Pro",5
+12120,2,"SZ Holotherm",5
+12694,42,"Thermo-Optic X9",5
+12695,16,"Thermo-Optic X9",5
+12696,43,"Thermo-Optic X9",5
+12697,19,"Thermo-Optic X9",5
+12698,23,"Thermo-Optic X9",5
+12699,34,"Thermo-Optic X9",5
+12700,28,"Thermo-Optic X9",5
+12701,29,"Thermo-Optic X9",5
+12702,18,"Thermo-Optic X9",5
+12703,27,"Thermo-Optic X9",5
+12704,41,"Thermo-Optic X9",5
+12705,44,"Thermo-Optic X9",5
+12475,32,"VX350 Thermal Optic",5
+12706,15,"Thermo-Optic X9",5
+12707,26,"Thermo-Optic X9",5
+12708,39,"Thermo-Optic X9",5
+12709,33,"Thermo-Optic X9",5
+12688,25,"Angel-40 4.8x",5
+12689,12,"Angel-40 4.8x",5
+13898,34,"7.62 Incendiary",11
+14163,9,"13.5"" Lonestar Barrel",2
+14207,4,"40 Round Mag",13
+14348,38,"Lachmann S76 Factory Stock",6
+12682,23,"Angel-40 4.8x",5
+14406,2,"FTAC Condor Stock",6
+11837,14,"SZ Recharge-DX",5
+10615,27,"Accu-Shot 5mW Laser",4
+10616,24,"Accu-Shot 5mW Laser",4
+10617,39,"Accu-Shot 5mW Laser",4
+12678,42,"Angel-40 4.8x",5
+10618,33,"Accu-Shot 5mW Laser",4
+10619,30,"Accu-Shot 5mW Laser",4
+10620,11,"Accu-Shot 5mW Laser",4
+10621,20,"Accu-Shot 5mW Laser",4
+10622,9,"Accu-Shot 5mW Laser",4
+10623,42,"VLK LZR 7mW",4
+10624,18,"VLK LZR 7mW",4
+10625,27,"VLK LZR 7mW",4
+20514,61,"Luminate-44",4
+20515,61,"DXS Flash 90",4
+10626,24,"VLK LZR 7mW",4
+10627,39,"VLK LZR 7mW",4
+10628,33,"VLK LZR 7mW",4
+10629,30,"VLK LZR 7mW",4
+10706,6,"XTEN Sidearm-L400",4
+14880,47,"VX350 Thermal Optic",5
+10936,27,"XTEN RR-40",1
+10957,15,"SA Schalldämpfer 99",1
+11137,25,"Dark KX50 Flash Hider",1
+11200,40,"XRK Kraken",1
+11226,17,"Sakin Tread-40",1
+11227,21,"Sakin Tread-40",1
+11228,22,"Sakin Tread-40",1
+11229,7,"Sakin Tread-40",1
+11230,38,"Sakin Tread-40",1
+20583,61,"Vigilant-30 C-Iron",5
+12681,19,"Angel-40 4.8x",5
+11237,16,"C400 Door Knocker",1
+11238,43,"C400 Door Knocker",1
+11239,19,"C400 Door Knocker",1
+11240,20,"C400 Door Knocker",1
+11241,36,"C400 Door Knocker",1
+11242,4,"GL Clear Breach",1
+11243,23,"GL Clear Breach",1
+18163,41,"XTEN Gravedigger",8
+18194,41,"FTAC Ripper 56",8
+18434,41,"XTEN Drop Grip",8
+18470,41,"Phase-3 Grip",8
+18505,41,"Merc Foregrip",8
+18540,41,"Lockgrip Precision-40",8
+18610,41,"Schlager Tango",8
+18645,41,"VX Pineapple",8
+18750,41,"TV Wrecker Grip",8
+18785,41,"Bruen Tilt Grip",8
+18820,41,"Cronen Grooveshot Grip",8
+19006,10,"Commando Foregrip",8
+19007,8,"Commando Foregrip",8
+12720,38,"Thermo-Optic X9",5
+19008,4,"Commando Foregrip",8
+10408,43,"Canted Vibro-Dot 7",4
+10409,19,"Canted Vibro-Dot 7",4
+14796,48,"VX Pineapple",8
+20227,56,"Demo Cleanshot 40",8
+14078,21,"Meer-76 449mm Factory",2
+12371,10,"SZ Aggressor-IR Optic",5
+10664,9,"Hipshot L20",4
+14030,16,"Demo 501 Factory",2
+13916,27,"9mm Sub AP",11
+14131,30,"21.5"" Recourse",2
+14164,9,"Lockwood Frontiersman",2
+14071,23,"15.9"" Lachmann Rapp Barrel",2
+14209,19,"20 Round Mag",13
+14206,4,"20 Round Mag",13
+14350,23,"FT Mobile Stock",6
+20516,61,"Eight-Point Flash Hider",1
+20517,61,"TZL-90 V3",1
+14365,27,"Bruen STB 556 Stock",6
+11826,16,"SZ Recharge-DX",5
+14756,48,"Monocle CT90",5
+12408,12,"SZ Aggressor-IR Optic",5
+12465,39,"VX350 Thermal Optic",5
+11839,15,"SZ Recharge-DX",5
+12467,30,"VX350 Thermal Optic",5
+12468,11,"VX350 Thermal Optic",5
+12471,22,"VX350 Thermal Optic",5
+12472,7,"VX350 Thermal Optic",5
+12473,9,"VX350 Thermal Optic",5
+12474,38,"VX350 Thermal Optic",5
+14328,41,"Markeev R7 Stock",6
+12477,31,"VX350 Thermal Optic",5
+12478,37,"VX350 Thermal Optic",5
+12479,25,"VX350 Thermal Optic",5
+10594,22,"DXS Flash 90",4
+10595,7,"DXS Flash 90",4
+10596,38,"DXS Flash 90",4
+10597,32,"DXS Flash 90",4
+10598,45,"DXS Flash 90",4
+20584,61,"Luca Field-6",5
+20585,61,"Edge-47 Grip",8
+20586,61,"Demo Firm Grip",8
+10545,10,"Luminate-44",4
+10599,31,"DXS Flash 90",4
+10600,37,"DXS Flash 90",4
+10601,25,"DXS Flash 90",4
+10602,12,"DXS Flash 90",4
+14847,47,"XTEN Havoc 90",1
+10793,45,"TZL-90 V3",1
+10899,10,"RF Crown 50",1
+13149,14,"FTAC Tiger Grip",8
+10986,41,"Bruen Pendulum",1
+11090,23,"Lockshot KT85",1
+20243,56,"Bruen Tilt Grip",8
+11176,40,"EXF Relentless-40",1
+11177,9,"EXF Relentless-40",1
+11178,31,"EXF Relentless-40",1
+11179,25,"EXF Relentless-40",1
+11180,12,"EXF Relentless-40",1
+11182,40,"BVM-338",1
+11183,9,"BVM-338",1
+11184,31,"BVM-338",1
+11185,25,"BVM-338",1
+11186,12,"BVM-338",1
+11190,31,"Cronen DM338",1
+11191,25,"Cronen DM338",1
+11192,12,"Cronen DM338",1
+20228,56,"Demo IMP-44 Grip",8
+20229,56,"FTAC Tiger Grip",8
+11193,29,"Shred CP90",1
+11194,40,"Shred CP90",1
+13913,18,"4.6mm Overpressured +P",11
+11195,9,"Shred CP90",1
+11196,31,"Shred CP90",1
+11197,25,"Shred CP90",1
+11198,12,"Shred CP90",1
+11199,29,"XRK Kraken",1
+13917,27,"9mm Sub OP",11
+11201,9,"XRK Kraken",1
+11202,31,"XRK Kraken",1
+11203,25,"XRK Kraken",1
+12181,16,"VLK 4.0 Optic",5
+20241,56,"Operator Foregrip",8
+12302,34,"Cronen Zero-P Optic",5
+12303,28,"Cronen Zero-P Optic",5
+12304,29,"Cronen Zero-P Optic",5
+12305,18,"Cronen Zero-P Optic",5
+12306,27,"Cronen Zero-P Optic",5
+12307,24,"Cronen Zero-P Optic",5
+12310,15,"Cronen Zero-P Optic",5
+11231,32,"Sakin Tread-40",1
+17912,34,"Aim OP-V4",5
+18037,34,"DS Farsight 11",5
+18038,28,"DS Farsight 11",5
+18039,29,"DS Farsight 11",5
+18040,20,"DS Farsight 11",5
+14553,3,"Bryson WD-85 Grip",16
+14554,3,"Bryson Duel Grip",16
+20513,61,"FTAC Grimline Laser",4
+14555,3,"SO RO-99 Grip",16
+14556,3,"Akimbo Basilisk",16
+14557,42,"Schlager TTF3 Riser",7
+14558,27,"Schlager TTF3 Riser",7
+14559,20,"Schlager TTF3 Riser",7
+14560,42,"Bruen TS-30 Comb",7
+14563,42,"FTAC C11 Riser",7
+14564,27,"FTAC C11 Riser",7
+14565,20,"FTAC C11 Riser",7
+14713,46,"EXF Colonel",6
+14566,34,"PD-A40 Sleeve",7
+20231,56,"Agent Grip",8
+14567,22,"PD-A40 Sleeve",7
+12311,26,"Cronen Zero-P Optic",5
+12312,39,"Cronen Zero-P Optic",5
+14569,22,"5GN TAC-Comb",7
+19090,30,"XTEN Nexus Grip",8
+11362,33,"Bryson Choke",1
+11599,15,"SZ Sigma-IV Optic",5
+12096,13,"Corvus Downrange-00",5
+12162,40,"XTEN Angel-40",5
+14620,6,"XRK Heavy V3",10
+12172,1,"XTEN Angel-40",5
+12173,3,"XTEN Angel-40",5
+12174,13,"XTEN Angel-40",5
+12175,3,"Corio RV500 Optic",5
+12176,10,"VLK 4.0 Optic",5
+12177,8,"VLK 4.0 Optic",5
+12178,4,"VLK 4.0 Optic",5
+12179,35,"VLK 4.0 Optic",5
+12938,12,"SZ Heatsource 800",5
+14073,21,"Romeo FT 16"" Barrel",2
+14074,23,"Meer-56 11"" Factory Barrel",2
+14075,24,"FTAC M-Sub 12""",2
+14076,24,"Lachmann Pulsar",2
+10927,8,"Cronen OP44",1
+14123,33,"18.5"" Emperor Barrel",2
+14124,33,"14"" Polarize Barrel",2
+14125,33,"14"" Shorty Barrel",2
+14126,33,"18.5"" Battlemaster",2
+14128,30,"29.5"" Rifled Barrel",2
+20518,61,"Cronen Dark KX30",1
+20242,56,"TV Wrecker Grip",8
+14174,6,"Matuzek Cottonmouth Barrel",2
+14226,24,"15 Round Magazine",13
+14368,34,"SO R55 Adaptor",6
+14676,46,"HMW-20 Optic",5
+14467,41,"Ivanov ST-70 Grip",16
+14468,44,"Ivanov ST-70 Grip",16
+11847,36,"SZ Recharge-DX",5
+11848,40,"SZ Recharge-DX",5
+11941,4,"Corio Enforcer Optic",5
+14773,48,"Schlager Night View",5
+14845,47,"Cronen OP44",1
+14841,47,"Gauge-9 Mono",1
+14876,47,"Cronen Zero-P Optic",5
+14886,47,"Angel-40 4.8x",5
+12952,12,"Signal 50 8x",5
+14915,47,"VX Pineapple",8
+20587,61,"XTEN Gravedigger",8
+20588,61,"FTAC Ripper 56",8
+12683,34,"Angel-40 4.8x",5
+10900,8,"RF Crown 50",1
+10901,35,"RF Crown 50",1
+10902,42,"RF Crown 50",1
+10903,16,"RF Crown 50",1
+20244,56,"Cronen Grooveshot Grip",8
+20245,56,"Bruen Warrior Grip",8
+14230,38,"20 Round Mag",13
+14891,47,"Luca Bandera Scope",5
+14892,47,"Drexsom Prime-90",5
+14893,47,"Ares Clear Shot",5
+10417,26,"Canted Vibro-Dot 7",4
+14901,47,"XTEN Gravedigger",8
+14902,47,"FTAC Ripper 56",8
+14908,47,"Bruen Sync Shot Grip",8
+14909,47,"XTEN Drop Grip",8
+13890,34,"7.62 High Velocity",11
+13891,28,"7.62 High Velocity",11
+14910,47,"Phase-3 Grip",8
+14911,47,"Merc Foregrip",8
+14912,47,"Lockgrip Precision-40",8
+14914,47,"Schlager Tango",8
+14916,47,"OP-X9 Foregrip",8
+14917,47,"Operator Foregrip",8
+10855,36,"Echoline GS-X",1
+10856,17,"Echoline GS-X",1
+20044,49,"VLK 4.0 Optic",5
+10951,18,"SA Schalldämpfer 99",1
+11016,10,"XTEN Havoc 90",1
+14919,47,"Bruen Tilt Grip",8
+11050,23,"Tempus GH50",1
+11096,41,"Lockshot KT85",1
+11134,40,"Dark KX50 Flash Hider",1
+11135,9,"Dark KX50 Flash Hider",1
+11209,25,"TA CG76",1
+13136,8,"FTAC Tiger Grip",8
+13137,4,"FTAC Tiger Grip",8
+20519,61,"Husher-65 Silencer",1
+14289,29,"Assault-60 Stock Factory",6
+14290,14,"Assault-60 Stock Factory",6
+20388,57,"Gunner D20",2
+20389,57,"ZLR Sport XT",2
+20390,57,"ZLR Sport-8",2
+20391,57,"12 Shell Mag",13
+20392,57,"25 Shell Drum",13
+20393,57,"FT TAC-Elite Stock",6
+13825,20,"5.56 Overpressured +P",11
+11232,45,"Sakin Tread-40",1
+11233,10,"C400 Door Knocker",1
+11234,8,"C400 Door Knocker",1
+11235,35,"C400 Door Knocker",1
+11236,42,"C400 Door Knocker",1
+20087,49,"Operator Foregrip",8
+12252,25,"Schlager 3.4x",5
+12253,12,"Schlager 3.4x",5
+20589,61,"Demo Cleanshot 40",8
+20590,61,"Demo IMP-44 Grip",8
+15259,15,"1mW Quick Fire Laser",4
+15260,26,"1mW Quick Fire Laser",4
+15274,15,"Accu-Shot 5mW Laser",4
+19087,26,"XTEN Nexus Grip",8
+19088,39,"XTEN Nexus Grip",8
+19089,33,"XTEN Nexus Grip",8
+19091,11,"XTEN Nexus Grip",8
+19092,2,"XTEN Nexus Grip",8
+19093,20,"XTEN Nexus Grip",8
+19094,17,"XTEN Nexus Grip",8
+19095,21,"XTEN Nexus Grip",8
+19096,22,"XTEN Nexus Grip",8
+14642,46,"1mW Artemis Laser",4
+10639,30,"Schlager ULO-66 Laser",4
+10640,11,"Schlager ULO-66 Laser",4
+10641,20,"Schlager ULO-66 Laser",4
+10642,9,"Schlager ULO-66 Laser",4
+13985,45,"6.5mm Incendiary",11
+13987,31,".300 Mag Armor Piercing",11
+13988,31,".300 Mag Incendiary",11
+10914,19,"Komodo Heavy",1
+13989,31,".300 Mag Frangible",11
+10651,11,"Stovl TAC Laser",4
+11499,10,"Cronen Mini Red Dot",5
+11722,39,"DF105 Reflex Sight",5
+11268,18,"Bruen Cubic Comp",1
+12084,40,"Corvus Downrange-00",5
+12085,17,"Corvus Downrange-00",5
+12297,42,"Cronen Zero-P Optic",5
+12438,9,"Schlager Night View",5
+12439,38,"Schlager Night View",5
+12440,32,"Schlager Night View",5
+20520,61,"Polarfire-S",1
+20521,61,"ZLR Talon 5",1
+20522,61,"Echoline GS-X",1
+20523,61,"Zulu-60",1
+20573,61,"DXS Coriolis V4",5
+20574,61,"Lachmann Impact 9",5
+20575,61,"SP-X 80 6.6x",5
+20576,61,"FTAC Locus SP",5
+20577,61,"SZ Heatsource 800",5
+20578,61,"Aim OP-V4",5
+20627,61,"30 Round Mag",13
+20462,59,"SZ Oscar-9",5
+20500,59,"Blastcap 20"" Bolts",19
+14039,28,"18"" Precision-6 Barrel",2
+14132,11,"21.5"" Recourse",2
+14177,6,"XTEN Harbinger",2
+14092,27,"16.5"" STB Factory",2
+14229,21,"100 Round Mag",13
+14231,42,"Single Tap Mod",13
+14139,11,"21.5"" Bryson Tacfire",2
+14364,27,"Bruen HCR 56 Stock",6
+14367,34,"FTAC RTP-40 Stock",6
+14858,47,"SZ Sigma-IV Optic",5
+20591,61,"FTAC Tiger Grip",8
+11204,12,"XRK Kraken",1
+14860,47,"XRK On-Point Optic",5
+14861,47,"DF105 Reflex Sight",5
+10835,17,"ZLR Talon 5",1
+12945,12,"Victus 13x",5
+10872,10,"Echoless-80",1
+12941,12,"MCPR-300 9.5x",5
+14621,6,"Bruen Express",10
+11300,18,"TA Hul-Breach",1
+20344,57,"Daunt-C80",5
+11030,17,"Zulu-60",1
+12973,14,"Edge-47 Grip",8
+11113,2,"Bore-490",1
+11143,25,"Demon Helix T7",1
+20055,49,"BPZ40 Hybrid",5
+20077,49,"Agent Grip",8
+20079,49,"XTEN Drop Grip",8
+13937,15,"5.7x28mm Overpressured +P",11
+13938,44,"9mm Frangible",11
+10696,20,"EXF Solarflare",4
+10697,9,"EXF Solarflare",4
+10698,6,"Series 710 Pistol Laser",4
+20167,56,"XTEN Ported 290",1
+20168,56,"Cronen OP44",1
+20169,56,"FTAC Castle Comp",1
+20170,56,"XTEN Havoc 90",1
+20171,56,"Zulu-60",1
+20172,56,"Sakin Tread-40",1
+20173,56,"C400 Door Knocker",1
+20174,56,"Cronen MAW-86",1
+20175,56,"FJX Fulcrum Pro",1
+20176,56,"JCZ-390 Muzzle Device",1
+20177,56,"Slimline Pro",5
+20179,56,"Cronen Mini Red Dot",5
+20180,56,"Cronen Mini Pro",5
+13939,44,"9mm Hollowpoint",11
+13940,44,"9mm Armor Piercing",11
+11172,31,"Talon Sixteen",1
+14271,16,"Ravage-8",6
+11173,25,"Talon Sixteen",1
+12441,45,"Schlager Night View",5
+12442,31,"Schlager Night View",5
+14315,19,"FT TAC-Elite Stock",6
+12443,37,"Schlager Night View",5
+12444,25,"Schlager Night View",5
+12445,12,"Schlager Night View",5
+12481,10,"Teplo-OP3 Scope",5
+12482,8,"Teplo-OP3 Scope",5
+12483,4,"Teplo-OP3 Scope",5
+14761,48,"Corio Enforcer Optic",5
+12484,35,"Teplo-OP3 Scope",5
+17975,22,"SZ Battle Optic",5
+17976,7,"SZ Battle Optic",5
+17977,9,"SZ Battle Optic",5
+17978,38,"SZ Battle Optic",5
+17979,32,"SZ Battle Optic",5
+17980,45,"SZ Battle Optic",5
+20592,61,"FSS Sharkfin 90",8
+20593,61,"Agent Grip",8
+11846,20,"SZ Recharge-DX",5
+17982,37,"SZ Battle Optic",5
+17983,1,"SZ Battle Optic",5
+17984,3,"SZ Battle Optic",5
+17985,13,"SZ Battle Optic",5
+12485,42,"Teplo-OP3 Scope",5
+17987,8,"SZ Oscar-9",5
+17988,4,"SZ Oscar-9",5
+18058,16,"3x RFL-Optic",5
+19030,22,"Commando Foregrip",8
+20421,59,"SZ Sigma-IV Optic",5
+11653,7,"SZ Minitac-40",5
+11704,8,"DF105 Reflex Sight",5
+20212,56,"FTAC Charlie7",5
+10947,14,"Forge DX90-F",1
+12022,42,"Kazan-Holo",5
+12023,16,"Kazan-Holo",5
+12024,43,"Kazan-Holo",5
+12025,19,"Kazan-Holo",5
+12026,23,"Kazan-Holo",5
+12027,34,"Kazan-Holo",5
+12028,28,"Kazan-Holo",5
+12029,29,"Kazan-Holo",5
+12069,18,"Corvus Downrange-00",5
+12070,27,"Corvus Downrange-00",5
+12071,24,"Corvus Downrange-00",5
+20000,49,"Stovl TAC Laser",4
+12072,41,"Corvus Downrange-00",5
+14057,41,"SA Response III",2
+12073,14,"Corvus Downrange-00",5
+12074,44,"Corvus Downrange-00",5
+12075,15,"Corvus Downrange-00",5
+12076,26,"Corvus Downrange-00",5
+12077,39,"Corvus Downrange-00",5
+12078,33,"Corvus Downrange-00",5
+12079,30,"Corvus Downrange-00",5
+12080,11,"Corvus Downrange-00",5
+12081,2,"Corvus Downrange-00",5
+12082,20,"Corvus Downrange-00",5
+12083,36,"Corvus Downrange-00",5
+12086,21,"Corvus Downrange-00",5
+12087,22,"Corvus Downrange-00",5
+12332,10,"SZ Bullseye Optic",5
+12816,35,"Luca Bandera Scope",5
+13009,20,"Demo Firm Grip",8
+13010,36,"Demo Firm Grip",8
+13011,17,"Demo Firm Grip",8
+13012,21,"Demo Firm Grip",8
+13013,22,"Demo Firm Grip",8
+13014,9,"Demo Firm Grip",8
+13015,38,"Demo Firm Grip",8
+13016,32,"Demo Firm Grip",8
+13045,32,"XTEN Gravedigger",8
+13046,45,"XTEN Gravedigger",8
+13047,37,"XTEN Gravedigger",8
+13049,8,"FTAC Ripper 56",8
+13050,4,"FTAC Ripper 56",8
+20594,61,"Bruen Sync Shot Grip",8
+13051,35,"FTAC Ripper 56",8
+13052,42,"FTAC Ripper 56",8
+13053,16,"FTAC Ripper 56",8
+13054,19,"FTAC Ripper 56",8
+10937,24,"XTEN RR-40",1
+11036,45,"Zulu-60",1
+13313,24,"Phase-3 Grip",8
+13314,14,"Phase-3 Grip",8
+18855,41,"Bruen Warrior Grip",8
+11187,29,"Cronen DM338",1
+11188,40,"Cronen DM338",1
+20232,56,"Bruen Sync Shot Grip",8
+10808,34,"Husher-65 Silencer",1
+14894,47,"Aim OP-V4",5
+14895,47,"SZ Battle Optic",5
+14896,47,"SZ Oscar-9",5
+14897,47,"DS Farsight 11",5
+14898,47,"3x RFL-Optic",5
+14900,47,"Demo Firm Grip",8
+15275,26,"Accu-Shot 5mW Laser",4
+15437,26,"7mW Canted Laser",4
+15438,39,"7mW Canted Laser",4
+15439,33,"7mW Canted Laser",4
+15440,30,"7mW Canted Laser",4
+15441,11,"7mW Canted Laser",4
+15442,20,"7mW Canted Laser",4
+10904,43,"RF Crown 50",1
+10905,19,"RF Crown 50",1
+10906,20,"RF Crown 50",1
+10907,36,"RF Crown 50",1
+10908,10,"Komodo Heavy",1
+14617,3,"B-3ST Loader",15
+14618,3,"S40 Rapid Loader",15
+10909,8,"Komodo Heavy",1
+10910,35,"Komodo Heavy",1
+10911,42,"Komodo Heavy",1
+15443,9,"7mW Canted Laser",4
+13972,9,".45 GVT High Velocity",11
+12235,33,"Schlager 3.4x",5
+13973,9,".45 GVT Incendiary",11
+18023,31,"SZ Oscar-9",5
+18057,42,"3x RFL-Optic",5
+13986,31,".300 Magnum",11
+19082,24,"XTEN Nexus Grip",8
+19083,41,"XTEN Nexus Grip",8
+19084,14,"XTEN Nexus Grip",8
+19086,15,"XTEN Nexus Grip",8
+13296,32,"XTEN Drop Grip",8
+13297,45,"XTEN Drop Grip",8
+13298,37,"XTEN Drop Grip",8
+13299,13,"XTEN Drop Grip",8
+13332,10,"Merc Foregrip",8
+13333,8,"Merc Foregrip",8
+13334,4,"Merc Foregrip",8
+14905,47,"FTAC Tiger Grip",8
+13335,35,"Merc Foregrip",8
+13336,42,"Merc Foregrip",8
+13337,16,"Merc Foregrip",8
+13338,43,"Merc Foregrip",8
+14062,23,"Lachmann Nova",2
+20595,61,"XTEN Drop Grip",8
+20596,61,"Phase-3 Grip",8
+20597,61,"Lockgrip Precision-40",8
+20598,61,"Hex-40 Grip",8
+10931,43,"Cronen OP44",1
+20426,59,"Corvus SOL-76",5
+20427,59,"SZ Recharge-DX",5
+20428,59,"SZ SRO-7",5
+20429,59,"Corio RE-X Pro",5
+20430,59,"Corio Enforcer Optic",5
+20475,59,"Phase-3 Grip",8
+20274,56,"Mace 600",6
+14254,32,"5 Round Mag",13
+14045,19,"KAS-7 406mm",2
+20325,57,"Corvus Downrange-00",5
+14115,15,"FTAC Defense 14.5""",2
+14118,15,"18.75"" Cloak 90",2
+14179,1,"SA Comp Barrel",2
+14234,27,"32 Round Mag",13
+14253,7,"15 Round Mag",13
+11350,33,"MACK8 Frost Bite",1
+11351,30,"MACK8 Frost Bite",1
+14382,15,"CQB Stock",6
+11418,8,"Slimline Pro",5
+20115,2,"FR Titan Silencer",1
+14684,46,"SZ Heatsource 800",5
+14690,46,"SZ Battle Optic",5
+14477,43,"True-TAC Grip",16
+10342,37,"Schlager PEQ Box IV",4
+11960,33,"Corio Enforcer Optic",5
+12674,10,"Angel-40 4.8x",5
+10372,25,"Corio LAZ-44 V3",4
+10373,12,"Corio LAZ-44 V3",4
+11836,41,"SZ Recharge-DX",5
+14805,48,"9mm Frangible",11
+14870,47,"Corvus Downrange-00",5
+10749,19,"VLK Koloss Flash Hider",1
+10751,36,"VLK Koloss Flash Hider",1
+10752,10,"Broadhead-3DP",1
+10753,8,"Broadhead-3DP",1
+10754,35,"Broadhead-3DP",1
+10755,42,"Broadhead-3DP",1
+10756,16,"Broadhead-3DP",1
+10757,43,"Broadhead-3DP",1
+10758,19,"Broadhead-3DP",1
+10791,38,"TZL-90 V3",1
+10792,32,"TZL-90 V3",1
+10794,4,"Cronen Dark KX30",1
+14616,9,"Longhorn Lever",12
+10795,23,"Cronen Dark KX30",1
+10796,34,"Cronen Dark KX30",1
+10797,28,"Cronen Dark KX30",1
+10798,2,"Cronen Dark KX30",1
+10799,17,"Cronen Dark KX30",1
+10800,21,"Cronen Dark KX30",1
+14331,41,"Spetsnaz S10 Stock",6
+10802,7,"Cronen Dark KX30",1
+12050,38,"Kazan-Holo",5
+10803,38,"Cronen Dark KX30",1
+10804,32,"Cronen Dark KX30",1
+20338,57,"Hybrid Firepoint",5
+10813,22,"Husher-65 Silencer",1
+10814,7,"Husher-65 Silencer",1
+10815,38,"Husher-65 Silencer",1
+20128,17,"SA Leveler 55",1
+20129,21,"SA Leveler 55",1
+20281,57,"1mW Quick Fire Laser",4
+20676,63,"VX350 Thermal Optic",5
+13167,13,"FTAC Tiger Grip",8
+10961,24,"Singuard MKV",1
+13323,36,"Phase-3 Grip",8
+20286,57,"Hipshot L20",4
+20682,63,"Angel-40 4.8x",5
+11034,38,"Zulu-60",1
+11039,34,"Kastovia DX90",1
+11083,24,"XRK Sandstorm",1
+11109,4,"Bore-490",1
+11822,8,"SZ Recharge-DX",5
+20698,63,"Signal 50 8x",5
+20008,49,"TZL-90 V3",1
+13142,19,"FTAC Tiger Grip",8
+20699,63,"Corio 13x VRS",5
+20700,63,"Raptor-FVM40",5
+13957,11,"12 Gauge Slug",11
+11222,29,"Sakin Tread-40",1
+11223,2,"Sakin Tread-40",1
+11224,20,"Sakin Tread-40",1
+11225,36,"Sakin Tread-40",1
+13754,4,"XTEN Stable Shot",8
+13755,35,"XTEN Stable Shot",8
+13756,42,"XTEN Stable Shot",8
+13757,16,"XTEN Stable Shot",8
+13758,43,"XTEN Stable Shot",8
+13759,19,"XTEN Stable Shot",8
+13760,23,"XTEN Stable Shot",8
+13761,34,"XTEN Stable Shot",8
+13762,28,"XTEN Stable Shot",8
+13763,29,"XTEN Stable Shot",8
+13764,36,"XTEN Stable Shot",8
+13765,21,"XTEN Stable Shot",8
+13138,35,"FTAC Tiger Grip",8
+13139,42,"FTAC Tiger Grip",8
+13140,16,"FTAC Tiger Grip",8
+13141,43,"FTAC Tiger Grip",8
+13930,14,"5.7x28mm Frangible",11
+13143,23,"FTAC Tiger Grip",8
+13339,19,"Merc Foregrip",8
+13340,23,"Merc Foregrip",8
+13341,34,"Merc Foregrip",8
+13342,28,"Merc Foregrip",8
+13343,29,"Merc Foregrip",8
+13344,18,"Merc Foregrip",8
+13346,14,"Merc Foregrip",8
+13347,15,"Merc Foregrip",8
+13348,26,"Merc Foregrip",8
+13349,39,"Merc Foregrip",8
+13350,33,"Merc Foregrip",8
+13351,30,"Merc Foregrip",8
+13150,15,"FTAC Tiger Grip",8
+13144,34,"FTAC Tiger Grip",8
+13145,28,"FTAC Tiger Grip",8
+20366,57,"Operator Foregrip",8
+16190,35,"Cronen MAW-86",1
+16191,42,"Cronen MAW-86",1
+10565,22,"Luminate-44",4
+17925,33,"Aim OP-V4",5
+17938,32,"Aim OP-V4",5
+12387,44,"SZ Aggressor-IR Optic",5
+12388,15,"SZ Aggressor-IR Optic",5
+12389,26,"SZ Aggressor-IR Optic",5
+12390,39,"SZ Aggressor-IR Optic",5
+12391,33,"SZ Aggressor-IR Optic",5
+12393,11,"SZ Aggressor-IR Optic",5
+18016,21,"SZ Oscar-9",5
+18017,22,"SZ Oscar-9",5
+18018,7,"SZ Oscar-9",5
+18019,9,"SZ Oscar-9",5
+18020,38,"SZ Oscar-9",5
+18021,32,"SZ Oscar-9",5
+18022,45,"SZ Oscar-9",5
+18025,37,"SZ Oscar-9",5
+18026,25,"SZ Oscar-9",5
+20396,57,"Otrezat Stock",6
+20397,57,"VLK Stockless",6
+20398,57,"Hardtac 40",6
+20399,57,"K-Bloc Stock",6
+20400,57,"Ivanov ST-70 Grip",16
+20401,57,"Demo-X2 Grip",16
+20402,57,"True-TAC Grip",16
+20403,57,"Brace LS",16
+20404,57,"Hardbolt 2.1",14
+20405,57,"Dashbolt 60",14
+20144,56,"SZ 1mW PEQ",4
+20145,56,"Schlager PEQ Box IV",4
+20146,56,"Corio LAZ-44 V3",4
+20147,56,"FSS OLE-V Laser",4
+13151,26,"FTAC Tiger Grip",8
+13152,39,"FTAC Tiger Grip",8
+20148,56,"Canted Vibro-Dot 7",4
+20149,56,"1mW Laser Box",4
+19041,43,"EXF Backdraft Grip",8
+11354,30,"XTEN Full Choke",1
+11531,9,"Cronen Mini Red Dot",5
+11586,16,"SZ Sigma-IV Optic",5
+11697,32,"XRK On-Point Optic",5
+11749,19,"Monocle CT90",5
+19063,22,"EXF Backdraft Grip",8
+20853,62,"Sakin ZX Grip",16
+12014,37,"SZ Lonewolf Optic",5
+12000,30,"SZ Lonewolf Optic",5
+12117,33,"SZ Holotherm",5
+12118,30,"SZ Holotherm",5
+12119,11,"SZ Holotherm",5
+12121,20,"SZ Holotherm",5
+12122,36,"SZ Holotherm",5
+12123,40,"SZ Holotherm",5
+12151,41,"XTEN Angel-40",5
+12152,44,"XTEN Angel-40",5
+12153,15,"XTEN Angel-40",5
+12154,26,"XTEN Angel-40",5
+12155,39,"XTEN Angel-40",5
+12156,33,"XTEN Angel-40",5
+12157,30,"XTEN Angel-40",5
+12158,11,"XTEN Angel-40",5
+12159,2,"XTEN Angel-40",5
+12160,20,"XTEN Angel-40",5
+12161,36,"XTEN Angel-40",5
+12188,18,"VLK 4.0 Optic",5
+12189,27,"VLK 4.0 Optic",5
+12190,24,"VLK 4.0 Optic",5
+12191,41,"VLK 4.0 Optic",5
+12192,44,"VLK 4.0 Optic",5
+12193,15,"VLK 4.0 Optic",5
+12194,26,"VLK 4.0 Optic",5
+12195,39,"VLK 4.0 Optic",5
+12196,33,"VLK 4.0 Optic",5
+12197,30,"VLK 4.0 Optic",5
+12545,36,"DR582 Hybrid Sight",5
+12884,33,"Corio CQC Scope",5
+13183,15,"FSS Sharkfin 90",8
+13184,26,"FSS Sharkfin 90",8
+20313,57,"SZ Sigma-IV Optic",5
+13185,39,"FSS Sharkfin 90",8
+13186,33,"FSS Sharkfin 90",8
+13187,30,"FSS Sharkfin 90",8
+13188,11,"FSS Sharkfin 90",8
+13189,2,"FSS Sharkfin 90",8
+13190,20,"FSS Sharkfin 90",8
+13192,17,"FSS Sharkfin 90",8
+13193,21,"FSS Sharkfin 90",8
+13194,22,"FSS Sharkfin 90",8
+13195,9,"FSS Sharkfin 90",8
+13196,38,"FSS Sharkfin 90",8
+13197,32,"FSS Sharkfin 90",8
+13198,45,"FSS Sharkfin 90",8
+13199,37,"FSS Sharkfin 90",8
+13200,13,"FSS Sharkfin 90",8
+13201,10,"Agent Grip",8
+13202,8,"Agent Grip",8
+13203,4,"Agent Grip",8
+13204,35,"Agent Grip",8
+13205,42,"Agent Grip",8
+13906,29,".458 Hollow Point",11
+13206,16,"Agent Grip",8
+13207,43,"Agent Grip",8
+12211,31,"VLK 4.0 Optic",5
+13208,19,"Agent Grip",8
+13209,23,"Agent Grip",8
+13210,34,"Agent Grip",8
+13352,11,"Merc Foregrip",8
+14753,48,"SZ Minitac-40",5
+13211,28,"Agent Grip",8
+13212,29,"Agent Grip",8
+13460,10,"VX Pineapple",8
+13485,21,"VX Pineapple",8
+13606,33,"Bruen Tilt Grip",8
+13660,23,"Bruen Warrior Grip",8
+13722,32,"Level Aim Bipod",8
+18032,42,"DS Farsight 11",5
+18033,16,"DS Farsight 11",5
+18034,19,"DS Farsight 11",5
+10349,16,"Corio LAZ-44 V3",4
+13304,42,"Phase-3 Grip",8
+12680,43,"Angel-40 4.8x",5
+20322,57,"Corio Enforcer Optic",5
+20240,56,"OP-X9 Foregrip",8
+12944,25,"Victus 13x",5
+11244,34,"GL Clear Breach",1
+14574,15,"TV TACComb",7
+14568,34,"5GN TAC-Comb",7
+14903,47,"Demo Cleanshot 40",8
+14904,47,"Demo IMP-44 Grip",8
+14906,47,"FSS Sharkfin 90",8
+19097,9,"XTEN Nexus Grip",8
+19098,38,"XTEN Nexus Grip",8
+19099,32,"XTEN Nexus Grip",8
+19100,13,"XTEN Nexus Grip",8
+14637,46,"Stovl TAC Laser",4
+14639,46,"Point-G3P 04",4
+14640,46,"FJX Ultrabeam XR",4
+14641,46,"EXF Solarflare",4
+14079,38,"Meer-76 449mm Factory",2
+14426,31,"FSS Merc Stock",6
+14780,48,"Thermo-Optic X9",5
+10314,25,"SZ 1mW PEQ",4
+12687,37,"Angel-40 4.8x",5
+13774,25,"XTEN Stable Shot",8
+13775,12,"XTEN Stable Shot",8
+12476,45,"VX350 Thermal Optic",5
+14327,19,"Markeev R7 Stock",6
+14424,31,"Cronen Lion Stock",6
+13153,33,"FTAC Tiger Grip",8
+13154,30,"FTAC Tiger Grip",8
+13155,11,"FTAC Tiger Grip",8
+13156,2,"FTAC Tiger Grip",8
+20230,56,"FSS Sharkfin 90",8
+13157,20,"FTAC Tiger Grip",8
+13158,36,"FTAC Tiger Grip",8
+10919,35,"XTEN Ported 290",1
+14941,47,"Bruen R90 Factory",6
+10960,27,"Singuard MKV",1
+20045,49,"Schlager 3.4x",5
+14524,32,"Schlager Match Grip",16
+11107,32,"Lockshot KT85",1
+20062,49,"Drexsom Prime-90",5
+20086,49,"OP-X9 Foregrip",8
+14004,25,".300 High Velocity",11
+14005,12,".300 High Velocity",11
+14006,25,".300 Overpressured +P",11
+10411,34,"Canted Vibro-Dot 7",4
+14009,1,".50 Pistol Hollowpoint",11
+14046,17,"KAS-7 406mm",2
+14122,39,"11"" Bryson Special",2
+14183,13,"XRK Sidewinder-6 Slide",2
+14242,18,"50 Round Mag",13
+14375,18,"Demo RXT Stock",6
+10785,28,"TZL-90 V3",1
+11420,35,"Slimline Pro",5
+14687,46,"Signal 50 8x",5
+14529,12,"Bruen Lynx Grip",16
+15422,26,"1mW Artemis Laser",4
+16189,8,"Cronen MAW-86",1
+16241,37,"Bruen Counter-Ops",1
+20109,49,"Bruen Flash Grip",16
+14587,33,"Schlager Fang Grip",17
+14588,33,"Schlager Void Grip",17
+14263,1,"13 Round Mag",13
+17917,24,"Aim OP-V4",5
+17918,41,"Aim OP-V4",5
+17919,14,"Aim OP-V4",5
+17920,44,"Aim OP-V4",5
+17922,15,"Aim OP-V4",5
+13396,10,"Hex-40 Grip",8
+14688,46,"Corio 13x VRS",5
+14689,46,"Raptor-FVM40",5
+14475,17,"Demo-X2 Grip",16
+14476,4,"True-TAC Grip",16
+10335,21,"Schlager PEQ Box IV",4
+10345,10,"Corio LAZ-44 V3",4
+10365,22,"Corio LAZ-44 V3",4
+10499,14,"Corvus PEQ Beam-5",4
+20027,49,"Cronen Mini Red Dot",5
+14807,48,"9mm Armor Piercing",11
+12464,26,"VX350 Thermal Optic",5
+14427,37,"FSS Echo Stock",6
+13796,2,"Soshki",8
+14632,26,"Point-G3P 04",4
+20332,57,"SZ Bullseye Optic",5
+11859,3,"SZ Recharge-DX",5
+11953,24,"Corio Enforcer Optic",5
+14757,48,"Corvus SOL-76",5
+10496,28,"Corvus PEQ Beam-5",4
+14586,33,"Goliath 77 Grip",17
+20337,57,"DR582 Hybrid Sight",5
+10604,18,"1mW Quick Fire Laser",4
+10605,27,"1mW Quick Fire Laser",4
+10606,24,"1mW Quick Fire Laser",4
+11413,3,"FSS KL30",1
+14842,47,"RF Crown 50",1
+14843,47,"Komodo Heavy",1
+14844,47,"XTEN Ported 290",1
+14846,47,"FTAC Castle Comp",1
+14848,47,"Zulu-60",1
+14849,47,"Sakin Tread-40",1
+14850,47,"C400 Door Knocker",1
+14851,47,"Cronen MAW-86",1
+14852,47,"FJX Fulcrum Pro",1
+14853,47,"JCZ-390 Muzzle Device",1
+14854,47,"Slimline Pro",5
+14856,47,"Cronen Mini Red Dot",5
+14857,47,"Cronen Mini Pro",5
+14859,47,"SZ Minitac-40",5
+14862,47,"Monocle CT90",5
+14863,47,"Corvus SOL-76",5
+10708,5,"XTEN Sidearm-L400",4
+10709,13,"XTEN Sidearm-L400",4
+10710,6,"1mW Pistol Laser",4
+10750,20,"VLK Koloss Flash Hider",1
+11174,12,"Talon Sixteen",1
+13914,27,"9mm Sub FR",11
+14528,32,"Bruen Lynx Grip",16
+14287,10,"Demo D50 Buffer Tube",6
+17902,10,"Aim OP-V4",5
+10552,23,"Luminate-44",4
+20100,49,"10"" SA Pheonix",2
+17953,23,"SZ Battle Optic",5
+17954,34,"SZ Battle Optic",5
+17955,28,"SZ Battle Optic",5
+17957,18,"SZ Battle Optic",5
+17958,27,"SZ Battle Optic",5
+17959,24,"SZ Battle Optic",5
+17960,41,"SZ Battle Optic",5
+17961,44,"SZ Battle Optic",5
+17963,15,"SZ Battle Optic",5
+17964,26,"SZ Battle Optic",5
+17965,39,"SZ Battle Optic",5
+17966,33,"SZ Battle Optic",5
+17967,30,"SZ Battle Optic",5
+17968,11,"SZ Battle Optic",5
+17969,2,"SZ Battle Optic",5
+17970,20,"SZ Battle Optic",5
+17971,36,"SZ Battle Optic",5
+17972,40,"SZ Battle Optic",5
+17973,17,"SZ Battle Optic",5
+17974,21,"SZ Battle Optic",5
+11486,17,"SZ Mini",5
+13055,23,"FTAC Ripper 56",8
+13056,34,"FTAC Ripper 56",8
+13057,28,"FTAC Ripper 56",8
+13058,29,"FTAC Ripper 56",8
+13059,18,"FTAC Ripper 56",8
+13060,14,"FTAC Ripper 56",8
+13061,15,"FTAC Ripper 56",8
+13062,39,"FTAC Ripper 56",8
+13063,33,"FTAC Ripper 56",8
+13064,30,"FTAC Ripper 56",8
+13065,11,"FTAC Ripper 56",8
+13066,2,"FTAC Ripper 56",8
+12486,16,"Teplo-OP3 Scope",5
+12487,43,"Teplo-OP3 Scope",5
+13067,20,"FTAC Ripper 56",8
+13068,36,"FTAC Ripper 56",8
+12204,21,"VLK 4.0 Optic",5
+13228,9,"Agent Grip",8
+12676,4,"Angel-40 4.8x",5
+13503,29,"OP-X9 Foregrip",8
+13558,4,"TV Wrecker Grip",8
+13622,4,"Cronen Grooveshot Grip",8
+13674,20,"Bruen Warrior Grip",8
+13675,36,"Bruen Warrior Grip",8
+13732,42,"Cornerstone Bipod",8
+10297,29,"SZ 1mW PEQ",4
+13331,13,"Phase-3 Grip",8
+11189,9,"Cronen DM338",1
+12164,21,"XTEN Angel-40",5
+12165,22,"XTEN Angel-40",5
+12166,7,"XTEN Angel-40",5
+12167,9,"XTEN Angel-40",5
+12168,38,"XTEN Angel-40",5
+12169,32,"XTEN Angel-40",5
+12170,45,"XTEN Angel-40",5
+12171,37,"XTEN Angel-40",5
+12679,16,"Angel-40 4.8x",5
+11845,2,"SZ Recharge-DX",5
+20246,56,"Bipod V9 Grip",8
+12512,9,"Teplo-OP3 Scope",5
+12513,38,"Teplo-OP3 Scope",5
+12514,32,"Teplo-OP3 Scope",5
+12515,45,"Teplo-OP3 Scope",5
+12516,31,"Teplo-OP3 Scope",5
+12517,37,"Teplo-OP3 Scope",5
+20031,49,"XRK On-Point Optic",5
+12518,25,"Teplo-OP3 Scope",5
+12753,17,"Teplo Clear Shot",5
+13098,17,"Demo Cleanshot 40",8
+13292,21,"XTEN Drop Grip",8
+13293,22,"XTEN Drop Grip",8
+10806,4,"Husher-65 Silencer",1
+12970,28,"Edge-47 Grip",8
+12971,29,"Edge-47 Grip",8
+12972,18,"Edge-47 Grip",8
+12974,15,"Edge-47 Grip",8
+12975,39,"Edge-47 Grip",8
+12976,33,"Edge-47 Grip",8
+12977,30,"Edge-47 Grip",8
+12978,11,"Edge-47 Grip",8
+12979,2,"Edge-47 Grip",8
+12980,20,"Edge-47 Grip",8
+12981,36,"Edge-47 Grip",8
+12982,17,"Edge-47 Grip",8
+12983,21,"Edge-47 Grip",8
+12984,22,"Edge-47 Grip",8
+13294,9,"XTEN Drop Grip",8
+20220,56,"DS Farsight 11",5
+13295,38,"XTEN Drop Grip",8
+13353,2,"Merc Foregrip",8
+13469,34,"VX Pineapple",8
+13532,23,"Operator Foregrip",8
+13645,21,"Cronen Grooveshot Grip",8
+13778,29,"SPW 40mm",8
+11986,19,"SZ Lonewolf Optic",5
+14321,44,"Kastov-Rama",6
+13809,42,"5.56 Frangible",11
+13810,16,"5.56 Frangible",11
+12665,7,"BPZ40 Hybrid",5
+12666,9,"BPZ40 Hybrid",5
+12985,9,"Edge-47 Grip",8
+12986,38,"Edge-47 Grip",8
+12987,32,"Edge-47 Grip",8
+12988,45,"Edge-47 Grip",8
+12989,37,"Edge-47 Grip",8
+10849,19,"Echoline GS-X",1
+10850,23,"Echoline GS-X",1
+10851,34,"Echoline GS-X",1
+12940,25,"MCPR-300 9.5x",5
+13397,8,"Hex-40 Grip",8
+13398,4,"Hex-40 Grip",8
+13399,35,"Hex-40 Grip",8
+13400,42,"Hex-40 Grip",8
+13403,19,"Hex-40 Grip",8
+13404,23,"Hex-40 Grip",8
+13405,34,"Hex-40 Grip",8
+14550,5,"Cronen LIMA-6",16
+13406,28,"Hex-40 Grip",8
+13407,29,"Hex-40 Grip",8
+13408,18,"Hex-40 Grip",8
+13409,24,"Hex-40 Grip",8
+13410,14,"Hex-40 Grip",8
+13411,15,"Hex-40 Grip",8
+13412,26,"Hex-40 Grip",8
+13413,39,"Hex-40 Grip",8
+13414,33,"Hex-40 Grip",8
+13415,30,"Hex-40 Grip",8
+13416,11,"Hex-40 Grip",8
+13417,2,"Hex-40 Grip",8
+13418,20,"Hex-40 Grip",8
+13419,36,"Hex-40 Grip",8
+12946,31,"Sightmax Clear Shot",5
+12955,25,"Corio 13x VRS",5
+12313,33,"Cronen Zero-P Optic",5
+12314,30,"Cronen Zero-P Optic",5
+12667,38,"BPZ40 Hybrid",5
+12668,32,"BPZ40 Hybrid",5
+12669,45,"BPZ40 Hybrid",5
+12670,31,"BPZ40 Hybrid",5
+13443,15,"Schlager Tango",8
+13444,26,"Schlager Tango",8
+13445,39,"Schlager Tango",8
+11419,4,"Slimline Pro",5
+13907,29,".458 Armor Piercing",11
+13453,21,"Schlager Tango",8
+13454,22,"Schlager Tango",8
+13455,9,"Schlager Tango",8
+13456,38,"Schlager Tango",8
+12956,12,"Corio 13x VRS",5
+12990,10,"Demo Firm Grip",8
+13078,8,"Demo Cleanshot 40",8
+13263,32,"Bruen Sync Shot Grip",8
+13457,45,"Schlager Tango",8
+13458,37,"Schlager Tango",8
+13518,22,"OP-X9 Foregrip",8
+13692,23,"Bipod V9 Grip",8
+13776,10,"SPW 40mm",8
+14270,10,"Ravage-8",6
+11008,24,"FTAC Castle Comp",1
+12469,20,"VX350 Thermal Optic",5
+12470,21,"VX350 Thermal Optic",5
+12308,41,"Cronen Zero-P Optic",5
+12309,44,"Cronen Zero-P Optic",5
+13508,26,"OP-X9 Foregrip",8
+13676,17,"Bruen Warrior Grip",8
+20233,56,"XTEN Drop Grip",8
+20234,56,"Phase-3 Grip",8
+20235,56,"Merc Foregrip",8
+20247,56,"Level Aim Bipod",8
+10699,1,"Series 710 Pistol Laser",4
+10700,5,"Series 710 Pistol Laser",4
+10701,13,"Series 710 Pistol Laser",4
+14100,22,"18"" Lonestar Barrel",2
+14003,12,".300 Hollowpoint",11
+14010,1,".50 Pistol Armor Piercing",11
+14047,4,"IG-K30 406mm",2
+13420,17,"Hex-40 Grip",8
+18036,23,"DS Farsight 11",5
+10649,33,"Stovl TAC Laser",4
+10650,30,"Stovl TAC Laser",4
+13808,35,"5.56 Frangible",11
+13811,20,"5.56 Frangible",11
+13812,36,"5.56 Frangible",11
+13813,10,"5.56 Armor Piercing",11
+13814,8,"5.56 Armor Piercing",11
+13815,35,"5.56 Armor Piercing",11
+13816,42,"5.56 Armor Piercing",11
+13817,16,"5.56 Armor Piercing",11
+10586,14,"DXS Flash 90",4
+10587,44,"DXS Flash 90",4
+14572,15,"MACK 8 Ontrak Comb",7
+12231,44,"Schlager 3.4x",5
+12232,15,"Schlager 3.4x",5
+10852,28,"Echoline GS-X",1
+10853,2,"Echoline GS-X",1
+11567,40,"Cronen Mini Pro",5
+14899,47,"Edge-47 Grip",8
+10884,42,"FSS Covert V",1
+20043,49,"XTEN Angel-40",5
+14518,2,"Bruen G305 Grip Wrap",16
+14623,1,"SA Competition Trigger",10
+10445,36,"1mW Laser Box",4
+10446,40,"1mW Laser Box",4
+13936,14,"5.7x28mm Overpressured +P",11
+13752,10,"XTEN Stable Shot",8
+13753,8,"XTEN Stable Shot",8
+12229,24,"Schlager 3.4x",5
+14525,12,"Schlager Match Grip",16
+15289,15,"VLK LZR 7mW",4
+15290,26,"VLK LZR 7mW",4
+15304,15,"Schlager ULO-66 Laser",4
+15305,26,"Schlager ULO-66 Laser",4
+15320,26,"Stovl TAC Laser",4
+15335,26,"Hipshot L20",4
+14121,39,"597mm Matuzek Inferno",2
+12233,26,"Schlager 3.4x",5
+15415,42,"1mW Artemis Laser",4
+15417,18,"1mW Artemis Laser",4
+15418,27,"1mW Artemis Laser",4
+15419,24,"1mW Artemis Laser",4
+15421,15,"1mW Artemis Laser",4
+15423,39,"1mW Artemis Laser",4
+15424,33,"1mW Artemis Laser",4
+15425,30,"1mW Artemis Laser",4
+15426,11,"1mW Artemis Laser",4
+15427,20,"1mW Artemis Laser",4
+15428,9,"1mW Artemis Laser",4
+15430,42,"7mW Canted Laser",4
+15432,18,"7mW Canted Laser",4
+15433,27,"7mW Canted Laser",4
+12234,39,"Schlager 3.4x",5
+13958,39,"12 Gauge Dragon's Breath",11
+15434,24,"7mW Canted Laser",4
+12601,16,"SZ Vortex-90",5
+13751,12,"Cornerstone Bipod",8
+13835,36,"5.56 Incendiary",11
+14750,48,"Cronen Mini Red Dot",5
+12466,33,"VX350 Thermal Optic",5
+10607,39,"1mW Quick Fire Laser",4
+10608,33,"1mW Quick Fire Laser",4
+10609,30,"1mW Quick Fire Laser",4
+10610,11,"1mW Quick Fire Laser",4
+15436,15,"7mW Canted Laser",4
+13963,40,".338 Mag Hollowpoint",11
+14304,45,"Tacverte Core Stock",6
+12392,30,"SZ Aggressor-IR Optic",5
+18075,37,"3x RFL-Optic",5
+19109,10,"5.56 Hollowpoint",11
+19110,8,"5.56 Hollowpoint",11
+14590,15,"GR33 Light Rail",3
+14591,39,"Bryson Natural Series Handguard",9
+14592,39,"Demo Carbon Guard",9
+14593,39,"Buck-Pro",9
+14594,30,"Demo X50 Tactical Pump",9
+14595,11,"Demo X50 Tactical Pump",9
+14596,30,"Lockwood Series II",9
+14597,11,"Lockwood Series II",9
+14598,30,"Demo Dropzone Pump",9
+14599,11,"Demo Dropzone Pump",9
+14600,9,"Lockwood Combat Guard",9
+14601,9,"Lockwood Saddle Guard",9
+14602,9,"Lockwood Commando Guard",9
+14603,33,"Expedite L-Bolt",14
+14604,33,"Expedite HZ3 Bolt",14
+14605,7,"ZLR Reinforced Lockbolt",14
+10567,38,"Luminate-44",4
+19112,42,"5.56 Hollowpoint",11
+19113,16,"5.56 Hollowpoint",11
+14570,34,"FSS LS-3 Comb",7
+19115,20,"5.56 Hollowpoint",11
+12500,39,"Teplo-OP3 Scope",5
+14182,5,"XRK Sidewinder-6 Slide",2
+12501,33,"Teplo-OP3 Scope",5
+12502,30,"Teplo-OP3 Scope",5
+12503,11,"Teplo-OP3 Scope",5
+12504,2,"Teplo-OP3 Scope",5
+12505,20,"Teplo-OP3 Scope",5
+12506,36,"Teplo-OP3 Scope",5
+12507,40,"Teplo-OP3 Scope",5
+12508,17,"Teplo-OP3 Scope",5
+12509,21,"Teplo-OP3 Scope",5
+12510,22,"Teplo-OP3 Scope",5
+12511,7,"Teplo-OP3 Scope",5
+12747,33,"Teplo Clear Shot",5
+13093,30,"Demo Cleanshot 40",8
+13254,11,"Bruen Sync Shot Grip",8
+13255,2,"Bruen Sync Shot Grip",8
+13256,20,"Bruen Sync Shot Grip",8
+13259,21,"Bruen Sync Shot Grip",8
+13260,22,"Bruen Sync Shot Grip",8
+13261,9,"Bruen Sync Shot Grip",8
+13262,38,"Bruen Sync Shot Grip",8
+13264,45,"Bruen Sync Shot Grip",8
+13265,37,"Bruen Sync Shot Grip",8
+13266,13,"Bruen Sync Shot Grip",8
+13268,8,"XTEN Drop Grip",8
+13269,4,"XTEN Drop Grip",8
+13270,35,"XTEN Drop Grip",8
+13271,42,"XTEN Drop Grip",8
+13272,16,"XTEN Drop Grip",8
+13273,43,"XTEN Drop Grip",8
+13274,19,"XTEN Drop Grip",8
+13275,23,"XTEN Drop Grip",8
+13276,34,"XTEN Drop Grip",8
+13277,28,"XTEN Drop Grip",8
+13278,29,"XTEN Drop Grip",8
+13279,18,"XTEN Drop Grip",8
+13280,24,"XTEN Drop Grip",8
+13281,14,"XTEN Drop Grip",8
+13282,15,"XTEN Drop Grip",8
+10611,20,"1mW Quick Fire Laser",4
+10612,9,"1mW Quick Fire Laser",4
+10613,42,"Accu-Shot 5mW Laser",4
+13283,26,"XTEN Drop Grip",8
+13284,39,"XTEN Drop Grip",8
+13428,10,"Schlager Tango",8
+13496,42,"OP-X9 Foregrip",8
+13616,38,"Bruen Tilt Grip",8
+13777,16,"SPW 40mm",8
+10291,16,"SZ 1mW PEQ",4
+10292,43,"SZ 1mW PEQ",4
+12684,28,"Angel-40 4.8x",5
+12685,29,"Angel-40 4.8x",5
+12686,31,"Angel-40 4.8x",5
+18680,41,"OP-X9 Foregrip",8
+18715,41,"Operator Foregrip",8
+12163,17,"XTEN Angel-40",5
+10912,16,"Komodo Heavy",1
+10913,43,"Komodo Heavy",1
+19111,35,"5.56 Hollowpoint",11
+11397,6,"XRK QZ-105",1
+10630,11,"VLK LZR 7mW",4
+10632,9,"VLK LZR 7mW",4
+10643,42,"Stovl TAC Laser",4
+10644,18,"Stovl TAC Laser",4
+10645,27,"Stovl TAC Laser",4
+10647,15,"Stovl TAC Laser",4
+10648,39,"Stovl TAC Laser",4
+10614,18,"Accu-Shot 5mW Laser",4
+12315,11,"Cronen Zero-P Optic",5
+12316,2,"Cronen Zero-P Optic",5
+12317,20,"Cronen Zero-P Optic",5
+12318,36,"Cronen Zero-P Optic",5
+12319,40,"Cronen Zero-P Optic",5
+10416,44,"Canted Vibro-Dot 7",4
+10779,38,"Eight-Point Flash Hider",1
+10780,32,"Eight-Point Flash Hider",1
+10781,45,"Eight-Point Flash Hider",1
+10787,17,"TZL-90 V3",1
+14889,47,"FTAC Charlie7",5
+10788,21,"TZL-90 V3",1
+10789,22,"TZL-90 V3",1
+10790,7,"TZL-90 V3",1
+10801,22,"Cronen Dark KX30",1
+10995,14,"AVR-T90 Comp",1
+13422,22,"Hex-40 Grip",8
+14500,27,"STIP-40 Grip",16
+11032,22,"Zulu-60",1
+20074,49,"Demo IMP-44 Grip",8
+20083,49,"Hex-40 Grip",8
+13135,10,"FTAC Tiger Grip",8
+14532,31,"Cronen Cheetah Grip",16
+14533,37,"Stalwart Grip",16
+14534,37,"Cronen Blockade Grip",16
+14535,37,"SA Finesse Grip",16
+14536,6,"Bruen Anchor Grip",16
+14537,6,"FJX DVF60 Grip",16
+12671,37,"BPZ40 Hybrid",5
+12672,25,"BPZ40 Hybrid",5
+12673,12,"BPZ40 Hybrid",5
+12690,10,"Thermo-Optic X9",5
+12691,8,"Thermo-Optic X9",5
+12692,4,"Thermo-Optic X9",5
+12693,35,"Thermo-Optic X9",5
+12722,45,"Thermo-Optic X9",5
+12723,31,"Thermo-Optic X9",5
+12724,37,"Thermo-Optic X9",5
+12725,25,"Thermo-Optic X9",5
+12236,30,"Schlager 3.4x",5
+12237,11,"Schlager 3.4x",5
+12238,2,"Schlager 3.4x",5
+12239,20,"Schlager 3.4x",5
+11566,36,"Cronen Mini Pro",5
+11629,19,"SZ Minitac-40",5
+14162,12,"22"" Cavalry Barrel",2
+12351,39,"SZ Bullseye Optic",5
+12560,35,"Hybrid Firepoint",5
+12657,11,"BPZ40 Hybrid",5
+12658,2,"BPZ40 Hybrid",5
+12659,20,"BPZ40 Hybrid",5
+12660,36,"BPZ40 Hybrid",5
+10773,28,"Eight-Point Flash Hider",1
+14237,34,"50 Round Drum",13
+14672,46,"Angel-40 4.8x",5
+14168,31,"22"" OMX-456",2
+14675,46,"FTAC Charlie7",5
+11417,10,"Slimline Pro",5
+14685,46,"MCPR-300 9.5x",5
+14686,46,"Sightmax Clear Shot",5
+14691,46,"SZ Oscar-9",5
+14478,19,"True-TAC Grip",16
+14479,41,"True-TAC Grip",16
+10338,38,"Schlager PEQ Box IV",4
+10339,32,"Schlager PEQ Box IV",4
+14758,48,"SZ Recharge-DX",5
+14325,4,"Markeev R7 Stock",6
+10502,2,"Corvus PEQ Beam-5",4
+14799,48,"TV Wrecker Grip",8
+14800,48,"Bruen Tilt Grip",8
+10736,35,"Dark KX30",1
+14007,12,".300 Overpressured +P",11
+15365,26,"FJX Ultrabeam XR",4
+15380,26,"EXF Solarflare",4
+12951,25,"Signal 50 8x",5
+19116,36,"5.56 Hollowpoint",11
+14571,22,"FSS LS-3 Comb",7
+19240,24,"9mm Overpressured +P",11
+19241,41,"9mm Overpressured +P",11
+12648,27,"BPZ40 Hybrid",5
+19243,5,"9mm Overpressured +P",11
+13795,2,"Cronen WL55",8
+14636,46,"Schlager ULO-66 Laser",4
+12396,40,"SZ Aggressor-IR Optic",5
+11506,19,"Cronen Mini Red Dot",5
+11733,7,"DF105 Reflex Sight",5
+14267,13,"33 Round Mag",13
+10661,30,"Hipshot L20",4
+11881,33,"SZ SRO-7",5
+12338,43,"SZ Bullseye Optic",5
+12488,19,"Teplo-OP3 Scope",5
+10786,2,"TZL-90 V3",1
+12068,29,"Corvus Downrange-00",5
+12489,23,"Teplo-OP3 Scope",5
+12490,34,"Teplo-OP3 Scope",5
+12491,28,"Teplo-OP3 Scope",5
+12492,29,"Teplo-OP3 Scope",5
+12493,18,"Teplo-OP3 Scope",5
+12494,27,"Teplo-OP3 Scope",5
+12495,24,"Teplo-OP3 Scope",5
+12496,41,"Teplo-OP3 Scope",5
+12497,44,"Teplo-OP3 Scope",5
+12498,15,"Teplo-OP3 Scope",5
+12499,26,"Teplo-OP3 Scope",5
+12037,39,"Kazan-Holo",5
+10631,20,"VLK LZR 7mW",4
+12661,40,"BPZ40 Hybrid",5
+12662,17,"BPZ40 Hybrid",5
+12663,21,"BPZ40 Hybrid",5
+12664,22,"BPZ40 Hybrid",5
+14926,47,"SPW 40mm",8
+13257,36,"Bruen Sync Shot Grip",8
+13258,17,"Bruen Sync Shot Grip",8
+12320,17,"Cronen Zero-P Optic",5
+12321,21,"Cronen Zero-P Optic",5
+12322,22,"Cronen Zero-P Optic",5
+12323,7,"Cronen Zero-P Optic",5
+12324,9,"Cronen Zero-P Optic",5
+13017,45,"Demo Firm Grip",8
+13018,37,"Demo Firm Grip",8
+13019,10,"XTEN Gravedigger",8
+14720,48,"VLK LZR 7mW",4
+14418,25,"ZLR T70 Pad Extension",6
+14419,12,"Max DMR Precision",6
+14431,13,"XRK Dynamic Precision Stock",6
+14456,45,"XRK Response Grip",16
+14745,48,"TA Hul-Breach",1
+10481,32,"Stovl DR Laser Box",4
+10759,20,"Broadhead-3DP",1
+10760,36,"Broadhead-3DP",1
+10770,4,"Eight-Point Flash Hider",1
+10771,23,"Eight-Point Flash Hider",1
+10772,34,"Eight-Point Flash Hider",1
+10774,2,"Eight-Point Flash Hider",1
+10775,17,"Eight-Point Flash Hider",1
+10776,21,"Eight-Point Flash Hider",1
+10777,22,"Eight-Point Flash Hider",1
+10778,7,"Eight-Point Flash Hider",1
+10415,14,"Canted Vibro-Dot 7",4
+10574,10,"DXS Flash 90",4
+14366,20,"Bruen STB 556 Stock",6
+12726,12,"Thermo-Optic X9",5
+12856,25,"Drexsom Prime-90",5
+13267,10,"XTEN Drop Grip",8
+13429,8,"Schlager Tango",8
+13430,4,"Schlager Tango",8
+13432,42,"Schlager Tango",8
+13433,16,"Schlager Tango",8
+13434,43,"Schlager Tango",8
+13022,35,"XTEN Gravedigger",8
+13287,11,"XTEN Drop Grip",8
+13471,29,"VX Pineapple",8
+13530,43,"Operator Foregrip",8
+11904,42,"Corio RE-X Pro",5
+14573,15,"FTAC H86 Cheek Rest",7
+14575,9,"Lockwood Defender Comb",7
+14576,9,"Wingman Comb",7
+14577,9,"Lockwood Merciless",7
+12598,4,"SZ Vortex-90",5
+12599,35,"SZ Vortex-90",5
+12600,42,"SZ Vortex-90",5
+13918,24,"9mm Frangible",11
+13919,41,"9mm Frangible",11
+13920,5,"9mm Frangible",11
+13921,13,"9mm Frangible",11
+13927,41,"9mm Armor Piercing",11
+13964,40,".338 Mag Armor Piercing",11
+14013,3,".500 Frangible",11
+14064,38,"Lachmann Nova",2
+14116,15,"17"" Corvus Prorange",2
+14221,23,"50 Round Drum",13
+14362,20,"Bruen MX9 Stock",6
+10716,5,"DZM-1000 L",4
+10783,23,"TZL-90 V3",1
+14538,6,"Bruen RSH-80 Grip",16
+14539,6,"BP-Grain Grip",16
+14540,6,"Akimbo P890",16
+14541,1,"EXF Shoreline Grip",16
+13401,16,"Hex-40 Grip",8
+14542,1,"EXF Resistance Grip",16
+14543,1,"GS .50 Wood Grain",16
+14544,1,"Akimbo .50 GS",16
+14545,5,"Akimbo X12",16
+14546,5,"XRK Field Grip",16
+14547,13,"XRK Field Grip",16
+14548,5,"FTAC OL-Z Grip",16
+14549,13,"FTAC OL-Z Grip",16
+12447,8,"VX350 Thermal Optic",5
+11340,11,"OVL-70 Comp",1
+11341,33,"Flash Twist-90",1
+11342,30,"Flash Twist-90",1
+11343,11,"Flash Twist-90",1
+11344,33,"XTEN Quadflash",1
+11345,30,"XTEN Quadflash",1
+12602,43,"SZ Vortex-90",5
+12604,23,"SZ Vortex-90",5
+11245,28,"GL Clear Breach",1
+11246,29,"GL Clear Breach",1
+11247,2,"GL Clear Breach",1
+11249,21,"GL Clear Breach",1
+11250,22,"GL Clear Breach",1
+11251,7,"GL Clear Breach",1
+14874,47,"Schlager 3.4x",5
+11346,11,"XTEN Quadflash",1
+10557,14,"Luminate-44",4
+17986,10,"SZ Oscar-9",5
+18053,10,"3x RFL-Optic",5
+19042,19,"EXF Backdraft Grip",8
+14579,25,"FSS EL-T Pouch",7
+19044,23,"EXF Backdraft Grip",8
+19045,34,"EXF Backdraft Grip",8
+19046,28,"EXF Backdraft Grip",8
+19047,29,"EXF Backdraft Grip",8
+19048,18,"EXF Backdraft Grip",8
+19049,24,"EXF Backdraft Grip",8
+19050,41,"EXF Backdraft Grip",8
+19051,14,"EXF Backdraft Grip",8
+19053,15,"EXF Backdraft Grip",8
+19054,26,"EXF Backdraft Grip",8
+19078,34,"XTEN Nexus Grip",8
+19079,28,"XTEN Nexus Grip",8
+10568,32,"Luminate-44",4
+10569,45,"Luminate-44",4
+10570,31,"Luminate-44",4
+13435,19,"Schlager Tango",8
+13436,23,"Schlager Tango",8
+13437,34,"Schlager Tango",8
+13438,28,"Schlager Tango",8
+13439,29,"Schlager Tango",8
+13440,18,"Schlager Tango",8
+13441,24,"Schlager Tango",8
+13442,14,"Schlager Tango",8
+10676,42,"FJX Ultrabeam XR",4
+13446,33,"Schlager Tango",8
+13448,11,"Schlager Tango",8
+13449,2,"Schlager Tango",8
+13450,20,"Schlager Tango",8
+13451,36,"Schlager Tango",8
+13452,17,"Schlager Tango",8
+13020,8,"XTEN Gravedigger",8
+13021,4,"XTEN Gravedigger",8
+10571,37,"Luminate-44",4
+10572,25,"Luminate-44",4
+10573,12,"Luminate-44",4
+10575,8,"DXS Flash 90",4
+10576,4,"DXS Flash 90",4
+10577,35,"DXS Flash 90",4
+10578,16,"DXS Flash 90",4
+10579,43,"DXS Flash 90",4
+10580,19,"DXS Flash 90",4
+10581,23,"DXS Flash 90",4
+10582,34,"DXS Flash 90",4
+10583,28,"DXS Flash 90",4
+10584,29,"DXS Flash 90",4
+12215,10,"Schlager 3.4x",5
+10585,41,"DXS Flash 90",4
+11391,6,"Bruen Tri-Port",1
+11463,16,"SZ Mini",5
+11641,26,"SZ Minitac-40",5
+11700,1,"XRK On-Point Optic",5
+14630,3,"Basilisk HT-7",10
+12289,31,"Forge Tac Delta 4",5
+12367,31,"SZ Bullseye Optic",5
+12368,37,"SZ Bullseye Optic",5
+12369,25,"SZ Bullseye Optic",5
+10287,10,"SZ 1mW PEQ",4
+12370,12,"SZ Bullseye Optic",5
+12409,10,"Schlager Night View",5
+12410,8,"Schlager Night View",5
+12411,4,"Schlager Night View",5
+12412,35,"Schlager Night View",5
+12413,42,"Schlager Night View",5
+12414,16,"Schlager Night View",5
+12415,43,"Schlager Night View",5
+12416,19,"Schlager Night View",5
+12417,23,"Schlager Night View",5
+12418,34,"Schlager Night View",5
+12419,28,"Schlager Night View",5
+12420,29,"Schlager Night View",5
+12421,18,"Schlager Night View",5
+12422,27,"Schlager Night View",5
+13172,42,"FSS Sharkfin 90",8
+13173,16,"FSS Sharkfin 90",8
+13836,4,"7.62 Frangible",11
+14551,13,"Cronen LIMA-6",16
+12715,17,"Thermo-Optic X9",5
+12716,21,"Thermo-Optic X9",5
+12717,22,"Thermo-Optic X9",5
+12718,7,"Thermo-Optic X9",5
+12719,9,"Thermo-Optic X9",5
+12217,4,"Schlager 3.4x",5
+16188,10,"Cronen MAW-86",1
+14552,13,"Akimbo X13",16
+12180,42,"VLK 4.0 Optic",5
+18082,12,"SZ Ultra 11.5x",5
+18083,31,"Drexsom Prime-90 2",5
+18085,37,"Drexsom Prime-90 2",5
+18086,25,"Drexsom Prime-90 2",5
+18087,12,"Drexsom Prime-90 2",5
+18101,41,"Edge-47 Grip",8
+18132,41,"Demo Firm Grip",8
+18225,41,"Demo Cleanshot 40",8
+18257,41,"Demo IMP-44 Grip",8
+12423,24,"Schlager Night View",5
+12424,41,"Schlager Night View",5
+12425,44,"Schlager Night View",5
+12426,15,"Schlager Night View",5
+12427,26,"Schlager Night View",5
+12625,22,"SZ Vortex-90",5
+12912,7,"SP-X 80 6.6x",5
+13866,34,"7.62 Hollowpoint",11
+12256,4,"Forge Tac Delta 4",5
+12257,35,"Forge Tac Delta 4",5
+12258,42,"Forge Tac Delta 4",5
+12259,16,"Forge Tac Delta 4",5
+12261,19,"Forge Tac Delta 4",5
+12262,23,"Forge Tac Delta 4",5
+12263,34,"Forge Tac Delta 4",5
+12264,28,"Forge Tac Delta 4",5
+12265,29,"Forge Tac Delta 4",5
+12266,18,"Forge Tac Delta 4",5
+13129,22,"Demo IMP-44 Grip",8
+13130,9,"Demo IMP-44 Grip",8
+13131,38,"Demo IMP-44 Grip",8
+13132,32,"Demo IMP-44 Grip",8
+13133,45,"Demo IMP-44 Grip",8
+13134,37,"Demo IMP-44 Grip",8
+13169,8,"FSS Sharkfin 90",8
+13170,4,"FSS Sharkfin 90",8
+13171,35,"FSS Sharkfin 90",8
+12782,38,"FTAC Charlie7",5
+13174,43,"FSS Sharkfin 90",8
+13175,19,"FSS Sharkfin 90",8
+13176,23,"FSS Sharkfin 90",8
+12216,8,"Schlager 3.4x",5
+12710,30,"Thermo-Optic X9",5
+12711,11,"Thermo-Optic X9",5
+12712,2,"Thermo-Optic X9",5
+12713,20,"Thermo-Optic X9",5
+12714,40,"Thermo-Optic X9",5
+13177,34,"FSS Sharkfin 90",8
+13178,28,"FSS Sharkfin 90",8
+13232,37,"Agent Grip",8
+18290,41,"FTAC Tiger Grip",8
+18326,41,"FSS Sharkfin 90",8
+18362,41,"Agent Grip",8
+18398,41,"Bruen Sync Shot Grip",8
+13023,42,"XTEN Gravedigger",8
+13024,16,"XTEN Gravedigger",8
+13025,19,"XTEN Gravedigger",8
+13026,23,"XTEN Gravedigger",8
+13027,34,"XTEN Gravedigger",8
+13028,28,"XTEN Gravedigger",8
+13029,29,"XTEN Gravedigger",8
+13030,18,"XTEN Gravedigger",8
+13031,14,"XTEN Gravedigger",8
+13032,15,"XTEN Gravedigger",8
+13033,39,"XTEN Gravedigger",8
+13034,33,"XTEN Gravedigger",8
+13035,30,"XTEN Gravedigger",8
+13036,11,"XTEN Gravedigger",8
+13037,2,"XTEN Gravedigger",8
+13038,20,"XTEN Gravedigger",8
+13039,36,"XTEN Gravedigger",8
+13040,17,"XTEN Gravedigger",8
+13041,21,"XTEN Gravedigger",8
+13042,22,"XTEN Gravedigger",8
+13043,9,"XTEN Gravedigger",8
+12036,26,"Kazan-Holo",5
+13857,23,"7.62 Frangible",11
+13858,34,"7.62 Frangible",11
+13859,28,"7.62 Frangible",11
+13860,2,"7.62 Frangible",11
+13861,21,"7.62 Frangible",11
+13862,22,"7.62 Frangible",11
+13863,7,"7.62 Frangible",11
+10705,13,"FJX DIOD-70",4
+13101,9,"Demo Cleanshot 40",8
+19995,48,"Commando Foregrip",8
+12918,37,"SP-X 80 6.6x",5
+12039,30,"Kazan-Holo",5
+12040,11,"Kazan-Holo",5
+10784,34,"TZL-90 V3",1
+12041,2,"Kazan-Holo",5
+12042,20,"Kazan-Holo",5
+12043,36,"Kazan-Holo",5
+12044,40,"Kazan-Holo",5
+12045,17,"Kazan-Holo",5
+12182,43,"VLK 4.0 Optic",5
+12183,19,"VLK 4.0 Optic",5
+12184,23,"VLK 4.0 Optic",5
+12185,34,"VLK 4.0 Optic",5
+12186,28,"VLK 4.0 Optic",5
+12187,29,"VLK 4.0 Optic",5
+12614,26,"SZ Vortex-90",5
+12916,45,"SP-X 80 6.6x",5
+12917,31,"SP-X 80 6.6x",5
+12919,22,"FTAC Locus SP",5
+12920,7,"FTAC Locus SP",5
+12921,9,"FTAC Locus SP",5
+12922,38,"FTAC Locus SP",5
+12923,32,"FTAC Locus SP",5
+12924,45,"FTAC Locus SP",5
+12925,31,"FTAC Locus SP",5
+12926,37,"FTAC Locus SP",5
+12927,25,"FTAC Locus SP",5
+12928,12,"FTAC Locus SP",5
+12929,22,"SZ Heatsource 800",5
+12930,7,"SZ Heatsource 800",5
+12931,9,"SZ Heatsource 800",5
+12932,38,"SZ Heatsource 800",5
+12933,32,"SZ Heatsource 800",5
+12934,45,"SZ Heatsource 800",5
+12935,31,"SZ Heatsource 800",5
+12936,37,"SZ Heatsource 800",5
+12937,25,"SZ Heatsource 800",5
+12947,37,"Sightmax Clear Shot",5
+12948,25,"Sightmax Clear Shot",5
+12949,12,"Sightmax Clear Shot",5
+12953,31,"Corio 13x VRS",5
+12954,37,"Corio 13x VRS",5
+16221,41,"FSS Covert IV",1
+14578,7,"FSS EL-T Pouch",7
+14580,7,"Aim-Assist 406",7
+14581,25,"Aim-Assist 406",7
+14582,7,"Cronen G140 Cheek Riser",7
+14583,25,"Cronen G140 Cheek Riser",7
+13006,30,"Demo Firm Grip",8
+13191,36,"FSS Sharkfin 90",8
+13431,35,"Schlager Tango",8
+13663,29,"Bruen Warrior Grip",8
+12576,39,"Hybrid Firepoint",5
+12577,33,"Hybrid Firepoint",5
+12578,30,"Hybrid Firepoint",5
+12210,45,"VLK 4.0 Optic",5
+12585,21,"Hybrid Firepoint",5
+12594,25,"Hybrid Firepoint",5
+12595,12,"Hybrid Firepoint",5
+12597,8,"SZ Vortex-90",5
+12603,19,"SZ Vortex-90",5
+12063,43,"Corvus Downrange-00",5
+12064,19,"Corvus Downrange-00",5
+12065,23,"Corvus Downrange-00",5
+14055,19,"Kastovia 406",2
+12260,43,"Forge Tac Delta 4",5
+12586,22,"Hybrid Firepoint",5
+12589,38,"Hybrid Firepoint",5
+12590,32,"Hybrid Firepoint",5
+12591,45,"Hybrid Firepoint",5
+12592,31,"Hybrid Firepoint",5
+12593,37,"Hybrid Firepoint",5
+12950,31,"Signal 50 8x",5
+12066,34,"Corvus Downrange-00",5
+12067,28,"Corvus Downrange-00",5
+12596,10,"SZ Vortex-90",5
+10396,38,"FSS OLE-V Laser",4
+12124,17,"SZ Holotherm",5
+12125,21,"SZ Holotherm",5
+12126,22,"SZ Holotherm",5
+12127,7,"SZ Holotherm",5
+12128,9,"SZ Holotherm",5
+12129,38,"SZ Holotherm",5
+12142,43,"XTEN Angel-40",5
+12143,19,"XTEN Angel-40",5
+12144,23,"XTEN Angel-40",5
+12145,34,"XTEN Angel-40",5
+12146,28,"XTEN Angel-40",5
+12147,29,"XTEN Angel-40",5
+12148,18,"XTEN Angel-40",5
+12573,44,"Hybrid Firepoint",5
+12574,15,"Hybrid Firepoint",5
+12575,26,"Hybrid Firepoint",5
+12149,27,"XTEN Angel-40",5
+13285,33,"XTEN Drop Grip",8
+13583,9,"TV Wrecker Grip",8
+13787,8,"Hellscream 40mm",8
+13788,28,"Hellscream 40mm",8
+13789,4,"KL40-M2",8
+11915,41,"Corio RE-X Pro",5
+11916,44,"Corio RE-X Pro",5
+11917,15,"Corio RE-X Pro",5
+11918,26,"Corio RE-X Pro",5
+12587,7,"Hybrid Firepoint",5
+12038,33,"Kazan-Holo",5
+12721,32,"Thermo-Optic X9",5
+13044,38,"XTEN Gravedigger",8
+13048,10,"FTAC Ripper 56",8
+13103,32,"Demo Cleanshot 40",8
+13700,22,"Bipod V9 Grip",8
+12605,34,"SZ Vortex-90",5
+12606,28,"SZ Vortex-90",5
+12607,29,"SZ Vortex-90",5
+12608,18,"SZ Vortex-90",5
+13844,4,"7.62 High Velocity",11
+13845,17,"7.62 High Velocity",11
+13846,17,"7.62 Incendiary",11
+13847,43,"5.45 Frangible",11
+13848,19,"5.45 Frangible",11
+13849,43,"5.45 Hollowpoint",11
+13850,19,"5.45 Hollowpoint",11
+13851,43,"5.45 Armor Piercing",11
+13852,19,"5.45 Armor Piercing",11
+13853,43,"5.45 Overpressured +P",11
+13854,19,"5.45 Overpressured +P",11
+13855,43,"5.45 High Velocity",11
+13856,19,"5.45 High Velocity",11
+11919,39,"Corio RE-X Pro",5
+11920,33,"Corio RE-X Pro",5
+11921,30,"Corio RE-X Pro",5
+11922,11,"Corio RE-X Pro",5
+11923,2,"Corio RE-X Pro",5
+11924,20,"Corio RE-X Pro",5
+13864,38,"7.62 Frangible",11
+13865,23,"7.62 Hollowpoint",11
+13867,28,"7.62 Hollowpoint",11
+13868,2,"7.62 Hollowpoint",11
+13870,22,"7.62 Hollowpoint",11
+13871,7,"7.62 Hollowpoint",11
+13872,38,"7.62 Hollowpoint",11
+13873,23,"7.62 Armor Piercing",11
+13874,34,"7.62 Armor Piercing",11
+12612,44,"SZ Vortex-90",5
+12613,15,"SZ Vortex-90",5
+13915,27,"9mm Sub HP",11
+12130,32,"SZ Holotherm",5
+12131,45,"SZ Holotherm",5
+12132,37,"SZ Holotherm",5
+12133,1,"SZ Holotherm",5
+12134,3,"SZ Holotherm",5
+12135,13,"SZ Holotherm",5
+12136,10,"XTEN Angel-40",5
+12137,8,"XTEN Angel-40",5
+12138,4,"XTEN Angel-40",5
+12139,35,"XTEN Angel-40",5
+20143,2,"Bruen Warrior LMG",8
+12046,21,"Kazan-Holo",5
+12047,22,"Kazan-Holo",5
+12051,32,"Kazan-Holo",5
+12052,45,"Kazan-Holo",5
+12053,37,"Kazan-Holo",5
+12054,1,"Kazan-Holo",5
+12055,3,"Kazan-Holo",5
+12056,13,"Kazan-Holo",5
+12057,10,"Corvus Downrange-00",5
+12058,8,"Corvus Downrange-00",5
+12059,4,"Corvus Downrange-00",5
+12060,35,"Corvus Downrange-00",5
+12061,42,"Corvus Downrange-00",5
+12062,16,"Corvus Downrange-00",5
+20002,49,"Point-G3P 04",4
+20003,49,"FJX Ultrabeam XR",4
+20004,49,"EXF Solarflare",4
+20005,49,"1mW Artemis Laser",4
+20006,49,"7mW Canted Laser",4
+20007,49,"Eight-Point Flash Hider",1
+20009,49,"Cronen Dark KX30",1
+20010,49,"Husher-65 Silencer",1
+20017,49,"TY-LR8",1
+10662,11,"Hipshot L20",4
+10663,20,"Hipshot L20",4
+10665,42,"Point-G3P 04",4
+10666,18,"Point-G3P 04",4
+13478,33,"VX Pineapple",8
+13587,13,"TV Wrecker Grip",8
+13642,20,"Cronen Grooveshot Grip",8
+14781,48,"Teplo Clear Shot",5
+12030,18,"Kazan-Holo",5
+12031,27,"Kazan-Holo",5
+12675,8,"Angel-40 4.8x",5
+12480,12,"VX350 Thermal Optic",5
+10593,21,"DXS Flash 90",4
+13826,36,"5.56 Overpressured +P",11
+13827,10,"5.56 High Velocity",11
+13828,8,"5.56 High Velocity",11
+13829,35,"5.56 High Velocity",11
+12609,27,"SZ Vortex-90",5
+12610,24,"SZ Vortex-90",5
+12611,41,"SZ Vortex-90",5
+13830,42,"5.56 High Velocity",11
+13831,16,"5.56 High Velocity",11
+13832,20,"5.56 High Velocity",11
+13833,36,"5.56 High Velocity",11
+12942,31,"Victus 13x",5
+12140,42,"XTEN Angel-40",5
+12141,16,"XTEN Angel-40",5
+10667,27,"Point-G3P 04",4
+10668,24,"Point-G3P 04",4
+10669,15,"Point-G3P 04",4
+10670,39,"Point-G3P 04",4
+10671,33,"Point-G3P 04",4
+10678,27,"FJX Ultrabeam XR",4
+10679,24,"FJX Ultrabeam XR",4
+10680,15,"FJX Ultrabeam XR",4
+10681,39,"FJX Ultrabeam XR",4
+14320,19,"Kastov-Rama",6
+10682,33,"FJX Ultrabeam XR",4
+10683,30,"FJX Ultrabeam XR",4
+10684,11,"FJX Ultrabeam XR",4
+14633,46,"1mW Quick Fire Laser",4
+10685,20,"FJX Ultrabeam XR",4
+10686,9,"FJX Ultrabeam XR",4
+10687,42,"EXF Solarflare",4
+11925,36,"Corio RE-X Pro",5
+11926,40,"Corio RE-X Pro",5
+11927,17,"Corio RE-X Pro",5
+11928,21,"Corio RE-X Pro",5
+11929,22,"Corio RE-X Pro",5
+11930,7,"Corio RE-X Pro",5
+11931,9,"Corio RE-X Pro",5
+13875,28,"7.62 Armor Piercing",11
+14635,46,"VLK LZR 7mW",4
+13876,2,"7.62 Armor Piercing",11
+13877,21,"7.62 Armor Piercing",11
+13878,22,"7.62 Armor Piercing",11
+12943,37,"Victus 13x",5
+18575,41,"Hex-40 Grip",8
+13735,19,"Cornerstone Bipod",8
+13736,23,"Cornerstone Bipod",8
+13737,34,"Cornerstone Bipod",8
+13738,28,"Cornerstone Bipod",8
+13739,29,"Cornerstone Bipod",8
+13740,36,"Cornerstone Bipod",8
+13741,21,"Cornerstone Bipod",8
+13742,22,"Cornerstone Bipod",8
+13743,7,"Cornerstone Bipod",8
+13744,9,"Cornerstone Bipod",8
+13745,38,"Cornerstone Bipod",8
+13746,32,"Cornerstone Bipod",8
+13747,45,"Cornerstone Bipod",8
+13748,31,"Cornerstone Bipod",8
