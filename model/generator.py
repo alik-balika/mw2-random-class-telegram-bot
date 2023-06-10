@@ -3,6 +3,7 @@ import random
 from model.weapon import Weapon
 from model.data import *
 
+
 class RandomClassGenerator:
     def __init__(self):
         self.weapons = {}
@@ -14,7 +15,7 @@ class RandomClassGenerator:
         self.lethal = ""
         self.perks = []
         self.field_upgrades = []
-        self.kill_streaks = []
+        self.kill_streaks = {}
 
     def add_weapon(self, weapon_name):
         if weapon_name not in self.weapons:
@@ -64,7 +65,30 @@ class RandomClassGenerator:
         del field_upgrades[random_index]
 
     def randomize_kill_streaks(self):
-        pass
+        kill_streaks = all_kill_streaks.copy()
+        self._add_kill_streak_to_kill_streaks(kill_streaks)
+        self._add_kill_streak_to_kill_streaks(kill_streaks)
+        self._add_kill_streak_to_kill_streaks(kill_streaks)
+
+        self.kill_streaks = dict(sorted(
+            self.kill_streaks.items(),
+            key=lambda item: item[1]))
+
+    def _add_kill_streak_to_kill_streaks(self, kill_streaks):
+        streak = random.choice(list(kill_streaks.keys()))
+        kills = kill_streaks[streak]
+        self.kill_streaks[streak] = kills
+
+        self._delete_kill_streaks_that_have_same_number_of_kills(kills, kill_streaks)
+
+    def _delete_kill_streaks_that_have_same_number_of_kills(self, kills, kill_streaks):
+        keys_to_delete = []
+        for key, value in kill_streaks.items():
+            if value == kills:
+                keys_to_delete.append(key)
+
+        for key in keys_to_delete:
+            del kill_streaks[key]
 
     def randomize_weapon(self):
         pass
@@ -81,4 +105,4 @@ class RandomClassGenerator:
         self.lethal = ""
         self.perks = []
         self.field_upgrades = []
-        self.kill_streaks = []
+        self.kill_streaks = {}

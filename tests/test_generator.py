@@ -12,8 +12,4 @@ class GeneratorTest(unittest.TestCase):
         self.assertTrue("M16" in self.generator.weapons)
 
     def test_generate_random_class(self):
-
-
-    # def test_get_random_weapon(self):
-    #     random_weapon = self.generator.get_random_weapon()
-    #     self.assertEqual("Weapon1", random_weapon)
+        pass

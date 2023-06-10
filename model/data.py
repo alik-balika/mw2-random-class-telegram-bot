@@ -81,37 +81,59 @@ all_field_upgrades = [
   "Dead Silence",
 ]
 
-all_kill_streaks = [
-  {
-    "streaks": ["UAV", "Bomb Drone"],
-    "kills": 4,
-  },
-  {
-    "streaks": ["Counter UAV", "Care Package", "Cluster Mine"],
-    "kills": 5,
-  },
-  {
-    "streaks": ["Precision Airstrike", "Cruise Missile", "Mortar Strike"],
-    "kills": 6,
-  },
-  {
-    "streaks": ["S.A.E", "Sentry Gun"],
-    "kills": 7,
-  },
-  {
-    "streaks": ["VTOL Jet", "Overwatch Helo", "Wheelson-HS"],
-    "kills": 8,
-  },
-  {
-    "streaks": ["Stealth Bomber", "Chopper Gunner", "Emergency Airdrop"],
-    "kills": 10,
-  },
-  {
-    "streaks": ["Gunship", "Advanced UAV"],
-    "kills": 12,
-  },
-  {
-    "streaks": ["Juggernaut"],
-    "kills": 15,
-  },
-]
+all_kill_streaks = {
+    "UAV": 4,
+    "Bomb Drone": 4,
+    "Counter UAV": 5,
+    "Care Package": 5,
+    "Cluster Mine": 5,
+    "Precision Airstrike": 6,
+    "Cruise Missile": 6,
+    "Mortar Strike": 6,
+    "S.A.E": 7,
+    "Sentry Gun": 7,
+    "VTOL Jet": 8,
+    "Overwatch Helo": 8,
+    "Wheelson-HS": 8,
+    "Stealth Bomber": 10,
+    "Chopper Gunner": 10,
+    "Emergency Airdrop": 10,
+    "Gunship": 12,
+    "Advanced UAV": 12,
+    "Juggernaut": 15
+}
+
+# all_kill_streaks = [
+#   {
+#     "streaks": ["UAV", "Bomb Drone"],
+#     "kills": 4,
+#   },
+#   {
+#     "streaks": ["Counter UAV", "Care Package", "Cluster Mine"],
+#     "kills": 5,
+#   },
+#   {
+#     "streaks": ["Precision Airstrike", "Cruise Missile", "Mortar Strike"],
+#     "kills": 6,
+#   },
+#   {
+#     "streaks": ["S.A.E", "Sentry Gun"],
+#     "kills": 7,
+#   },
+#   {
+#     "streaks": ["VTOL Jet", "Overwatch Helo", "Wheelson-HS"],
+#     "kills": 8,
+#   },
+#   {
+#     "streaks": ["Stealth Bomber", "Chopper Gunner", "Emergency Airdrop"],
+#     "kills": 10,
+#   },
+#   {
+#     "streaks": ["Gunship", "Advanced UAV"],
+#     "kills": 12,
+#   },
+#   {
+#     "streaks": ["Juggernaut"],
+#     "kills": 15,
+#   },
+# ]
