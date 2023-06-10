@@ -46,10 +46,12 @@ class RandomClassGenerator:
         del perks_list[random_index]
 
     def randomize_tactical(self):
-        pass
+        random_index = random.randint(0, len(all_tacticals) - 1)
+        self.tactical = all_tacticals[random_index]
 
     def randomize_lethal(self):
-        pass
+        random_index = random.randint(0, len(all_lethals) - 1)
+        self.lethal = all_lethals[random_index]
 
     def randomize_field_upgrades(self):
         pass
