@@ -1,3 +1,5 @@
+import random
+
 from model.weapon import Weapon
 from model.data import *
 
@@ -29,9 +31,19 @@ class RandomClassGenerator:
         self.randomize_kill_streaks()
 
     def randomize_perks(self):
-        base_perks = all_perks["base"]
-        bonus_perks = all_perks["bonus"]
-        ultimate_perks = all_perks["ultimate"]
+        base_perks = all_perks["base"].copy()
+        bonus_perks = all_perks["bonus"].copy()
+        ultimate_perks = all_perks["ultimate"].copy()
+
+        self._add_perk_to_perks(base_perks)
+        self._add_perk_to_perks(base_perks)
+        self._add_perk_to_perks(bonus_perks)
+        self._add_perk_to_perks(ultimate_perks)
+
+    def _add_perk_to_perks(self, perks_list):
+        random_index = random.randint(0, len(perks_list) - 1)
+        self.perks.append(perks_list[random_index])
+        del perks_list[random_index]
 
     def randomize_tactical(self):
         pass
