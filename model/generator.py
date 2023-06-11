@@ -3,6 +3,8 @@ import random
 from model.weapon import Weapon
 from model.data import *
 
+NUM_ATTACHMENTS = 5
+
 
 class RandomClassGenerator:
     def __init__(self):
@@ -30,6 +32,7 @@ class RandomClassGenerator:
         self.randomize_lethal()
         self.randomize_field_upgrades()
         self.randomize_kill_streaks()
+        self.randomize_weapons()
 
     def randomize_perks(self):
         base_perks = all_perks["base"].copy()
@@ -90,8 +93,43 @@ class RandomClassGenerator:
         for key in keys_to_delete:
             del kill_streaks[key]
 
-    def randomize_weapon(self):
-        pass
+    def randomize_weapons(self):
+        primary_copy = self.randomize_primary()
+        self.randomize_secondary(primary_copy)
+
+    def randomize_primary(self):
+        primary_copy = primary_weapons.copy()
+        primary, primary_attachments = self.randomize_weapon(primary_copy)
+        self.primary_weapon = primary
+        self.primary_attachments = primary_attachments
+        primary_copy.remove(primary)
+        return primary_copy
+
+    def randomize_secondary(self, primary_copy):
+        secondary_copy = secondary_weapons.copy()
+        if "Overkill" in self.perks:
+            secondary, secondary_attachments = self.randomize_weapon(primary_copy)
+        else:
+            secondary, secondary_attachments = self.randomize_weapon(secondary_copy)
+        self.secondary_weapon = secondary
+        self.secondary_attachments = secondary_attachments
+
+    def randomize_weapon(self, weapon_list):
+        weapon = random.choice(list(weapon_list))
+        weapon_attachments = []
+        attachments = self.weapons[weapon].get_attachments_copy()
+
+        num_attachments = min(random.randint(0, 5), len(attachments))
+        for i in range(num_attachments):
+            self.grab_random_attachment_and_append_to_list(attachments, weapon_attachments)
+
+        return weapon, weapon_attachments
+
+    def grab_random_attachment_and_append_to_list(self, attachments, weapon_attachments):
+        slot = random.choice(list(attachments.keys()))
+        attachment = random.choice(attachments[slot])
+        weapon_attachments.append(attachment)
+        del attachments[slot]
 
     def randomize_attachments(self, weapon):
         pass

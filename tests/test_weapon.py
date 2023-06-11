@@ -14,8 +14,8 @@ class WeaponTest(unittest.TestCase):
 
     def test_add_attachment_to_slot__slot_exists_in_weapon(self):
         self.weapon.add_attachment_to_slot("Attachment1", "Slot1")
-        self.assertTrue("Attachment1" in self.weapon.slots_to_attachments["Slot1"])
+        self.assertTrue("Attachment1" in self.weapon.attachments["Slot1"])
 
     def test_add_attachment_to_slot__slot_does_not_exist_in_weapon(self):
         self.weapon.add_attachment_to_slot("Attachment1", "Slot1")
-        self.assertTrue("Attachment1" in self.weapon.slots_to_attachments["Slot1"])
+        self.assertTrue("Attachment1" in self.weapon.attachments["Slot1"])

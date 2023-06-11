@@ -47,9 +47,16 @@ def _read_modifications_file(csv_file, weapons, slots):
 
 def _create_generator(csv_reader, weapons, slots):
     generator = RandomClassGenerator()
+    _add_weapons_with_no_attachments(generator)
     for row in csv_reader:
         _parse_fields_from_csv_and_generate_weapon(generator, row, slots, weapons)
     return generator
+
+
+def _add_weapons_with_no_attachments(generator):
+    melee_and_launchers = {'RPG-7', 'Strela-P', 'Riot Shield', 'Dual Kodachis', 'PILA', 'Combat Knife', 'JOKR'}
+    for weapon in melee_and_launchers:
+        generator.add_weapon(weapon)
 
 
 def _parse_fields_from_csv_and_generate_weapon(generator, row, slots, weapons):
