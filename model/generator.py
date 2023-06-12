@@ -11,8 +11,8 @@ class RandomClassGenerator:
         self.weapons = {}
         self.primary_weapon = ""
         self.secondary_weapon = ""
-        self.primary_attachments = []
-        self.secondary_attachments = []
+        self.primary_attachments = {}
+        self.secondary_attachments = {}
         self.tactical = ""
         self.lethal = ""
         self.perks = []
@@ -116,7 +116,7 @@ class RandomClassGenerator:
 
     def randomize_weapon(self, weapon_list):
         weapon = random.choice(list(weapon_list))
-        weapon_attachments = []
+        weapon_attachments = {}
         attachments = self.weapons[weapon].get_attachments_copy()
 
         num_attachments = min(random.randint(0, 5), len(attachments))
@@ -128,7 +128,7 @@ class RandomClassGenerator:
     def grab_random_attachment_and_append_to_list(self, attachments, weapon_attachments):
         slot = random.choice(list(attachments.keys()))
         attachment = random.choice(attachments[slot])
-        weapon_attachments.append(attachment)
+        weapon_attachments[slot] = attachment
         del attachments[slot]
 
     def randomize_attachments(self, weapon):
@@ -137,10 +137,37 @@ class RandomClassGenerator:
     def clear(self):
         self.primary_weapon = ""
         self.secondary_weapon = ""
-        self.primary_attachments = []
-        self.secondary_attachments = []
+        self.primary_attachments = {}
+        self.secondary_attachments = {}
         self.tactical = ""
         self.lethal = ""
         self.perks = []
         self.field_upgrades = []
         self.kill_streaks = {}
+
+    def __str__(self):
+        output = ""
+
+        output += self.append_weapon_and_attachments("Primary", self.primary_weapon, self.primary_attachments)
+        output += self.append_weapon_and_attachments("Secondary", self.secondary_weapon, self.secondary_attachments)
+        output += f"*Tactical*: {self.tactical}\n"
+        output += f"*Lethal*: {self.lethal}\n"
+        output += self.append_items_in_list("Perks", self.perks)
+        output += self.append_items_in_list("Field Upgrades", self.field_upgrades)
+        output += self.append_items_in_list("Kill Streaks", self.kill_streaks)
+
+        return output
+
+    def append_weapon_and_attachments(self, weapon_type, weapon, attachments):
+        output = f"*{weapon_type}*: {weapon}\n"
+        if len(attachments) != 0:
+            for slot, attachment in attachments.items():
+                output += f"     *{slot}* - {attachment}\n"
+        return output
+
+    def append_items_in_list(self, name, the_list):
+        output = f"*{name}*:\n"
+        for item in the_list:
+            output += f"     {item}\n"
+
+        return output
