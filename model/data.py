@@ -4,7 +4,7 @@ primary_weapons = {"M16", "FTAC Recon", "SO-14", "TAQ-V", "Rapp H", "SA-B 50", "
            "EBR-14", "LM-S", "TAQ-M", "SP-X 80", "FSS Hurricane", "Chimera", "M4", "556 Icarus", "Crossbow",
            "Victus XMR", "MCPR-300", "Minibak", "Vaznev-9K", "Kastov 762", "M13B", "Lachmann-762", "HCR 56",
            "Sakin MG38", "KV Broadside", "PDSW 528", "Signal 50", "Fennec 45", "STB 556", "Raal MG", "RPK",
-           "Riot Shield"}
+           "Riot Shield", "Tempus Razorback", "ISO 45"}
 
 secondary_weapons = {"FTAC Siege", "GS Magna", "Dual Kodachis", "Combat Knife", "RPG-7", "PILA", "JOKR",
              "Strela-P", "X12", ".50 GS", "Basilisk", "P890", "X13 Auto"}
@@ -102,38 +102,3 @@ all_kill_streaks = {
     "Advanced UAV": 12,
     "Juggernaut": 15
 }
-
-# all_kill_streaks = [
-#   {
-#     "streaks": ["UAV", "Bomb Drone"],
-#     "kills": 4,
-#   },
-#   {
-#     "streaks": ["Counter UAV", "Care Package", "Cluster Mine"],
-#     "kills": 5,
-#   },
-#   {
-#     "streaks": ["Precision Airstrike", "Cruise Missile", "Mortar Strike"],
-#     "kills": 6,
-#   },
-#   {
-#     "streaks": ["S.A.E", "Sentry Gun"],
-#     "kills": 7,
-#   },
-#   {
-#     "streaks": ["VTOL Jet", "Overwatch Helo", "Wheelson-HS"],
-#     "kills": 8,
-#   },
-#   {
-#     "streaks": ["Stealth Bomber", "Chopper Gunner", "Emergency Airdrop"],
-#     "kills": 10,
-#   },
-#   {
-#     "streaks": ["Gunship", "Advanced UAV"],
-#     "kills": 12,
-#   },
-#   {
-#     "streaks": ["Juggernaut"],
-#     "kills": 15,
-#   },
-# ]
