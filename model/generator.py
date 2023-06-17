@@ -8,6 +8,8 @@ NUM_ATTACHMENTS = 5
 
 class RandomClassGenerator:
     def __init__(self):
+        self.is_overkill_on = None
+        self.num_attachments = None
         self.weapons = {}
         self.primary_weapon = ""
         self.secondary_weapon = ""
@@ -26,7 +28,9 @@ class RandomClassGenerator:
     def get_weapon(self, weapon_name):
         return self.weapons[weapon_name]
 
-    def generate_random_class(self):
+    def generate_random_class(self, num_attachments, is_overkill_on):
+        self.num_attachments = num_attachments
+        self.is_overkill_on = is_overkill_on
         self.randomize_perks()
         self.randomize_tactical()
         self.randomize_lethal()
@@ -39,7 +43,13 @@ class RandomClassGenerator:
         bonus_perks = all_perks["bonus"].copy()
         ultimate_perks = all_perks["ultimate"].copy()
 
-        self._add_perk_to_perks(base_perks)
+        if self.is_overkill_on:
+            overkill_index = base_perks.index("Overkill")
+            self.perks.append(base_perks[overkill_index])
+            del base_perks[overkill_index]
+        else:
+            self._add_perk_to_perks(base_perks)
+
         self._add_perk_to_perks(base_perks)
         self._add_perk_to_perks(bonus_perks)
         self._add_perk_to_perks(ultimate_perks)
@@ -119,7 +129,10 @@ class RandomClassGenerator:
         weapon_attachments = {}
         attachments = self.weapons[weapon].get_attachments_copy()
 
-        num_attachments = min(random.randint(0, 5), len(attachments))
+        num_attachments = len(attachments)
+        num_attachments = min(self.num_attachments if self.num_attachments is not None
+                              else random.randint(0, 5), num_attachments)
+
         for i in range(num_attachments):
             self.grab_random_attachment_and_append_to_list(attachments, weapon_attachments)
 
@@ -135,6 +148,8 @@ class RandomClassGenerator:
         pass
 
     def clear(self):
+        self.is_overkill_on = None
+        self.num_attachments = None
         self.primary_weapon = ""
         self.secondary_weapon = ""
         self.primary_attachments = {}
