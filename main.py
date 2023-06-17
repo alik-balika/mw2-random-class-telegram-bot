@@ -86,6 +86,13 @@ Feel free to experiment and customize your class generation!
     await context.bot.send_message(chat_id=update.effective_chat.id, text=help_text, parse_mode="Markdown")
 
 
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user = update.effective_user
+    await context.bot.send_message(chat_id=update.effective_chat.id, text=f"Hello {user.first_name}! Welcome to the "
+                                                                          f"bot. Use /help to see the available "
+                                                                          f"commands.")
+
+
 def main():
     global generator
     generator = create_the_generator()
@@ -94,8 +101,10 @@ def main():
 
     generate_handler = CommandHandler('generate', generate)
     help_handler = CommandHandler('help', help_command)
+    start_handler = CommandHandler('start', start)
     application.add_handler(generate_handler)
     application.add_handler(help_handler)
+    application.add_handler(start_handler)
 
     application.run_polling()
 
