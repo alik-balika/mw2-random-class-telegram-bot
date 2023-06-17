@@ -19,11 +19,25 @@ def create_the_generator():
 
 # noinspection PyUnresolvedReferences
 async def generate(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    print(get_user_name(update) + " generated a random class")
     num_attachments, is_overkill_on = parse_args(context.args)
 
     generator.generate_random_class(num_attachments, is_overkill_on)
     await context.bot.send_message(chat_id=update.effective_chat.id, text=str(generator), parse_mode="Markdown")
     generator.clear()
+
+
+def get_user_name(update: Update):
+    user = update.effective_user
+    if user:
+        name = user.first_name
+        if user.last_name:
+            name += " " + user.last_name
+        if user.username:
+            name += " (@" + user.username + ")"
+        return name
+    else:
+        return "Unknown User"
 
 
 def parse_args(args):
